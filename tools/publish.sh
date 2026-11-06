@@ -10,7 +10,7 @@ git add -A feed
 if git diff --cached --quiet; then echo "feed unchanged"; exit 0; fi
 git -c user.name="Compound" -c user.email="natdanai2707@gmail.com" commit -q -m "Add $2"
 for attempt in 1 2 3; do
-  git fetch -q origin main && git rebase -q origin/main || true
+  git fetch -q origin main && git rebase -q FETCH_HEAD || true
   if git push -q origin HEAD:main; then echo "pushed $2"; exit 0; fi
   sleep 5
 done
