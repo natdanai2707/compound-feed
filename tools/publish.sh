@@ -2,9 +2,10 @@
 # Add one Compound brief to the feed and push it.
 # Usage: tools/publish.sh <brief.json> <doc_id>
 set -euo pipefail
-cd "$(dirname "$0")/.."
 [ $# -eq 2 ] || { echo "usage: tools/publish.sh <brief.json> <doc_id>"; exit 2; }
-python3 tools/compound_epub.py "$1" "$2" feed
+BRIEF="$(cd "$(dirname "$1")" && pwd)/$(basename "$1")"
+cd "$(dirname "$0")/.."
+python3 tools/compound_epub.py "$BRIEF" "$2" feed
 git add -A feed
 if git diff --cached --quiet; then echo "feed unchanged"; exit 0; fi
 git -c user.name="Compound" -c user.email="natdanai2707@gmail.com" commit -q -m "Add $2"
