@@ -1,15 +1,15 @@
 # Compound feed: file, type, date, title, created_at (newest first)
 concept-2026-11-07.epub	concept	2026-11-07	How Mixue became the world's largest food chain with US$1 drinks	2026-11-06T23:46:11.463288+00:00
-concept-2026-11-06-2342.epub	concept	2026-11-06	How Hilti beat cheaper tool brands by selling working tools, not drills	2026-11-06T23:42:25+07:00
 news-2026-11-07.epub	news	2026-11-07	AI rout and a hawkish Fed rattle markets	2026-11-06T23:15:15+00:00
+concept-2026-11-06-2342.epub	concept	2026-11-06	How Hilti beat cheaper tool brands by selling working tools, not drills	2026-11-06T23:42:25+07:00
 concept-2026-11-06.epub	concept	2026-11-06	Why a bank mailed credit cards to a whole city without asking	2026-11-06T06:46:19+07:00
 news-2026-11-06.epub	news	2026-11-06	AI rout gives Wall Street its worst day since April 2025	2026-11-06T06:40:00+07:00
-news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00
 concept-2026-11-05.epub	concept	2026-11-05	Why a Coke cost a nickel for 70 years	2026-11-04T23:46:36+00:00
+news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00
 concept-2026-11-04.epub	concept	2026-11-04	Why enemy soldiers stopped shooting each other in the trenches	2026-11-04T06:47:11+07:00
 news-2026-11-04.epub	news	2026-11-04	AMD Lifts Chips as the 10-Year Yield Nears 5%	2026-11-03T23:16:51Z
-news-2026-11-03.epub	news	2026-11-03	Oil plunges on Iran talks as AI stocks slide before the midterms	2026-11-03T06:16:18+07:00
 concept-2026-11-03.epub	concept	2026-11-03	Why a fight over frozen chicken still decides which pickups Americans can buy	2026-11-02T23:47:00Z
+news-2026-11-03.epub	news	2026-11-03	Oil plunges on Iran talks as AI stocks slide before the midterms	2026-11-03T06:16:18+07:00
 concept-2026-11-02.epub	concept	2026-11-02	Why Silicon Valley got rich by letting its people walk out	2026-11-01T23:44:56+00:00
 news-2026-11-02.epub	news	2026-11-02	Tech Rout Caps October as Fed Hike Bets Grow	2026-11-01T23:14:30Z
 concept-2026-11-01.epub	concept	2026-11-01	Why nobody sells their diamond ring	2026-11-01T06:50:00+07:00
@@ -22,8 +22,8 @@ concept-2026-10-29.epub	concept	2026-10-29	Why J.P. Morgan locked 120 bankers in
 news-2026-10-29.epub	news	2026-10-29	Fed holds, but two hawks and $114 oil keep yields above 5%	2026-10-29T06:15:23+07:00
 concept-2026-10-28.epub	concept	2026-10-28	Why American shops once needed two telephones	2026-10-27T23:45:00Z
 news-2026-10-28.epub	news	2026-10-28	Tech rallies as markets brace for a hawkish Fed	2026-10-27T23:17:32Z
-news-2026-10-27.epub	news	2026-10-27	AI IPO lifts Wall Street as central bank super week begins	2026-10-27T06:25:00+07:00
 concept-2026-10-27.epub	concept	2026-10-27	Why honest prices nearly killed J.C. Penney	2026-10-26T23:44:37Z
+news-2026-10-27.epub	news	2026-10-27	AI IPO lifts Wall Street as central bank super week begins	2026-10-27T06:25:00+07:00
 concept-2026-10-26.epub	concept	2026-10-26	Why Britain bricked up its own windows	2026-10-26T06:45:00+07:00
 news-2026-10-26.epub	news	2026-10-26	Oil Hits Six-Month High as Fed Week Begins	2026-10-26T06:30:00+07:00
 concept-2026-10-25-2332.epub	concept	2026-10-25	Why IKEA makes you build your own furniture, and why you like it more	2026-10-25T23:32:59+07:00

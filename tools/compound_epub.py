@@ -18,6 +18,18 @@ import uuid
 import zipfile
 
 INDEX = "index.txt"
+
+
+def sort_key(row):
+    """created_at in UTC (briefs mix +00:00 and +07:00); falls back to the date."""
+    from datetime import datetime, timezone
+    try:
+        t = datetime.fromisoformat(row[4].replace("Z", "+00:00"))
+        if t.tzinfo is None:
+            t = t.replace(tzinfo=timezone.utc)
+        return t.astimezone(timezone.utc).isoformat()
+    except (ValueError, IndexError):
+        return (row[2] or "") + "T00:00:00+00:00"
 FIXED_TIME = (1980, 1, 1, 0, 0, 0)
 
 
@@ -197,7 +209,7 @@ def main():
     title = " ".join(str(b.get("title_en") or doc_id).split())
     row = [epub_name, b.get("type", ""), b.get("date", ""), title, b.get("created_at", "")]
     rows = [r for r in read_index(feed_dir) if r[0] != epub_name] + [row]
-    rows.sort(key=lambda r: (r[4] or r[2]), reverse=True)
+    rows.sort(key=sort_key, reverse=True)
     kept, dropped = rows[:keep], rows[keep:]
     for r in dropped:
         try:
