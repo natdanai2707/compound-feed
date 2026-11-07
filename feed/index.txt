@@ -1,31 +1,31 @@
-# Compound feed: file, type, date, title, created_at (newest first)
-concept-2026-11-07.epub	concept	2026-11-07	How Mixue became the world's largest food chain with US$1 drinks	2026-11-06T23:46:11.463288+00:00
-news-2026-11-07.epub	news	2026-11-07	AI rout and a hawkish Fed rattle markets	2026-11-06T23:15:15+00:00
-concept-2026-11-06-2342.epub	concept	2026-11-06	How Hilti beat cheaper tool brands by selling working tools, not drills	2026-11-06T23:42:25+07:00
-concept-2026-11-06.epub	concept	2026-11-06	Why a bank mailed credit cards to a whole city without asking	2026-11-06T06:46:19+07:00
-news-2026-11-06.epub	news	2026-11-06	AI rout gives Wall Street its worst day since April 2025	2026-11-06T06:40:00+07:00
-concept-2026-11-05.epub	concept	2026-11-05	Why a Coke cost a nickel for 70 years	2026-11-04T23:46:36+00:00
-news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00
-concept-2026-11-04.epub	concept	2026-11-04	Why enemy soldiers stopped shooting each other in the trenches	2026-11-04T06:47:11+07:00
-news-2026-11-04.epub	news	2026-11-04	AMD Lifts Chips as the 10-Year Yield Nears 5%	2026-11-03T23:16:51Z
-concept-2026-11-03.epub	concept	2026-11-03	Why a fight over frozen chicken still decides which pickups Americans can buy	2026-11-02T23:47:00Z
-news-2026-11-03.epub	news	2026-11-03	Oil plunges on Iran talks as AI stocks slide before the midterms	2026-11-03T06:16:18+07:00
-concept-2026-11-02.epub	concept	2026-11-02	Why Silicon Valley got rich by letting its people walk out	2026-11-01T23:44:56+00:00
-news-2026-11-02.epub	news	2026-11-02	Tech Rout Caps October as Fed Hike Bets Grow	2026-11-01T23:14:30Z
-concept-2026-11-01.epub	concept	2026-11-01	Why nobody sells their diamond ring	2026-11-01T06:50:00+07:00
-news-2026-11-01.epub	news	2026-11-01	AI doubts and Hormuz oil shock end October on a sour note	2026-10-31T23:14:57+00:00
-concept-2026-10-31.epub	concept	2026-10-31	How a coffee house became the world's insurance market	2026-10-31T06:50:00+07:00
-news-2026-10-31.epub	news	2026-10-31	AI spending doubts and Hormuz oil shock end October on a sour note	2026-10-30T23:15:15+00:00
-concept-2026-10-30.epub	concept	2026-10-30	How a trucker's steel box emptied New York's docks	2026-10-30T06:50:00+07:00
-news-2026-10-30.epub	news	2026-10-30	AI spending fears hit tech as hot US data keeps a Fed hike in play	2026-10-30T06:15:12+07:00
-concept-2026-10-29.epub	concept	2026-10-29	Why J.P. Morgan locked 120 bankers in his library	2026-10-29T06:50:00+07:00
-news-2026-10-29.epub	news	2026-10-29	Fed holds, but two hawks and $114 oil keep yields above 5%	2026-10-29T06:15:23+07:00
-concept-2026-10-28.epub	concept	2026-10-28	Why American shops once needed two telephones	2026-10-27T23:45:00Z
-news-2026-10-28.epub	news	2026-10-28	Tech rallies as markets brace for a hawkish Fed	2026-10-27T23:17:32Z
-concept-2026-10-27.epub	concept	2026-10-27	Why honest prices nearly killed J.C. Penney	2026-10-26T23:44:37Z
-news-2026-10-27.epub	news	2026-10-27	AI IPO lifts Wall Street as central bank super week begins	2026-10-27T06:25:00+07:00
-concept-2026-10-26.epub	concept	2026-10-26	Why Britain bricked up its own windows	2026-10-26T06:45:00+07:00
-news-2026-10-26.epub	news	2026-10-26	Oil Hits Six-Month High as Fed Week Begins	2026-10-26T06:30:00+07:00
-concept-2026-10-25-2332.epub	concept	2026-10-25	Why IKEA makes you build your own furniture, and why you like it more	2026-10-25T23:32:59+07:00
-concept-2026-10-25-2331.epub	concept	2026-10-25	Why a tyre company decides which restaurants are the best in the world	2026-10-25T23:31:33+07:00
-concept-2026-10-25-2301.epub	concept	2026-10-25	Why paying for dead rats gave Hanoi more rats	2026-10-25T23:01:27+07:00
+# Compound feed: file, type, date, title, created_at, hash (newest first)
+concept-2026-11-07.epub	concept	2026-11-07	How Mixue became the world's largest food chain with US$1 drinks	2026-11-06T23:46:11.463288+00:00	60e1331df574
+news-2026-11-07.epub	news	2026-11-07	AI rout and a hawkish Fed rattle markets	2026-11-06T23:15:15+00:00	1424f95e4ba4
+concept-2026-11-06-2342.epub	concept	2026-11-06	How Hilti beat cheaper tool brands by selling working tools, not drills	2026-11-06T23:42:25+07:00	e360aa9cd940
+concept-2026-11-06.epub	concept	2026-11-06	Why a bank mailed credit cards to a whole city without asking	2026-11-06T06:46:19+07:00	492a2e8c0532
+news-2026-11-06.epub	news	2026-11-06	AI rout gives Wall Street its worst day since April 2025	2026-11-06T06:40:00+07:00	2b90a51847b7
+concept-2026-11-05.epub	concept	2026-11-05	Why a Coke cost a nickel for 70 years	2026-11-04T23:46:36+00:00	3d63aa2e47e0
+news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00	8b46da8f079c
+concept-2026-11-04.epub	concept	2026-11-04	Why enemy soldiers stopped shooting each other in the trenches	2026-11-04T06:47:11+07:00	f2b2f84ff5b9
+news-2026-11-04.epub	news	2026-11-04	AMD Lifts Chips as the 10-Year Yield Nears 5%	2026-11-03T23:16:51Z	5d4495773a68
+concept-2026-11-03.epub	concept	2026-11-03	Why a fight over frozen chicken still decides which pickups Americans can buy	2026-11-02T23:47:00Z	3f4be13315bd
+news-2026-11-03.epub	news	2026-11-03	Oil plunges on Iran talks as AI stocks slide before the midterms	2026-11-03T06:16:18+07:00	9d09a5e4b076
+concept-2026-11-02.epub	concept	2026-11-02	Why Silicon Valley got rich by letting its people walk out	2026-11-01T23:44:56+00:00	c8bd37a38785
+news-2026-11-02.epub	news	2026-11-02	Tech Rout Caps October as Fed Hike Bets Grow	2026-11-01T23:14:30Z	8a1e9efb9f95
+concept-2026-11-01.epub	concept	2026-11-01	Why nobody sells their diamond ring	2026-11-01T06:50:00+07:00	1563645e0118
+news-2026-11-01.epub	news	2026-11-01	AI doubts and Hormuz oil shock end October on a sour note	2026-10-31T23:14:57+00:00	f774397451ee
+concept-2026-10-31.epub	concept	2026-10-31	How a coffee house became the world's insurance market	2026-10-31T06:50:00+07:00	3783fa416826
+news-2026-10-31.epub	news	2026-10-31	AI spending doubts and Hormuz oil shock end October on a sour note	2026-10-30T23:15:15+00:00	3a148aaa2146
+concept-2026-10-30.epub	concept	2026-10-30	How a trucker's steel box emptied New York's docks	2026-10-30T06:50:00+07:00	6163373c1af1
+news-2026-10-30.epub	news	2026-10-30	AI spending fears hit tech as hot US data keeps a Fed hike in play	2026-10-30T06:15:12+07:00	3ec706da2694
+concept-2026-10-29.epub	concept	2026-10-29	Why J.P. Morgan locked 120 bankers in his library	2026-10-29T06:50:00+07:00	faa8ab524837
+news-2026-10-29.epub	news	2026-10-29	Fed holds, but two hawks and $114 oil keep yields above 5%	2026-10-29T06:15:23+07:00	723310412cfa
+concept-2026-10-28.epub	concept	2026-10-28	Why American shops once needed two telephones	2026-10-27T23:45:00Z	eb6543840583
+news-2026-10-28.epub	news	2026-10-28	Tech rallies as markets brace for a hawkish Fed	2026-10-27T23:17:32Z	4f53f1532518
+concept-2026-10-27.epub	concept	2026-10-27	Why honest prices nearly killed J.C. Penney	2026-10-26T23:44:37Z	fb8c21a10df5
+news-2026-10-27.epub	news	2026-10-27	AI IPO lifts Wall Street as central bank super week begins	2026-10-27T06:25:00+07:00	e069a7c7175a
+concept-2026-10-26.epub	concept	2026-10-26	Why Britain bricked up its own windows	2026-10-26T06:45:00+07:00	9bb1587d183a
+news-2026-10-26.epub	news	2026-10-26	Oil Hits Six-Month High as Fed Week Begins	2026-10-26T06:30:00+07:00	1ace28ae7838
+concept-2026-10-25-2337.epub	concept	2026-10-25	How a boycott built IKEA	2026-10-25T16:37:12Z	8af10134d964
+concept-2026-10-25-2335.epub	concept	2026-10-25	Why a stone at the bottom of the sea could still buy things on Yap	2026-10-25T16:35:32Z	748d99187365
+concept-2026-10-25-2332.epub	concept	2026-10-25	Why IKEA makes you build your own furniture, and why you like it more	2026-10-25T23:32:59+07:00	46cb011c2223
