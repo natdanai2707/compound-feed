@@ -1,5 +1,6 @@
 # Compound feed: file, type, date, title, created_at (newest first)
 concept-2026-11-06-2342.epub	concept	2026-11-06	How Hilti beat cheaper tool brands by selling working tools, not drills	2026-11-06T23:42:25+07:00
+news-2026-11-07.epub	news	2026-11-07	AI rout and a hawkish Fed rattle markets	2026-11-06T23:15:15+00:00
 concept-2026-11-06.epub	concept	2026-11-06	Why a bank mailed credit cards to a whole city without asking	2026-11-06T06:46:19+07:00
 news-2026-11-06.epub	news	2026-11-06	AI rout gives Wall Street its worst day since April 2025	2026-11-06T06:40:00+07:00
 news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00
@@ -28,4 +29,3 @@ concept-2026-10-25-2332.epub	concept	2026-10-25	Why IKEA makes you build your ow
 concept-2026-10-25-2331.epub	concept	2026-10-25	Why a tyre company decides which restaurants are the best in the world	2026-10-25T23:31:33+07:00
 concept-2026-10-25-2301.epub	concept	2026-10-25	Why paying for dead rats gave Hanoi more rats	2026-10-25T23:01:27+07:00
 concept-2026-10-25-2337.epub	concept	2026-10-25	How a boycott built IKEA	2026-10-25T16:37:12Z
-concept-2026-10-25-2335.epub	concept	2026-10-25	Why a stone at the bottom of the sea could still buy things on Yap	2026-10-25T16:35:32Z
