@@ -1,0 +1,47 @@
+TYPE	news
+DATE	2026-11-13
+TITLE	Hot inflation puts a December Fed hike on the table	เงินเฟ้อร้อนแรง ทำให้เฟดมีโอกาสขึ้นดอกเบี้ยในเดือนธันวาคม
+NOTE	US figures are Thursday Nov 12 closes; SET is Thursday's close; crypto is a 24-hour change as of Thursday evening UTC.
+M	S&P 500	7,592.40	−0.35%	
+M	Nasdaq	25,366.09	−0.39%	
+M	SET	1,499.06	−0.20%	
+M	USD/THB	33.91	+0.48%	Baht weaker
+M	Gold	$3,877.80	−3.07%	Dec futures settle
+M	Brent	~$96	+3.5%	Late intraday, not settle
+M	US 10Y	5.10%	+10 bp	
+M	Iron ore	$91.60/t	−0.60%	
+M	Bitcoin	~$71,600	−3.4%	Lowest since August
+M	Ethereum	~$2,010	−1.9%	Thursday afternoon
+S		Hot CPI makes a December Fed hike look likely	CPI ร้อนแรง ทำให้เฟดน่าจะขึ้นดอกเบี้ยในเดือนธันวาคม
+EN	US consumer prices rose 0.4% in October, and core CPI climbed 0.3% for a third straight month. Futures now price about a 91% chance of a quarter point hike at the December 8 to 9 meeting. The 10-year Treasury yield jumped to 5.10%, and the dollar neared a 19-month high. Gold took the hardest hit, falling about 3% to its lowest level since October 2025, because higher real yields raise the opportunity cost of holding a metal that pays nothing.
+TH	ราคาผู้บริโภคสหรัฐฯ เดือนตุลาคมเพิ่มขึ้น 0.4% และ CPI พื้นฐานเพิ่ม 0.3% เป็นเดือนที่สามติดต่อกัน ตลาดฟิวเจอร์สให้โอกาสราว 91% ที่เฟดจะขึ้นดอกเบี้ย 0.25% ในการประชุมวันที่ 8 ถึง 9 ธันวาคม อัตราผลตอบแทนพันธบัตร 10 ปีพุ่งขึ้นเป็น 5.10% และดอลลาร์ใกล้จุดสูงสุดในรอบ 19 เดือน ทองคำโดนหนักที่สุด ร่วงราว 3% สู่ระดับต่ำสุดนับตั้งแต่ตุลาคม 2025 เพราะผลตอบแทนที่แท้จริงที่สูงขึ้นทำให้ต้นทุนค่าเสียโอกาสของการถือโลหะที่ไม่ให้ดอกผลสูงขึ้น
+IMP	A Fed hike while the BoT holds at 1% widens the rate gap and keeps pressure on the baht and on dollar import costs.	หากเฟดขึ้นดอกเบี้ยขณะที่ ธปท. คงไว้ที่ 1% ส่วนต่างดอกเบี้ยจะกว้างขึ้น กดดันค่าเงินบาทและต้นทุนนำเข้าที่เป็นดอลลาร์
+S		Nvidia CEO Jensen Huang resigns	เจนเซน หวง ลาออกจากตำแหน่งซีอีโอ Nvidia
+EN	Jensen Huang stepped down as Nvidia's chief executive and left the board with immediate effect, after reports about his personal conduct. CFO Colette Kress is now interim CEO, and the company named its first board chair. Nvidia shares fell as much as 13% early but closed down 4.3%, while rivals such as AMD gained. The next test is Nvidia's earnings on November 17, one day before Anthropic is due to price its IPO.
+TH	เจนเซน หวง ลาออกจากตำแหน่งประธานเจ้าหน้าที่บริหารของ Nvidia และออกจากคณะกรรมการทันที หลังมีรายงานเรื่องพฤติกรรมส่วนตัว ซีเอฟโอ Colette Kress ขึ้นเป็นซีอีโอชั่วคราว และบริษัทแต่งตั้งประธานบอร์ดคนแรก หุ้น Nvidia ร่วงสูงสุด 13% ช่วงเช้าก่อนปิดลบ 4.3% ขณะที่คู่แข่งอย่าง AMD ปรับขึ้น บททดสอบถัดไปคืองบการเงินของ Nvidia วันที่ 17 พฤศจิกายน หนึ่งวันก่อน Anthropic กำหนดราคา IPO
+IMP	Global tech weakness dragged DELTA on the SET and kept the index below 1,500.	ความอ่อนแอของหุ้นเทคโลกกดดันหุ้น DELTA ใน SET ทำให้ดัชนีหลุดต่ำกว่า 1,500 จุด
+S		Oil jumps after Trump rejects need for Iran deal	น้ำมันพุ่ง หลังทรัมป์บอกไม่จำเป็นต้องทำข้อตกลงกับอิหร่าน
+EN	Brent briefly touched $96 after President Trump said the US no longer needs an agreement with Iran. That clouded a reported Qatari plan to reopen the Strait of Hormuz in exchange for lifting the US blockade. Oil had already dropped about 25% from its late October peak on peace hopes, so the reversal rebuilt part of the risk premium. Supply is easing in the background, with Saudi output up 26% in October.
+TH	เบรนท์แตะ 96 ดอลลาร์ชั่วครู่ หลังประธานาธิบดีทรัมป์กล่าวว่าสหรัฐฯ ไม่จำเป็นต้องมีข้อตกลงกับอิหร่านอีกต่อไป ทำให้แผนของกาตาร์ที่จะเปิดช่องแคบฮอร์มุซแลกกับการยกเลิกการปิดล้อมของสหรัฐฯ ไม่แน่นอน ราคาน้ำมันลดลงไปแล้วราว 25% จากจุดสูงสุดปลายตุลาคมจากความหวังสันติภาพ การกลับทิศครั้งนี้จึงดึงค่าความเสี่ยงบางส่วนกลับมา ขณะที่อุปทานผ่อนคลายลง โดยซาอุดีอาระเบียผลิตเพิ่มขึ้น 26% ในเดือนตุลาคม
+IMP	Higher oil feeds Thai diesel and freight costs and adds to pressure on the baht through the import bill.	น้ำมันที่แพงขึ้นเพิ่มต้นทุนดีเซลและค่าขนส่งในไทย และกดดันค่าเงินบาทผ่านมูลค่าการนำเข้า
+S		Baht slides toward 34 as SET slips under 1,500	บาทอ่อนเข้าใกล้ 34 ขณะที่ SET หลุด 1,500 จุด
+EN	The baht weakened about 0.5% to near 33.9 per dollar, near its weakest level in over a year. The Bank of Thailand has kept its policy rate at 1% while regional peers tighten, so the baht offers little carry. The SET fell 0.2% to 1,499 on turnover of about 62 billion baht. Sentiment was also hurt after the MSCI review gave Thai stocks no weighting upgrade.
+TH	เงินบาทอ่อนค่าลงราว 0.5% ไปใกล้ 33.9 บาทต่อดอลลาร์ ใกล้ระดับอ่อนที่สุดในรอบกว่าหนึ่งปี ธนาคารแห่งประเทศไทยคงดอกเบี้ยนโยบายที่ 1% ขณะที่ประเทศในภูมิภาคขึ้นดอกเบี้ย บาทจึงให้ผลตอบแทนส่วนต่างดอกเบี้ยน้อย SET ลดลง 0.2% ปิดที่ 1,499 จุด มูลค่าซื้อขายราว 62,000 ล้านบาท บรรยากาศยังถูกกดดันหลังการทบทวนของ MSCI ไม่เพิ่มน้ำหนักหุ้นไทย
+IMP	A weaker baht raises the cost of imported steel and inputs; consider hedging near-term dollar payables.	บาทที่อ่อนลงทำให้ต้นทุนเหล็กและวัตถุดิบนำเข้าสูงขึ้น ควรพิจารณาป้องกันความเสี่ยงสำหรับเจ้าหนี้ดอลลาร์ระยะสั้น
+S		Iron ore drifts lower on China output curbs	แร่เหล็กอ่อนตัว จากการจำกัดการผลิตในจีน
+EN	Iron ore eased 0.6% to about $91.60 a tonne. Chinese mills in key hubs have imposed output curbs to protect air quality, which cuts near-term ore demand. Finished steel inventories are rising while rebar and hot-rolled coil prices drift lower. Analysts see support near $90, with some expecting a dip toward $85 this month.
+TH	แร่เหล็กอ่อนตัวลง 0.6% มาอยู่ที่ราว 91.60 ดอลลาร์ต่อตัน โรงถลุงในศูนย์กลางการผลิตหลักของจีนจำกัดการผลิตเพื่อคุมคุณภาพอากาศ ทำให้ความต้องการแร่ระยะสั้นลดลง สต็อกเหล็กสำเร็จรูปเพิ่มขึ้น ขณะที่ราคาเหล็กเส้นและเหล็กแผ่นรีดร้อนค่อยๆ ลดลง นักวิเคราะห์มองแนวรับใกล้ 90 ดอลลาร์ และบางรายคาดอาจลงไปถึง 85 ดอลลาร์ในเดือนนี้
+IMP	Soft Chinese steel prices cap import costs in dollars, partly offsetting the weaker baht for S-2000 and South Steel.	ราคาเหล็กจีนที่อ่อนตัวช่วยจำกัดต้นทุนนำเข้าในรูปดอลลาร์ ชดเชยผลจากบาทอ่อนได้บางส่วนสำหรับ S-2000 และ South Steel
+S		Crypto: Bitcoin hits a 12-week low as MSCI drops Strategy	คริปโต: บิตคอยน์ต่ำสุดในรอบ 12 สัปดาห์ หลัง MSCI ถอด Strategy
+EN	Bitcoin fell about 3.4% to near $71,600, its lowest level since August. MSCI will remove Strategy, the largest corporate Bitcoin holder, from its main indexes on November 30, which could force index funds to sell up to $2.8 billion of its stock. US spot Bitcoin ETFs posted net outflows for a fifth day, about $1.44 billion in total, and Ether funds also lost money. Fed hike fears and a 24-hour wave of roughly $750 million in long liquidations added to the drop.
+TH	บิตคอยน์ร่วงราว 3.4% ไปใกล้ 71,600 ดอลลาร์ ต่ำสุดนับตั้งแต่สิงหาคม MSCI จะถอด Strategy บริษัทที่ถือบิตคอยน์มากที่สุด ออกจากดัชนีหลักในวันที่ 30 พฤศจิกายน ซึ่งอาจบังคับให้กองทุนดัชนีขายหุ้นได้ถึง 2,800 ล้านดอลลาร์ ETF บิตคอยน์สปอตในสหรัฐฯ มีเงินไหลออกสุทธิเป็นวันที่ห้า รวมราว 1,440 ล้านดอลลาร์ และกองทุนอีเธอร์ก็มีเงินไหลออกเช่นกัน ความกังวลเรื่องเฟดขึ้นดอกเบี้ยและการบังคับปิดสถานะซื้อราว 750 ล้านดอลลาร์ใน 24 ชั่วโมงซ้ำเติมการร่วงลง
+W	core CPI	ดัชนีราคาผู้บริโภคพื้นฐาน	Consumer inflation excluding volatile food and energy prices.	US consumer prices rose 0.4% in October, and core CPI climbed 0.3% for a third straight month.
+W	opportunity cost	ต้นทุนค่าเสียโอกาส	The return you give up by choosing one asset over another.	Gold took the hardest hit, falling about 3% to its lowest level since October 2025, because higher real yields raise the opportunity cost of holding a metal that pays nothing.
+W	interim CEO	ซีอีโอชั่วคราว	A chief executive who runs the company until a permanent one is chosen.	CFO Colette Kress is now interim CEO, and the company named its first board chair.
+W	risk premium	ส่วนชดเชยความเสี่ยง	The extra price investors demand because of possible disruption or loss.	Oil had already dropped about 25% from its late October peak on peace hopes, so the reversal rebuilt part of the risk premium.
+W	carry	ผลตอบแทนจากส่วนต่างดอกเบี้ย	The yield earned from holding a currency or asset, often versus a funding currency.	The Bank of Thailand has kept its policy rate at 1% while regional peers tighten, so the baht offers little carry.
+W	output curbs	การจำกัดการผลิต	Limits placed on how much a plant or industry can produce.	Chinese mills in key hubs have imposed output curbs to protect air quality, which cuts near-term ore demand.
+W	net outflows	เงินไหลออกสุทธิ	When more money leaves a fund than enters it over a period.	US spot Bitcoin ETFs posted net outflows for a fifth day, about $1.44 billion in total, and Ether funds also lost money.
+W	liquidations	การบังคับปิดสถานะ	Forced closing of leveraged positions when margin runs out.	Fed hike fears and a 24-hour wave of roughly $750 million in long liquidations added to the drop.
+Q	How much would a December Fed hike widen the US and Thai rate gap, and where could USD/THB settle?
+Q	Should I hedge dollar payables for steel imports over the next three months?

@@ -1,0 +1,47 @@
+TYPE	news
+DATE	2026-11-06
+TITLE	AI rout gives Wall Street its worst day since April 2025	หุ้น AI ถล่ม วอลล์สตรีทเจอวันแย่ที่สุดนับตั้งแต่เมษายน 2025
+NOTE	Stock indexes are Thursday Nov 5 closes. USD/THB, gold, Brent, 10Y and iron ore are the latest Nov 5 quotes. Crypto is from the late US session.
+M	S&P 500	7,353.73	−4.36%	
+M	Nasdaq	24,315.00	−5.52%	In correction
+M	SET	1,497.99	−0.27%	Closed before the US rout
+M	USD/THB	33.45	−0.46%	Baht firmer, late Nov 5 quote
+M	Gold	$4,100	+0.67%	Front-month futures
+M	Brent	$98.29	+3.9%	Late New York, not a confirmed settle
+M	US 10Y	4.83%	−7 bp	
+M	Iron ore	$93.12	+1.27%	Benchmark CFD quote
+M	Bitcoin	$75,881	−5.65%	
+M	Ethereum	$2,234	−7.80%	
+S		AI rout hits Wall Street after Democratic sweep	หุ้น AI ร่วงหนักหลังเดโมแครตกวาดชัยในสภาคองเกรส
+EN	Wall Street had its worst day since April 2025. The S&P 500 fell 4.4%, the Nasdaq dropped 5.5% and the Dow lost 1,833 points. The Nasdaq is now in a correction, more than 10% below its October 6 record. Chip stocks led the fall, with the Philadelphia semiconductor index down 12%, its second-biggest drop ever. Investors fear Democrats in Congress could push data center moratoriums as power bills rise, while others blame hedge funds taking profits.
+TH	วอลล์สตรีทเจอวันที่แย่ที่สุดนับตั้งแต่เมษายน 2025 ดัชนี S&P 500 ลดลง 4.4% แนสแด็กลดลง 5.5% และดาวโจนส์ลดลง 1,833 จุด ตอนนี้แนสแด็กเข้าสู่ภาวะปรับฐาน ต่ำกว่าจุดสูงสุดเมื่อ 6 ตุลาคมมากกว่า 10% หุ้นชิปนำการร่วง ดัชนีเซมิคอนดักเตอร์ฟิลาเดลเฟียลดลง 12% เป็นการร่วงมากที่สุดเป็นอันดับสองในประวัติศาสตร์ นักลงทุนกังวลว่าเดโมแครตในสภาคองเกรสอาจผลักดันการระงับการสร้างดาต้าเซ็นเตอร์ เพราะค่าไฟเพิ่มขึ้น ขณะที่บางฝ่ายมองว่าเป็นการขายทำกำไรของกองทุนเฮดจ์ฟันด์
+IMP	Thai electronics stocks are exposed, and the SET has yet to trade on this US close.	หุ้นอิเล็กทรอนิกส์ไทยได้รับผลกระทบโดยตรง และ SET ยังไม่ได้ซื้อขายสะท้อนการปิดตลาดสหรัฐฯ รอบนี้
+S		Bank of England hikes as Fed bets shift	ธนาคารกลางอังกฤษขึ้นดอกเบี้ย ขณะที่ตลาดปรับคาดการณ์เฟด
+EN	The Bank of England raised its rate to 4% from 3.75%, its first hike since August 2023. The vote was hawkish: eight members backed a quarter point move and one wanted a half point. In the US, the stock rout pulled money into Treasuries. The 10-year yield fell about 7 basis points to 4.83%, and traders pushed the expected next Fed hike back to March. October payrolls are due tonight Thai time, with economists expecting only about 60,000 new jobs.
+TH	ธนาคารกลางอังกฤษขึ้นดอกเบี้ยเป็น 4% จาก 3.75% นับเป็นการขึ้นครั้งแรกตั้งแต่สิงหาคม 2023 ผลโหวตมีท่าทีเข้มงวด โดยกรรมการ 8 คนหนุนการขึ้น 0.25% และอีก 1 คนต้องการขึ้น 0.5% ส่วนในสหรัฐฯ การเทขายหุ้นทำให้เงินไหลเข้าพันธบัตรรัฐบาล ผลตอบแทนพันธบัตรอายุ 10 ปีลดลงราว 7 จุดเบสิส มาอยู่ที่ 4.83% และเทรดเดอร์เลื่อนคาดการณ์การขึ้นดอกเบี้ยครั้งถัดไปของเฟดไปเป็นเดือนมีนาคม คืนนี้ตามเวลาไทยจะมีตัวเลขการจ้างงานนอกภาคเกษตรเดือนตุลาคม นักเศรษฐศาสตร์คาดว่าเพิ่มขึ้นเพียงราว 60,000 ตำแหน่ง
+IMP	A Fed hike would widen the gap with the Bank of Thailand's 1.00% rate and pressure the baht.	ถ้าเฟดขึ้นดอกเบี้ย ส่วนต่างกับดอกเบี้ยนโยบาย 1.00% ของ ธปท. จะกว้างขึ้น และกดดันเงินบาท
+S		Oil bounces as Iran risk returns	น้ำมันดีดกลับ เมื่อความเสี่ยงอิหร่านกลับมา
+EN	Brent rose 3.9% to about $98 a barrel, recovering part of Wednesday's drop of more than 8%. At least five vessels have reportedly been hit in the region since Sunday. Iran's negotiating position has not changed, and traders are unsure how the new Congress will affect the war. Eurasia Group sees a 60% chance of renewed US strikes and only a 10% chance of a deal.
+TH	น้ำมันเบรนท์เพิ่มขึ้น 3.9% มาอยู่ที่ราว 98 ดอลลาร์ต่อบาร์เรล ฟื้นคืนบางส่วนจากการร่วงกว่า 8% เมื่อวันพุธ มีรายงานว่าเรืออย่างน้อย 5 ลำถูกโจมตีในภูมิภาคตั้งแต่วันอาทิตย์ จุดยืนในการเจรจาของอิหร่านยังไม่เปลี่ยน และเทรดเดอร์ยังไม่แน่ใจว่าสภาคองเกรสชุดใหม่จะมีผลต่อสงครามอย่างไร Eurasia Group ให้โอกาสที่สหรัฐฯ จะโจมตีอีกครั้งไว้ที่ 60% และโอกาสเกิดข้อตกลงเพียง 10%
+IMP	Diesel and freight costs stay high, and MUFG sees a worse oil crisis as the main risk for the baht.	ต้นทุนดีเซลและค่าขนส่งยังสูง และ MUFG มองว่าวิกฤตน้ำมันที่แย่ลงคือความเสี่ยงหลักของเงินบาท
+S		Baht firms, SET holds near 1,500	เงินบาทแข็งค่า SET ทรงตัวใกล้ 1,500 จุด
+EN	The baht strengthened to about 33.45 per dollar, its firmest level in at least two weeks, as the dollar slid after the midterms. Krungthai sees two-way risk in the short term, while MUFG still forecasts 34.10 by year-end. The SET slipped 0.27% to 1,497.99 on Thursday, on turnover of about 87 billion baht. Energy and electronics stocks dragged, while money rotated into power, retail and finance. That close came before the US rout, so today is the real test.
+TH	เงินบาทแข็งค่าขึ้นมาอยู่ที่ราว 33.45 บาทต่อดอลลาร์ แข็งสุดในรอบอย่างน้อยสองสัปดาห์ หลังดอลลาร์อ่อนค่าจากผลเลือกตั้งกลางเทอม กรุงไทยมองว่าระยะสั้นมีความเสี่ยงสองทาง ขณะที่ MUFG ยังคาดว่าสิ้นปีจะอยู่ที่ 34.10 ส่วน SET ลดลง 0.27% มาปิดที่ 1,497.99 จุดเมื่อวันพฤหัสบดี มูลค่าซื้อขายราว 87,000 ล้านบาท หุ้นพลังงานและอิเล็กทรอนิกส์กดดันตลาด ขณะที่เงินหมุนเข้ากลุ่มโรงไฟฟ้า ค้าปลีก และการเงิน การปิดตลาดรอบนั้นเกิดขึ้นก่อนหุ้นสหรัฐฯ ร่วง ดังนั้นวันนี้คือบททดสอบจริง
+IMP	A firmer baht cuts the cost of dollar-priced steel imports, but MUFG's call says do not count on it lasting.	บาทแข็งช่วยลดต้นทุนเหล็กนำเข้าที่ตั้งราคาเป็นดอลลาร์ แต่มุมมองของ MUFG ชี้ว่าอย่าเพิ่งนับว่าจะอยู่นาน
+S		Iron ore climbs to a one-month high	แร่เหล็กขึ้นสูงสุดในรอบหนึ่งเดือน
+EN	Iron ore rose to about $93 a ton in Singapore and 692 yuan in Dalian, both near one-month highs. A sharp rebound in Chinese stocks lifted sentiment, and better steel margins point to more hot metal output and more demand for feedstock. Rebar and hot-rolled coil futures in Shanghai gained about 1%. Galaxy Futures says the market is driven more by funds and sentiment for now. These gains came before the Wall Street sell-off.
+TH	แร่เหล็กขึ้นมาอยู่ที่ราว 93 ดอลลาร์ต่อตันในสิงคโปร์ และ 692 หยวนในต้าเหลียน ทั้งคู่ใกล้ระดับสูงสุดในรอบหนึ่งเดือน หุ้นจีนที่ฟื้นตัวแรงช่วยหนุนบรรยากาศ และมาร์จินเหล็กที่ดีขึ้นบ่งชี้ว่าการผลิตเหล็กถลุงจะเพิ่มขึ้น รวมถึงความต้องการวัตถุดิบด้วย ฟิวเจอร์สเหล็กเส้นและเหล็กแผ่นรีดร้อนในเซี่ยงไฮ้เพิ่มขึ้นราว 1% Galaxy Futures ระบุว่าตอนนี้ตลาดถูกขับเคลื่อนด้วยกระแสเงินทุนและความเชื่อมั่นมากกว่า การปรับขึ้นเหล่านี้เกิดขึ้นก่อนวอลล์สตรีทร่วง
+IMP	Higher Chinese steel futures can feed into import offers for HRC and rebar.	ราคาฟิวเจอร์สเหล็กจีนที่สูงขึ้นอาจส่งผลต่อราคาเสนอขายเหล็กแผ่นรีดร้อนและเหล็กเส้นนำเข้า
+S		Crypto: Bitcoin erases its post-election gains	คริปโต: บิตคอยน์เสียกำไรหลังเลือกตั้งจนหมด
+EN	Bitcoin fell about 5.7% to near $75,900, and ether lost 7.8% to about $2,234. The Nasdaq rout cut appetite for risk, and crypto sold off with tech. Liquidations topped $1 billion in 24 hours, mostly long positions, and that forced selling deepened the drop. US spot bitcoin ETFs had already seen $1.16 billion of net outflows from October 30 to November 3. Politics adds pressure: the CLARITY Act failed a Senate procedural vote in September, and Democrats plan to investigate Trump family crypto ventures.
+TH	บิตคอยน์ลดลงราว 5.7% มาอยู่ใกล้ 75,900 ดอลลาร์ และอีเธอร์ลดลง 7.8% มาอยู่ที่ราว 2,234 ดอลลาร์ แนสแด็กที่ร่วงหนักทำให้ความต้องการรับความเสี่ยงลดลง และคริปโตถูกเทขายไปพร้อมหุ้นเทคโนโลยี การบังคับปิดสถานะทะลุ 1,000 ล้านดอลลาร์ใน 24 ชั่วโมง ส่วนใหญ่เป็นฝั่ง long และแรงขายที่ถูกบังคับนี้ทำให้ราคาร่วงลึกขึ้น ก่อนหน้านี้ ETF บิตคอยน์แบบ spot ในสหรัฐฯ มีเงินไหลออกสุทธิแล้ว 1,160 ล้านดอลลาร์ ระหว่าง 30 ตุลาคมถึง 3 พฤศจิกายน การเมืองก็เพิ่มแรงกดดัน ร่างกฎหมาย CLARITY ไม่ผ่านการลงมติตามขั้นตอนในวุฒิสภาเมื่อกันยายน และเดโมแครตวางแผนสอบสวนธุรกิจคริปโตของตระกูลทรัมป์
+W	correction	ภาวะปรับฐาน	A fall of at least 10% from a recent high.	The Nasdaq is now in a correction, more than 10% below its October 6 record.
+W	moratoriums	การระงับชั่วคราว	Official temporary bans on an activity.	Investors fear Democrats in Congress could push data center moratoriums as power bills rise, while others blame hedge funds taking profits.
+W	hawkish	มีท่าทีเข้มงวดด้านนโยบายการเงิน	Favoring higher rates to fight inflation.	The vote was hawkish: eight members backed a quarter point move and one wanted a half point.
+W	basis points	จุดเบสิส	One basis point is one hundredth of a percentage point.	The 10-year yield fell about 7 basis points to 4.83%, and traders pushed the expected next Fed hike back to March.
+W	two-way risk	ความเสี่ยงสองทาง	A price could move sharply in either direction.	Krungthai sees two-way risk in the short term, while MUFG still forecasts 34.10 by year-end.
+W	feedstock	วัตถุดิบตั้งต้น	Raw material fed into an industrial process.	A sharp rebound in Chinese stocks lifted sentiment, and better steel margins point to more hot metal output and more demand for feedstock.
+W	Liquidations	การบังคับปิดสถานะ	Forced closing of leveraged positions when margin runs out.	Liquidations topped $1 billion in 24 hours, mostly long positions, and that forced selling deepened the drop.
+W	net outflows	เงินไหลออกสุทธิ	More money left a fund than came in.	US spot bitcoin ETFs had already seen $1.16 billion of net outflows from October 30 to November 3.
+Q	If payrolls beat tonight, does the Fed hike trade return and push USD/THB back toward 33.75?
+Q	Would a slower US data center buildout hurt global steel demand, or only chip stocks?

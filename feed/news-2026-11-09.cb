@@ -1,0 +1,42 @@
+TYPE	news
+DATE	2026-11-09
+TITLE	AI rout, oil slump and a hawkish Fed set a nervous tone	แรงเทขายหุ้น AI น้ำมันร่วง และเฟดสายเหยี่ยว ทำให้ตลาดตึงเครียด
+NOTE	Monday morning: Friday Nov 6 closes for stocks, rates, FX and commodities. Crypto is the latest weekend price.
+M	S&P 500	7,376.86	+0.31%	Week −2.7%
+M	Nasdaq	24,579.42	+1.09%	Week −3.4%
+M	SET	1,465.70	−2.16%	
+M	USD/THB	33.56	+0.36%	Baht weaker
+M	Gold	$4,074.90	−0.94%	Week +4.6%
+M	Brent	$98.32	−16.4%	Weekly change
+M	US 10Y	4.86%	+2 bp	
+M	Iron ore 62%	$92.70/t	−0.45%	
+M	Bitcoin	$75,800	−0.3%	Sunday, 24h
+M	Ethereum	$2,233	−0.6%	Saturday, 24h
+S		Jobs beat and AI rout leave Wall Street bruised	ตัวเลขจ้างงานแข็งแกร่งและแรงเทขายหุ้น AI ทำให้วอลล์สตรีทบอบช้ำ
+EN	US stocks bounced on Friday, but the week was still the worst since June. The S&P 500 lost 2.7% for the week and the Nasdaq fell 3.4%, after Thursday's chip selloff pushed the Nasdaq into a correction. Investors worry the new Democratic Congress could slow data center building and AI spending. October payrolls rose 165,000, far above forecasts, and unemployment fell to 4.1%. Markets now price about a 75% chance of a Fed rate hike in December, so Tuesday's CPI report is the key event this week.
+TH	หุ้นสหรัฐฯ ฟื้นตัวในวันศุกร์ แต่ทั้งสัปดาห์ยังเป็นสัปดาห์ที่แย่ที่สุดตั้งแต่เดือนมิถุนายน S&P 500 ลดลง 2.7% ในสัปดาห์ และ Nasdaq ลดลง 3.4% หลังแรงเทขายหุ้นชิปในวันพฤหัสบดีดัน Nasdaq เข้าสู่ภาวะปรับฐาน นักลงทุนกังวลว่าสภาคองเกรสที่พรรคเดโมแครตครองเสียงข้างมากอาจชะลอการสร้างดาต้าเซ็นเตอร์และการลงทุนด้าน AI การจ้างงานนอกภาคเกษตรเดือนตุลาคมเพิ่มขึ้น 165,000 ตำแหน่ง สูงกว่าคาดมาก และอัตราว่างงานลดลงเหลือ 4.1% ตลาดให้โอกาสราว 75% ที่เฟดจะขึ้นดอกเบี้ยในเดือนธันวาคม ดังนั้นรายงาน CPI วันอังคารจึงเป็นเหตุการณ์สำคัญของสัปดาห์นี้
+IMP	A December Fed hike keeps the dollar firm and the baht under pressure, raising import costs for steel.	หากเฟดขึ้นดอกเบี้ยในเดือนธันวาคม ดอลลาร์จะยังแข็ง และเงินบาทจะถูกกดดัน ทำให้ต้นทุนนำเข้าเหล็กสูงขึ้น
+S		Oil posts its steepest weekly drop in years, but weekend risks return	น้ำมันร่วงหนักที่สุดในรอบหลายปี แต่ความเสี่ยงช่วงสุดสัปดาห์กลับมา
+EN	Brent settled at $98.32 on Friday, down about 16% from $117.64 a week earlier. Traders bet that the midterm result and Qatar-led talks would cool the US-Iran conflict. The weekend was less calm. Iran claimed three more tankers were hit, a vessel was disabled under the US naval blockade, and Houthi missile debris fell on an Aramco tower in Riyadh. A war risk premium could come back into prices when markets open on Monday.
+TH	น้ำมันเบรนท์ปิดที่ 98.32 ดอลลาร์ในวันศุกร์ ลดลงราว 16% จาก 117.64 ดอลลาร์เมื่อสัปดาห์ก่อน เทรดเดอร์คาดว่าผลเลือกตั้งกลางเทอมและการเจรจาที่กาตาร์เป็นตัวกลางจะช่วยลดความขัดแย้งระหว่างสหรัฐฯ กับอิหร่าน แต่ช่วงสุดสัปดาห์ไม่สงบนัก อิหร่านอ้างว่ามีเรือบรรทุกน้ำมันถูกโจมตีเพิ่มอีกสามลำ เรือลำหนึ่งถูกทำให้หยุดใช้งานภายใต้การปิดล้อมทางทะเลของสหรัฐฯ และเศษขีปนาวุธของกลุ่มฮูตีตกใส่อาคารของอารัมโกในริยาด ส่วนเพิ่มความเสี่ยงจากสงครามอาจกลับเข้ามาในราคาเมื่อตลาดเปิดวันจันทร์
+IMP	Cheaper oil eases Thai inflation and freight costs, but a rebound would hit the trade balance and the baht again.	น้ำมันที่ถูกลงช่วยลดเงินเฟ้อและค่าขนส่งของไทย แต่หากราคาดีดกลับ จะกระทบดุลการค้าและเงินบาทอีกครั้ง
+S		SET slides as BOT lifts its growth forecast	SET ร่วงลง ขณะที่ ธปท. ปรับเพิ่มคาดการณ์การเติบโต
+EN	The SET fell 2.16% to 1,465.70 on Friday, led by electronics stocks after the global chip selloff. Bank of Thailand Governor Vitai Ratanakorn raised the 2026 growth forecast to 2.4% and the export forecast to 22%. He called it a K-shaped recovery, with exporters doing well while households and SMEs struggle with high oil and food costs. The policy rate stays at 1.00%, while some regional peers are hiking, which keeps the baht near 33.56 per dollar. The government expects a US tariff of about 19% under the trade deal now in legal review.
+TH	ดัชนี SET ลดลง 2.16% มาอยู่ที่ 1,465.70 จุดในวันศุกร์ นำโดยหุ้นกลุ่มอิเล็กทรอนิกส์หลังแรงเทขายหุ้นชิปทั่วโลก ดร.วิทัย รัตนากร ผู้ว่าการธนาคารแห่งประเทศไทย ปรับเพิ่มคาดการณ์การเติบโตปี 2569 เป็น 2.4% และคาดการณ์การส่งออกเป็น 22% เขาเรียกว่าเป็นการฟื้นตัวแบบ K-shaped โดยผู้ส่งออกไปได้ดี ขณะที่ครัวเรือนและ SME ลำบากจากต้นทุนน้ำมันและอาหารที่สูง อัตราดอกเบี้ยนโยบายยังอยู่ที่ 1.00% ขณะที่บางประเทศในภูมิภาคขึ้นดอกเบี้ย ทำให้เงินบาทอยู่แถว 33.56 บาทต่อดอลลาร์ รัฐบาลคาดว่าจะถูกเก็บภาษีนำเข้าจากสหรัฐฯ ราว 19% ภายใต้ข้อตกลงการค้าที่อยู่ระหว่างการตรวจสอบทางกฎหมาย
+IMP	Low Thai rates mean cheap local borrowing, but a weak baht makes imported steel and inputs dearer.	ดอกเบี้ยไทยต่ำทำให้กู้ในประเทศได้ถูก แต่บาทอ่อนทำให้เหล็กและวัตถุดิบนำเข้าแพงขึ้น
+S		Iron ore stuck near $93 as China steel demand lags	แร่เหล็กติดอยู่แถว 93 ดอลลาร์ เมื่ออุปสงค์เหล็กจีนยังอ่อนแอ
+EN	Iron ore (62% Fe) closed at $92.70 a tonne on Friday, down 0.45% and about 10% lower than a year ago. Short covering lifted prices early in the week, but Chinese mills are not buying much more ore. Property and construction, the biggest steel users, have not recovered. China releases October inflation data on Monday and trade data on Tuesday, with factory-gate deflation expected to deepen to minus 5.4%.
+TH	แร่เหล็ก (62% Fe) ปิดที่ 92.70 ดอลลาร์ต่อตันในวันศุกร์ ลดลง 0.45% และต่ำกว่าปีก่อนราว 10% แรงซื้อปิดสถานะชอร์ตช่วยดันราคาช่วงต้นสัปดาห์ แต่โรงถลุงเหล็กจีนยังไม่ได้ซื้อแร่เพิ่มมากนัก ภาคอสังหาฯ และก่อสร้าง ซึ่งใช้เหล็กมากที่สุด ยังไม่ฟื้นตัว จีนจะประกาศตัวเลขเงินเฟ้อเดือนตุลาคมในวันจันทร์และตัวเลขการค้าในวันอังคาร โดยคาดว่าภาวะเงินฝืดราคาหน้าโรงงานจะลึกขึ้นเป็นลบ 5.4%
+IMP	Weak Chinese demand means more cheap steel exports to ASEAN, which pressures Thai steel prices and margins.	อุปสงค์จีนที่อ่อนแอหมายถึงเหล็กราคาถูกจากจีนจะส่งออกมาอาเซียนมากขึ้น กดดันราคาและมาร์จินเหล็กในไทย
+S		Crypto: Bitcoin heads for a fifth losing week as ETFs bleed	คริปโต: บิตคอยน์มุ่งสู่สัปดาห์ที่ห้าที่ขาดทุน เมื่อเงินไหลออกจาก ETF
+EN	Bitcoin traded near $75,800 on Sunday, down about 2.4% over seven days and below the weekly open of $78,232. The main driver is steady selling in US spot Bitcoin ETFs, which saw net outflows of about $1.28 billion last week. Only Wednesday had inflows, and BlackRock's IBIT alone lost about $403 million on Friday. Risk appetite is also weak because a December Fed hike is now likely. Ether sits around $2,230, and the Fear and Greed Index reads 28.
+TH	บิตคอยน์ซื้อขายแถว 75,800 ดอลลาร์ในวันอาทิตย์ ลดลงราว 2.4% ในเจ็ดวัน และต่ำกว่าราคาเปิดสัปดาห์ที่ 78,232 ดอลลาร์ ปัจจัยหลักคือแรงขายต่อเนื่องใน Spot Bitcoin ETF ของสหรัฐฯ ซึ่งมีเงินไหลออกสุทธิราว 1.28 พันล้านดอลลาร์ในสัปดาห์ที่แล้ว มีเพียงวันพุธที่มีเงินไหลเข้า และ IBIT ของแบล็คร็อคเพียงกองเดียวมีเงินไหลออกราว 403 ล้านดอลลาร์ในวันศุกร์ ความต้องการรับความเสี่ยงยังอ่อนแอเพราะเฟดมีแนวโน้มขึ้นดอกเบี้ยในเดือนธันวาคม อีเธอร์อยู่แถว 2,230 ดอลลาร์ และดัชนี Fear and Greed อยู่ที่ 28
+W	correction	ภาวะปรับฐาน (ราคาลดลง 10% ขึ้นไปจากจุดสูงสุด)	A fall of 10% or more from a recent peak.	The S&P 500 lost 2.7% for the week and the Nasdaq fell 3.4%, after Thursday's chip selloff pushed the Nasdaq into a correction.
+W	rate hike	การขึ้นอัตราดอกเบี้ย	A central bank decision to raise its policy interest rate.	Markets now price about a 75% chance of a Fed rate hike in December, so Tuesday's CPI report is the key event this week.
+W	risk premium	ส่วนชดเชยความเสี่ยง	Extra price or return that markets demand because of a possible danger.	A war risk premium could come back into prices when markets open on Monday.
+W	K-shaped recovery	การฟื้นตัวแบบรูปตัว K	A recovery where some groups improve while others keep getting worse.	He called it a K-shaped recovery, with exporters doing well while households and SMEs struggle with high oil and food costs.
+W	Short covering	การซื้อคืนเพื่อปิดสถานะชอร์ต	Buying by traders who bet on a fall, to close their positions, which can push prices up.	Short covering lifted prices early in the week, but Chinese mills are not buying much more ore.
+W	factory-gate deflation	ภาวะเงินฝืดของราคาหน้าโรงงาน	Falling prices that producers charge when goods leave the factory.	China releases October inflation data on Monday and trade data on Tuesday, with factory-gate deflation expected to deepen to minus 5.4%.
+W	net outflows	เงินไหลออกสุทธิ	More money leaving a fund than coming in over a period.	The main driver is steady selling in US spot Bitcoin ETFs, which saw net outflows of about $1.28 billion last week.
+Q	If US CPI comes in hot on Tuesday, how far could USD/THB move before the December Fed meeting?
+Q	Will Chinese steel exports to ASEAN rise further if China's factory-gate deflation deepens?

@@ -1,0 +1,41 @@
+TYPE	news
+DATE	2026-11-03
+TITLE	Oil plunges on Iran talks as AI stocks slide before the midterms	น้ำมันดิ่งจากการเจรจาอิหร่าน ขณะหุ้น AI ร่วงก่อนเลือกตั้งกลางเทอมสหรัฐ
+NOTE	US figures are Monday Nov 2 closes. SET is the Nov 2 close. Brent, gold and USD/THB are late Nov 2 quotes. Iron ore is intraday Nov 2.
+M	S&P 500	7,541.40	−0.51%	
+M	Nasdaq	25,164.32	−1.07%	
+M	SET	1,507.20	−0.75%	
+M	USD/THB	33.73	−0.13%	Late quote, Nov 2
+M	Gold	$3,948	+1.86%	Rebound from one-year low
+M	Brent	$104.77	−7.63%	Late trading, Nov 2
+M	US 10Y	4.90%	−3 bp	
+M	Iron ore	$91.05	+0.31%	SGX December, 0840 GMT Nov 2
+S		Brent drops nearly 8% as Iran signals a path to talks	เบรนท์ร่วงเกือบ 8% หลังอิหร่านส่งสัญญาณเปิดทางเจรจา
+EN	Brent fell 7.6% to about $105 a barrel after three days of talks between Qatari and Iranian officials. Iran's foreign ministry said it has a two-day plan to reopen the Strait of Hormuz and restart nuclear talks with the US. The strait is still closed, and Secretary of State Rubio said President Trump has not chosen between a military and a diplomatic ending. OPEC+ left its production targets unchanged through December. Banks are not convinced: Goldman Sachs sees Brent at $105 in December and UBS sees $110 by year end.
+TH	เบรนท์ร่วง 7.6% มาอยู่ราว 105 ดอลลาร์ต่อบาร์เรล หลังเจ้าหน้าที่กาตาร์และอิหร่านเจรจากันสามวัน กระทรวงต่างประเทศอิหร่านระบุว่ามีแผนสองวันเพื่อเปิดช่องแคบฮอร์มุซและกลับมาเจรจานิวเคลียร์กับสหรัฐ แต่ช่องแคบยังปิดอยู่ และรูบิโอ รัฐมนตรีต่างประเทศสหรัฐกล่าวว่าทรัมป์ยังไม่ตัดสินใจว่าจะจบด้วยทางทหารหรือทางการทูต โอเปกพลัสคงเป้าการผลิตไว้จนถึงเดือนธันวาคม ส่วนวาณิชธนกิจยังไม่เชื่อมั่นนัก โดยโกลด์แมน แซคส์คาดเบรนท์ที่ 105 ดอลลาร์ในเดือนธันวาคม และยูบีเอสคาด 110 ดอลลาร์ ณ สิ้นปี
+IMP	Cheaper oil would ease Thailand's import bill and your diesel and freight costs, but one headline can reverse it.	น้ำมันที่ถูกลงจะลดภาระค่านำเข้าของไทย รวมถึงต้นทุนดีเซลและค่าขนส่งของคุณ แต่ข่าวเดียวก็พลิกกลับได้
+S		AI trade cracks again as debt and deals spook investors	หุ้น AI ปั่นป่วนอีกรอบ นักลงทุนกังวลหนี้และดีลใหญ่
+EN	The S&P 500 erased a morning gain of 1.1% and closed down 0.5%, while the Dow rose 0.4%. Marvell fell 12.7% and Lumentum fell 18.6% after their $115 billion all-stock deal. Oracle lost 8.9% on a $10 billion bond sale, and Meta reportedly plans at least $20 billion of bonds. The chip index dropped 3.4%. After the close, Apple and Palantir both beat forecasts and both fell, Apple on China sales and memory costs, Palantir on valuation.
+TH	S&P 500 ลบกำไรช่วงเช้า 1.1% และปิดลบ 0.5% ขณะที่ดาวโจนส์บวก 0.4% มาร์เวลล์ร่วง 12.7% และลูเมนตัมร่วง 18.6% หลังประกาศดีลแลกหุ้นมูลค่า 1.15 แสนล้านดอลลาร์ ออราเคิลลดลง 8.9% จากการออกหุ้นกู้ 1 หมื่นล้านดอลลาร์ และมีรายงานว่าเมตาเตรียมออกหุ้นกู้อย่างน้อย 2 หมื่นล้านดอลลาร์ ดัชนีชิปลดลง 3.4% หลังตลาดปิด แอปเปิลและพาแลนเทียร์ทำกำไรเหนือคาดทั้งคู่แต่หุ้นก็ลดลงทั้งคู่ แอปเปิลจากยอดขายจีนและต้นทุนหน่วยความจำ ส่วนพาแลนเทียร์จากมูลค่าหุ้นที่สูง
+IMP	Global tech selling spilled into the SET through DELTA, which fell below 200 baht.	แรงขายหุ้นเทคโลกลามมาถึง SET ผ่าน DELTA ซึ่งร่วงต่ำกว่า 200 บาท
+S		Midterms today, and rate hikes are back on the table	เลือกตั้งกลางเทอมวันนี้ และการขึ้นดอกเบี้ยกลับมาอยู่บนโต๊ะ
+EN	Americans vote today for all 435 House seats and 35 Senate seats. Markets are pricing a 77% chance of a Fed hike in December, after two officials dissented in favour of a hike at last week's hold at 3.75% to 4.00%. October ISM manufacturing rose to 55.5, above forecasts. The 10-year yield still eased to 4.90% as oil fell, its lowest since September 10. The RBA is expected to hike to 4.85% at 10:30 Bangkok time today, and the Bank of England is expected to raise to 4.00% on Thursday.
+TH	วันนี้ชาวอเมริกันเลือกตั้งสภาผู้แทนทั้ง 435 ที่นั่ง และวุฒิสภา 35 ที่นั่ง ตลาดให้โอกาส 77% ที่เฟดจะขึ้นดอกเบี้ยในเดือนธันวาคม หลังกรรมการสองคนโหวตสวนให้ขึ้นดอกเบี้ยในการประชุมสัปดาห์ก่อนที่คงไว้ที่ 3.75% ถึง 4.00% ดัชนี ISM ภาคการผลิตเดือนตุลาคมเพิ่มเป็น 55.5 สูงกว่าคาด แต่ผลตอบแทนพันธบัตร 10 ปียังลดลงมาอยู่ที่ 4.90% ตามราคาน้ำมัน ต่ำสุดนับจาก 10 กันยายน คาดว่าธนาคารกลางออสเตรเลียจะขึ้นดอกเบี้ยเป็น 4.85% เวลา 10.30 น. ตามเวลาไทยวันนี้ และธนาคารกลางอังกฤษจะขึ้นเป็น 4.00% ในวันพฤหัสบดี
+IMP	Thailand sits at 1.00% while peers tighten, so a wider rate gap keeps the baht under pressure.	ไทยอยู่ที่ 1.00% ขณะที่ประเทศอื่นคุมเข้ม ส่วนต่างดอกเบี้ยที่กว้างขึ้นจึงยังกดดันเงินบาท
+S		SET slips to 1,507 as the BOT stays on hold	SET ลดลงมาที่ 1,507 ขณะ ธปท. ยังคงดอกเบี้ย
+EN	The SET lost 0.75% to 1,507.20 on turnover of 55.8 billion baht, with DELTA and PTTEP leading the decline. The baht trades near 33.7, close to its weakest since July, and September's trade deficit widened to $5.86 billion. The Bank of Thailand kept its rate at 1.00% in a unanimous vote on October 28. It raised 2026 growth to 2.4%, but warned that gains are concentrated in tech and AI. SME loans fell 1.4% in August while large corporate loans rose 6%. October inflation is due this week, with forecasts near 3.4%.
+TH	SET ลดลง 0.75% มาที่ 1,507.20 จุด มูลค่าซื้อขาย 5.58 หมื่นล้านบาท โดยมี DELTA และ PTTEP นำการปรับลง เงินบาทอยู่แถว 33.7 ใกล้ระดับอ่อนสุดนับจากเดือนกรกฎาคม และขาดดุลการค้าเดือนกันยายนขยายเป็น 5.86 พันล้านดอลลาร์ ธปท. มีมติเอกฉันท์คงดอกเบี้ยที่ 1.00% เมื่อ 28 ตุลาคม ปรับคาดการณ์จีดีพีปี 2569 เป็น 2.4% แต่เตือนว่าการเติบโตกระจุกอยู่ในเทคโนโลยีและ AI สินเชื่อเอสเอ็มอีหดตัว 1.4% ในเดือนสิงหาคม ขณะที่สินเชื่อรายใหญ่เพิ่มขึ้น 6% เงินเฟ้อเดือนตุลาคมจะประกาศสัปดาห์นี้ คาดไว้ราว 3.4%
+IMP	SME credit stays tight, and new BOT checks on cash deals of 5 million baht or more began November 1.	สินเชื่อเอสเอ็มอียังตึงตัว และเกณฑ์ใหม่ของ ธปท. สำหรับธุรกรรมเงินสดตั้งแต่ 5 ล้านบาทขึ้นไปเริ่มใช้แล้วตั้งแต่ 1 พฤศจิกายน
+S		Iron ore steadies, but Chinese steel futures stay soft	แร่เหล็กทรงตัว แต่ฟิวเจอร์สเหล็กจีนยังอ่อน
+EN	Singapore iron ore rose 0.3% to about $91 a ton, and Dalian ended flat at 674.5 yuan. Mysteel data showed hot metal output fell only 0.2% to 2.32 million tons a day, a smaller drop than traders feared. Steel did not follow. Shanghai rebar lost 1.05% and hot-rolled coil lost 0.72%, while coking coal fell 2.8% and coke fell 3.0%. Iron ore already lost 6.1% in September and 2.6% in October, and analysts still expect a fourth-quarter supply glut.
+TH	แร่เหล็กสิงคโปร์เพิ่มขึ้น 0.3% มาอยู่ราว 91 ดอลลาร์ต่อตัน และต้าเหลียนปิดทรงตัวที่ 674.5 หยวน ข้อมูล Mysteel ชี้ว่าผลผลิตเหล็กถลุงลดลงเพียง 0.2% เหลือ 2.32 ล้านตันต่อวัน น้อยกว่าที่เทรดเดอร์กังวล แต่ราคาเหล็กไม่ขยับตาม เหล็กเส้นเซี่ยงไฮ้ลดลง 1.05% และเหล็กแผ่นรีดร้อนลดลง 0.72% ส่วนถ่านโค้กกิ้งลดลง 2.8% และถ่านโค้กลดลง 3.0% แร่เหล็กลดลงแล้ว 6.1% ในเดือนกันยายน และ 2.6% ในเดือนตุลาคม และนักวิเคราะห์ยังคาดว่าจะมีอุปทานล้นในไตรมาสสี่
+IMP	Softer Chinese rebar and coil plus cheaper coke point to weaker regional steel offers, which squeezes trading margins on stock.	เหล็กเส้นและเหล็กแผ่นจีนที่อ่อนตัว บวกกับถ่านโค้กที่ถูกลง ชี้ว่าราคาเสนอขายเหล็กในภูมิภาคจะอ่อนลง และกดดันมาร์จินการค้าของสต็อกที่ถืออยู่
+W	dissent	การลงมติสวน	A formal vote against the majority decision of a policy committee.	
+W	all-stock deal	ดีลซื้อกิจการด้วยการแลกหุ้น	An acquisition paid in the buyer's shares instead of cash.	
+W	supply glut	อุปทานล้นตลาด	More product on the market than buyers need, which pushes prices down.	
+W	rate gap	ส่วนต่างอัตราดอกเบี้ย	The difference between two countries' interest rates, a key driver of currency moves.	
+W	hot metal output	ผลผลิตเหล็กถลุง	Molten iron from blast furnaces, a close proxy for iron ore demand.	
+W	on the table	อยู่ในการพิจารณา	Being seriously considered as an option.	
+W	spook investors	ทำให้นักลงทุนตื่นกลัว	To make investors suddenly nervous, often causing them to sell.	
+Q	If Hormuz reopens, how far could Brent fall, and what would it mean for Thai diesel and the baht?
+Q	If the Fed hikes in December while the BOT holds at 1.00%, where does USD/THB go by mid 2027?

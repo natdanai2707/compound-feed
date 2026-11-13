@@ -1,0 +1,47 @@
+TYPE	news
+DATE	2026-11-05
+TITLE	Democratic sweep lifts stocks and sinks oil	เดโมแครตกวาดชัยรัฐสภา หุ้นพุ่ง น้ำมันดิ่ง
+NOTE	US and Thai closes for Wednesday, Nov 4. Crypto and spot gold are from Wednesday evening US time.
+M	S&P 500	7,688.62	+1.58%	
+M	Nasdaq	25,736.51	+1.44%	Composite
+M	SET	1,502.09	+0.74%	
+M	USD/THB	33.61	−0.51%	Baht firmer
+M	Gold	$4,062	+3.3%	Spot
+M	Brent	$94.62	−8.7%	
+M	US 10Y	4.89%	−7 bps	
+M	Iron ore	$91.95	+1.0%	62% Fe, CFD
+M	Bitcoin	$80,156	+3.6%	24 hours
+M	Ethereum	$2,421	+6.6%	24 hours
+S		Democrats sweep Congress, Dow has best day since April 2025	เดโมแครตกวาดรัฐสภา ดาวโจนส์ดีที่สุดนับจากเมษายน 2025
+EN	Democrats won both chambers of Congress, ending unified Republican government. The Dow jumped 3.03%, its best day since April 2025, as investors welcomed gridlock and fewer policy surprises. Money rotated out of chips and into consumer, financial and health care stocks. Nvidia fell 3.17% on fears of tighter limits on AI data centers. After the close, Qualcomm dropped about 6.5% as handset chip sales slumped.
+TH	เดโมแครตชนะทั้งสองสภา ปิดฉากการที่รีพับลิกันคุมทั้งรัฐบาลและรัฐสภา ดาวโจนส์พุ่ง 3.03% ดีที่สุดนับจากเมษายน 2025 เพราะนักลงทุนชอบภาวะการเมืองคานอำนาจกัน ซึ่งหมายถึงนโยบายที่เซอร์ไพรส์น้อยลง เงินไหลออกจากหุ้นชิปเข้าสู่หุ้นกลุ่มผู้บริโภค การเงิน และสุขภาพ Nvidia ร่วง 3.17% จากความกังวลว่าจะมีข้อจำกัดศูนย์ข้อมูล AI เข้มขึ้น หลังตลาดปิด Qualcomm ลงราว 6.5% เพราะยอดขายชิปมือถือทรุด
+IMP	Tariff risk stays, since Section 301 tariffs need no vote in Congress. Do not expect quick relief for Thai exporters.	ความเสี่ยงภาษีนำเข้ายังอยู่ เพราะภาษีตามมาตรา 301 ไม่ต้องผ่านรัฐสภา ผู้ส่งออกไทยอย่าเพิ่งหวังว่าจะผ่อนคลายเร็ว
+S		Brent falls 8.7% on hopes for an end to the Iran war	เบรนท์ร่วง 8.7% จากความหวังสงครามอิหร่านยุติ
+EN	Brent settled at $94.62, down $8.98, its third straight loss. WTI closed at $88.12. Traders read the election as pressure on Washington to end the Iran war, and Qatar is mediating talks. The physical market has not caught up. Hormuz remains severely restricted, with about 490 ships waiting outside the strait on Tuesday.
+TH	เบรนท์ปิดที่ 94.62 ดอลลาร์ ลดลง 8.98 ดอลลาร์ ลงต่อเนื่องเป็นวันที่สาม ส่วน WTI ปิดที่ 88.12 ดอลลาร์ ตลาดตีความผลเลือกตั้งว่าเป็นแรงกดดันให้วอชิงตันยุติสงครามอิหร่าน และกาตาร์กำลังเป็นตัวกลางเจรจา แต่ตลาดจริงยังตามไม่ทัน ช่องแคบฮอร์มุซยังถูกจำกัดหนัก โดยมีเรือรออยู่นอกช่องแคบราว 490 ลำเมื่อวันอังคาร
+IMP	Thai diesel stands at 42.54 baht a litre. If crude holds here, freight and energy costs should ease.	ดีเซลไทยอยู่ที่ 42.54 บาทต่อลิตร ถ้าน้ำมันดิบทรงระดับนี้ได้ ค่าขนส่งและค่าพลังงานน่าจะลดลง
+S		BoE set to hike today, Fed hike still in play	BoE จ่อขึ้นดอกเบี้ยวันนี้ เฟดยังมีโอกาสขึ้น
+EN	The Bank of England is expected to raise Bank Rate to 4% from 3.75% today. An energy shock has pushed UK inflation to 3.5%. Markets still price close to an 80% chance of a Fed hike in December, even after yields fell. The 10-year Treasury yield dropped to about 4.89% and the dollar weakened. Gold jumped 3.3%, its biggest daily gain since mid-August.
+TH	ตลาดคาดว่าธนาคารกลางอังกฤษจะขึ้นดอกเบี้ยนโยบายจาก 3.75% เป็น 4% วันนี้ เพราะวิกฤตพลังงานดันเงินเฟ้ออังกฤษขึ้นไป 3.5% ตลาดยังให้โอกาสเกือบ 80% ที่เฟดจะขึ้นดอกเบี้ยในเดือนธันวาคม แม้อัตราผลตอบแทนจะลดลงแล้ว อัตราผลตอบแทนพันธบัตรสหรัฐ 10 ปีลงมาที่ราว 4.89% และดอลลาร์อ่อนค่า ทองคำพุ่ง 3.3% มากสุดในหนึ่งวันนับจากกลางเดือนสิงหาคม
+IMP	With Thailand at 1.00% and the Fed at 3.75% to 4%, the wide rate gap limits how far the baht can rise.	ไทยอยู่ที่ 1.00% ขณะที่เฟดอยู่ที่ 3.75% ถึง 4% ส่วนต่างดอกเบี้ยที่กว้างจึงจำกัดการแข็งค่าของเงินบาท
+S		SET closes above 1,500 as the baht firms	SET ปิดเหนือ 1,500 เงินบาทแข็งค่า
+EN	The SET fell about 20 points early, then recovered to close at 1,502.09. DELTA turned positive as Nasdaq-100 futures rebounded. The baht firmed to about 33.61 per dollar. The Bank of Thailand has held its policy rate at 1.00% for four straight meetings. The World Bank warned that at the current pace Thailand would reach high-income status only in 2067, not by its 2037 target.
+TH	SET ร่วงราว 20 จุดช่วงเช้า ก่อนฟื้นมาปิดที่ 1,502.09 จุด DELTA พลิกเป็นบวกเมื่อฟิวเจอร์ส Nasdaq-100 ดีดกลับ เงินบาทแข็งค่าขึ้นมาที่ราว 33.61 บาทต่อดอลลาร์ ธนาคารแห่งประเทศไทยคงดอกเบี้ยนโยบายที่ 1.00% ติดต่อกันสี่ครั้ง ธนาคารโลกเตือนว่าหากเดินด้วยอัตรานี้ ไทยจะเป็นประเทศรายได้สูงในปี 2067 ไม่ใช่ปี 2037 ตามเป้า
+IMP	A firmer baht lowers the cost of dollar-priced inputs such as steel, but trims export margins.	เงินบาทที่แข็งขึ้นช่วยลดต้นทุนวัตถุดิบที่อิงดอลลาร์ เช่น เหล็ก แต่กดมาร์จิ้นส่งออก
+S		Iron ore near $92, Thai steel pushes back on imports	แร่เหล็กใกล้ 92 ดอลลาร์ เหล็กไทยสู้สินค้านำเข้า
+EN	Iron ore rose about 1% to near $92 a tonne, a four-week high. China's hot metal output fell just 0.2% in the latest weekly data, far less than the market expected. Steel itself looks weaker, and rebar slipped about 1%. In Bangkok, the Commerce Ministry met 10 steel associations last week on a four-point plan. It covers anti-dumping evasion and structural steel imports, which reached 798,584 tonnes from January to August. Thai mills ran at only 34% of capacity in the first half.
+TH	แร่เหล็กขึ้นราว 1% ใกล้ 92 ดอลลาร์ต่อตัน สูงสุดในรอบสี่สัปดาห์ ผลผลิตเหล็กถลุงของจีนลดเพียง 0.2% ในข้อมูลรายสัปดาห์ล่าสุด น้อยกว่าที่ตลาดคาดมาก ส่วนตัวเหล็กเองดูอ่อนแอกว่า เหล็กข้ออ้อยลงราว 1% ที่กรุงเทพฯ กระทรวงพาณิชย์หารือกับ 10 สมาคมเหล็กเมื่อสัปดาห์ก่อนเรื่องแผนสี่ข้อ ครอบคลุมการหลบเลี่ยงอากรตอบโต้การทุ่มตลาดและการนำเข้าเหล็กโครงสร้าง ซึ่งมี 798,584 ตันในช่วงมกราคมถึงสิงหาคม โรงงานไทยใช้กำลังการผลิตเพียง 34% ในครึ่งปีแรก
+IMP	Tighter rules on structural steel imports would help fabricators but could squeeze traders who rely on cheap imports.	กฎนำเข้าเหล็กโครงสร้างที่เข้มขึ้นจะช่วยผู้รับงานผลิต แต่อาจกดดันเทรดเดอร์ที่พึ่งของนำเข้าราคาถูก
+S		Crypto: Bitcoin back above $80,000 on a short squeeze	คริปโต: บิตคอยน์กลับเหนือ 80,000 ดอลลาร์จากแรงบีบชอร์ต
+EN	Bitcoin rebounded from an election-night low near $75,600 to about $80,150, up 3.6%. Ether did better, rising 6.6% to about $2,420. The move was mainly a short squeeze, with more than $900 million of liquidations, rather than fresh buying. Spot Bitcoin ETFs lost more than $1.1 billion in the three sessions to Tuesday. Binance also suffered a $6.34 billion breach less than a week earlier. Democrats are reportedly weighing changes to the stalled CLARITY Act, including wider SEC authority.
+TH	บิตคอยน์ฟื้นจากจุดต่ำคืนเลือกตั้งใกล้ 75,600 ดอลลาร์ มาอยู่ที่ราว 80,150 ดอลลาร์ เพิ่มขึ้น 3.6% อีเธอร์ดีกว่า ขึ้น 6.6% มาที่ราว 2,420 ดอลลาร์ การขึ้นครั้งนี้มาจากแรงบีบชอร์ตเป็นหลัก โดยมีการถูกบังคับปิดสถานะกว่า 900 ล้านดอลลาร์ ไม่ใช่แรงซื้อใหม่ กองทุน ETF บิตคอยน์แบบสปอตมีเงินไหลออกกว่า 1.1 พันล้านดอลลาร์ในสามวันทำการจนถึงวันอังคาร Binance ก็เพิ่งถูกเจาะระบบมูลค่า 6.34 พันล้านดอลลาร์เมื่อไม่ถึงสัปดาห์ก่อนหน้า มีรายงานว่าเดโมแครตกำลังพิจารณาแก้ร่าง CLARITY Act ที่ค้างอยู่ รวมถึงเพิ่มอำนาจให้ SEC
+W	gridlock	ภาวะการเมืองตัน	A situation where divided power stops major laws from passing.	The Dow jumped 3.03%, its best day since April 2025, as investors welcomed gridlock and fewer policy surprises.
+W	rotated	หมุนเวียนเงินลงทุน	Moved money from one group of assets to another.	Money rotated out of chips and into consumer, financial and health care stocks.
+W	settled	ปิดราคาซื้อขาย	Finished the session at the official closing price of a futures contract.	Brent settled at $94.62, down $8.98, its third straight loss.
+W	Bank Rate	อัตราดอกเบี้ยนโยบายของอังกฤษ	The Bank of England's main policy interest rate.	The Bank of England is expected to raise Bank Rate to 4% from 3.75% today.
+W	hot metal output	ผลผลิตเหล็กถลุง	The volume of molten iron from blast furnaces, a proxy for iron ore demand.	China's hot metal output fell just 0.2% in the latest weekly data, far less than the market expected.
+W	anti-dumping evasion	การหลบเลี่ยงอากรตอบโต้การทุ่มตลาด	Rerouting or altering goods to avoid duties on underpriced imports.	It covers anti-dumping evasion and structural steel imports, which reached 798,584 tonnes from January to August.
+W	short squeeze	แรงบีบชอร์ต	A rally that forces short sellers to buy back, pushing prices higher.	The move was mainly a short squeeze, with more than $900 million of liquidations, rather than fresh buying.
+W	Spot Bitcoin ETFs	กองทุน ETF บิตคอยน์แบบสปอต	Exchange-traded funds that hold actual Bitcoin.	Spot Bitcoin ETFs lost more than $1.1 billion in the three sessions to Tuesday.
+Q	If Iran talks stall and Brent returns above $100, which of your input costs rise first?
+Q	How would a rule on structural steel imports change your trading margin versus your fabrication margin?

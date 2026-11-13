@@ -1,31 +1,31 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
-concept-2026-11-10.epub	concept	2026-11-10	How Red Bull turned a Thai truckers' tonic into a global category	2026-11-09T23:46:49Z	c0ea1fb12e60
-news-2026-11-10.epub	news	2026-11-10	Oil slide fuels stock rebound ahead of US inflation test	2026-11-09T23:30:00Z	30cb00dd29ca
-concept-2026-11-09.epub	concept	2026-11-09	How Grab beat Uber in Southeast Asia by building for local streets	2026-11-09T06:55:00+07:00	2a32ad0ab20a
-news-2026-11-09.epub	news	2026-11-09	AI rout, oil slump and a hawkish Fed set a nervous tone	2026-11-08T23:14:40+00:00	56d6e6a8be5b
-concept-2026-11-08.epub	concept	2026-11-08	How Warby Parker took on Luxottica with $95 glasses	2026-11-07T23:45:59.636104+00:00	16cda5d974f5
-news-2026-11-08.epub	news	2026-11-08	AI rout and a hot jobs report end a brutal week	2026-11-07T23:14:25+00:00	fd3d75c6fbac
-concept-2026-11-07.epub	concept	2026-11-07	How Mixue became the world's largest food chain with US$1 drinks	2026-11-06T23:46:11.463288+00:00	60e1331df574
-news-2026-11-07.epub	news	2026-11-07	AI rout and a hawkish Fed rattle markets	2026-11-06T23:15:15+00:00	1424f95e4ba4
-concept-2026-11-06-2342.epub	concept	2026-11-06	How Hilti beat cheaper tool brands by selling working tools, not drills	2026-11-06T23:42:25+07:00	e360aa9cd940
-concept-2026-11-06.epub	concept	2026-11-06	Why a bank mailed credit cards to a whole city without asking	2026-11-06T06:46:19+07:00	492a2e8c0532
-news-2026-11-06.epub	news	2026-11-06	AI rout gives Wall Street its worst day since April 2025	2026-11-06T06:40:00+07:00	2b90a51847b7
-concept-2026-11-05.epub	concept	2026-11-05	Why a Coke cost a nickel for 70 years	2026-11-04T23:46:36+00:00	3d63aa2e47e0
-news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00	8b46da8f079c
-concept-2026-11-04.epub	concept	2026-11-04	Why enemy soldiers stopped shooting each other in the trenches	2026-11-04T06:47:11+07:00	f2b2f84ff5b9
-news-2026-11-04.epub	news	2026-11-04	AMD Lifts Chips as the 10-Year Yield Nears 5%	2026-11-03T23:16:51Z	5d4495773a68
-concept-2026-11-03.epub	concept	2026-11-03	Why a fight over frozen chicken still decides which pickups Americans can buy	2026-11-02T23:47:00Z	3f4be13315bd
-news-2026-11-03.epub	news	2026-11-03	Oil plunges on Iran talks as AI stocks slide before the midterms	2026-11-03T06:16:18+07:00	9d09a5e4b076
-concept-2026-11-02.epub	concept	2026-11-02	Why Silicon Valley got rich by letting its people walk out	2026-11-01T23:44:56+00:00	c8bd37a38785
-news-2026-11-02.epub	news	2026-11-02	Tech Rout Caps October as Fed Hike Bets Grow	2026-11-01T23:14:30Z	8a1e9efb9f95
-concept-2026-11-01.epub	concept	2026-11-01	Why nobody sells their diamond ring	2026-11-01T06:50:00+07:00	1563645e0118
-news-2026-11-01.epub	news	2026-11-01	AI doubts and Hormuz oil shock end October on a sour note	2026-10-31T23:14:57+00:00	f774397451ee
-concept-2026-10-31.epub	concept	2026-10-31	How a coffee house became the world's insurance market	2026-10-31T06:50:00+07:00	3783fa416826
-news-2026-10-31.epub	news	2026-10-31	AI spending doubts and Hormuz oil shock end October on a sour note	2026-10-30T23:15:15+00:00	3a148aaa2146
-concept-2026-10-30.epub	concept	2026-10-30	How a trucker's steel box emptied New York's docks	2026-10-30T06:50:00+07:00	6163373c1af1
-news-2026-10-30.epub	news	2026-10-30	AI spending fears hit tech as hot US data keeps a Fed hike in play	2026-10-30T06:15:12+07:00	3ec706da2694
-concept-2026-10-29.epub	concept	2026-10-29	Why J.P. Morgan locked 120 bankers in his library	2026-10-29T06:50:00+07:00	faa8ab524837
-news-2026-10-29.epub	news	2026-10-29	Fed holds, but two hawks and $114 oil keep yields above 5%	2026-10-29T06:15:23+07:00	723310412cfa
-concept-2026-10-28.epub	concept	2026-10-28	Why American shops once needed two telephones	2026-10-27T23:45:00Z	eb6543840583
-news-2026-10-28.epub	news	2026-10-28	Tech rallies as markets brace for a hawkish Fed	2026-10-27T23:17:32Z	4f53f1532518
-concept-2026-10-27.epub	concept	2026-10-27	Why honest prices nearly killed J.C. Penney	2026-10-26T23:44:37Z	fb8c21a10df5
+concept-2026-11-13.epub	concept	2026-11-13	How YETI sold a $300 cooler in a $30 market	2026-11-12T23:46:24+00:00	f1c142dabf7a
+news-2026-11-13.epub	news	2026-11-13	Hot inflation puts a December Fed hike on the table	2026-11-12T23:18:24+00:00	e86e16bb18af
+concept-2026-11-12.epub	concept	2026-11-12	How Pop Mart turned blind boxes into a US$5bn toy brand	2026-11-11T23:46:12+00:00	168be53f2c96
+news-2026-11-12.epub	news	2026-11-12	Rate hike fears meet an AI rebound	2026-11-11T23:15:23+00:00	4980228b562c
+concept-2026-11-11.epub	concept	2026-11-11	How Fastenal turned a small-town bolt shop into an US$8bn supplier by moving inside its customers' factories	2026-11-10T23:58:00Z	ec289fe7e6c5
+news-2026-11-11.epub	news	2026-11-11	Hot US inflation lifts yields to 5%, oil slides	2026-11-10T23:14:37+00:00	b0956a485f08
+concept-2026-11-10.epub	concept	2026-11-10	How Red Bull turned a Thai truckers' tonic into a global category	2026-11-09T23:46:49Z	af541bb1a951
+news-2026-11-10.epub	news	2026-11-10	Oil slide fuels stock rebound ahead of US inflation test	2026-11-09T23:30:00Z	6ad84e90a9e6
+concept-2026-11-09.epub	concept	2026-11-09	How Grab beat Uber in Southeast Asia by building for local streets	2026-11-09T06:55:00+07:00	1ea24f907976
+news-2026-11-09.epub	news	2026-11-09	AI rout, oil slump and a hawkish Fed set a nervous tone	2026-11-08T23:14:40+00:00	9dd9d00039a6
+concept-2026-11-08.epub	concept	2026-11-08	How Warby Parker took on Luxottica with $95 glasses	2026-11-07T23:45:59.636104+00:00	8e5e085f8629
+news-2026-11-08.epub	news	2026-11-08	AI rout and a hot jobs report end a brutal week	2026-11-07T23:14:25+00:00	317fd9b25597
+concept-2026-11-07.epub	concept	2026-11-07	How Mixue became the world's largest food chain with US$1 drinks	2026-11-06T23:46:11.463288+00:00	41dc4c078f8a
+news-2026-11-07.epub	news	2026-11-07	AI rout and a hawkish Fed rattle markets	2026-11-06T23:15:15+00:00	5d1eeac185a1
+concept-2026-11-06-2342.epub	concept	2026-11-06	How Hilti beat cheaper tool brands by selling working tools, not drills	2026-11-06T23:42:25+07:00	f97be09f3b8f
+concept-2026-11-06.epub	concept	2026-11-06	Why a bank mailed credit cards to a whole city without asking	2026-11-06T06:46:19+07:00	df30bd9beae0
+news-2026-11-06.epub	news	2026-11-06	AI rout gives Wall Street its worst day since April 2025	2026-11-06T06:40:00+07:00	2a7f70f8ccc6
+concept-2026-11-05.epub	concept	2026-11-05	Why a Coke cost a nickel for 70 years	2026-11-04T23:46:36+00:00	70b97c6bc9b5
+news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00	80987a25513a
+concept-2026-11-04.epub	concept	2026-11-04	Why enemy soldiers stopped shooting each other in the trenches	2026-11-04T06:47:11+07:00	b1e6dcd35b98
+news-2026-11-04.epub	news	2026-11-04	AMD Lifts Chips as the 10-Year Yield Nears 5%	2026-11-03T23:16:51Z	fba92f392646
+concept-2026-11-03.epub	concept	2026-11-03	Why a fight over frozen chicken still decides which pickups Americans can buy	2026-11-02T23:47:00Z	d27d3844d4da
+news-2026-11-03.epub	news	2026-11-03	Oil plunges on Iran talks as AI stocks slide before the midterms	2026-11-03T06:16:18+07:00	9dc549954345
+concept-2026-11-02.epub	concept	2026-11-02	Why Silicon Valley got rich by letting its people walk out	2026-11-01T23:44:56+00:00	edaa45df4859
+news-2026-11-02.epub	news	2026-11-02	Tech Rout Caps October as Fed Hike Bets Grow	2026-11-01T23:14:30Z	bdc5e0d1c37a
+concept-2026-11-01.epub	concept	2026-11-01	Why nobody sells their diamond ring	2026-11-01T06:50:00+07:00	919531bc1a11
+news-2026-11-01.epub	news	2026-11-01	AI doubts and Hormuz oil shock end October on a sour note	2026-10-31T23:14:57+00:00	72e8ac40424b
+concept-2026-10-31.epub	concept	2026-10-31	How a coffee house became the world's insurance market	2026-10-31T06:50:00+07:00	70e91213b901
+news-2026-10-31.epub	news	2026-10-31	AI spending doubts and Hormuz oil shock end October on a sour note	2026-10-30T23:15:15+00:00	8621e124fd83
+concept-2026-10-30.epub	concept	2026-10-30	How a trucker's steel box emptied New York's docks	2026-10-30T06:50:00+07:00	b7fb490d06cc

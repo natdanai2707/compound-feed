@@ -1,0 +1,42 @@
+TYPE	news
+DATE	2026-11-08
+TITLE	AI rout and a hot jobs report end a brutal week	หุ้น AI ร่วงและตัวเลขจ้างงานร้อนแรง ปิดฉากสัปดาห์ที่หนักหน่วง
+NOTE	Sunday edition: markets use Friday Nov 6 closes; crypto is Saturday Nov 7 (UTC).
+M	S&P 500	7,376.86	+0.31%	
+M	Nasdaq	24,579.42	+1.09%	
+M	SET	1,465.70	−2.16%	Six-month low
+M	USD/THB	33.56	+0.45%	vs Thursday close 33.41
+M	Gold	$4,070	−0.42%	Up 4%+ on the week
+M	Brent	$98.32	−16%	Weekly change
+M	US 10Y	4.86%	+2 bp	
+M	Iron ore	$92.70/t	−0.45%	
+M	Bitcoin	$75,836	−0.6%	Sat Nov 7 snapshot
+M	Ethereum	$2,240	+0.5%	Sat Nov 7 snapshot
+S		AI rout after midterms drags Nasdaq to fourth weekly loss	หุ้น AI ร่วงหลังเลือกตั้งกลางเทอม ฉุด Nasdaq ลงเป็นสัปดาห์ที่สี่
+EN	Wall Street ended a brutal week with a partial rebound on Friday. The Nasdaq rose 1.1% and the S&P 500 gained 0.3%, but the Nasdaq still lost about 3.4% for the week and slipped into a correction on Thursday. That day the S&P 500 fell more than 4%, its worst session since the April 2025 tariff crash, and chip stocks dropped 12%. The trigger was the Democratic midterm win, which raised fears of new rules that could slow data center construction. Some strategists call the sell-off an overreaction, but tech valuations now face a political risk they did not price before.
+TH	วอลล์สตรีทปิดสัปดาห์ที่หนักหน่วงด้วยการฟื้นตัวบางส่วนในวันศุกร์ Nasdaq บวก 1.1% และ S&P 500 บวก 0.3% แต่ทั้งสัปดาห์ Nasdaq ยังลดลงราว 3.4% และเข้าสู่ภาวะปรับฐาน (correction) ในวันพฤหัสบดี วันนั้น S&P 500 ร่วงกว่า 4% แย่ที่สุดนับตั้งแต่วิกฤตภาษีศุลกากรเมษายน 2025 และหุ้นชิปดิ่ง 12% ชนวนคือชัยชนะของพรรคเดโมแครตในการเลือกตั้งกลางเทอม ซึ่งทำให้กังวลว่ากฎใหม่จะชะลอการก่อสร้างดาต้าเซ็นเตอร์ นักกลยุทธ์บางรายมองว่าเป็นการขายที่มากเกินไป แต่มูลค่าหุ้นเทคตอนนี้ต้องเผชิญความเสี่ยงทางการเมืองที่ไม่เคยถูกสะท้อนในราคามาก่อน
+S		Strong jobs report puts a December Fed hike back in play	ตัวเลขจ้างงานแข็งแกร่ง ดันโอกาสเฟดขึ้นดอกเบี้ยเดือนธันวาคม
+EN	US nonfarm payrolls rose by 165,000 in October, far above the roughly 65,000 that economists expected. Unemployment dipped to 4.1% and earlier months were revised up by 84,000. Futures now price about a 77% chance of a Fed rate hike in December, up from 67% before the data. The 10-year Treasury yield rose to about 4.86%. A hiking Fed keeps the dollar firm and tightens financing conditions for emerging markets.
+TH	การจ้างงานนอกภาคเกษตรของสหรัฐฯ เดือนตุลาคมเพิ่มขึ้น 165,000 ตำแหน่ง สูงกว่าที่นักเศรษฐศาสตร์คาดไว้ราว 65,000 ตำแหน่งมาก อัตราว่างงานลดลงเป็น 4.1% และตัวเลขเดือนก่อนหน้าถูกปรับขึ้นรวม 84,000 ตำแหน่ง ตลาดฟิวเจอร์สตอนนี้ให้โอกาสราว 77% ที่เฟดจะขึ้นดอกเบี้ยในเดือนธันวาคม จาก 67% ก่อนตัวเลขออก ผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ อายุ 10 ปีขึ้นไปที่ราว 4.86% เฟดที่ขึ้นดอกเบี้ยจะทำให้ดอลลาร์แข็งและภาวะการเงินของตลาดเกิดใหม่ตึงตัวขึ้น
+IMP	Higher US rates keep pressure on the baht and on Thai borrowing costs into year end.	ดอกเบี้ยสหรัฐฯ ที่สูงขึ้นยังกดดันค่าเงินบาทและต้นทุนกู้ยืมของไทยไปจนถึงสิ้นปี
+S		Oil falls 16% on Iran deal hopes as gold climbs	น้ำมันร่วง 16% จากความหวังข้อตกลงอิหร่าน ขณะที่ทองคำพุ่ง
+EN	Brent crude settled the week at about $98 a barrel, down more than 16% from near $117. Traders are betting on a deal with Iran after Tehran reportedly sent a nuclear proposal to Washington through Qatar. Risk has not gone away. Iran reported three more tanker attacks in the Strait of Hormuz on Thursday, and flows there are running below 60% of capacity. Gold eased 0.4% on Friday after the jobs data but still gained more than 4% for the week on safe-haven demand.
+TH	น้ำมันดิบเบรนท์ปิดสัปดาห์ที่ราว 98 ดอลลาร์ต่อบาร์เรล ลดลงกว่า 16% จากระดับใกล้ 117 ดอลลาร์ นักลงทุนเดิมพันว่าจะมีข้อตกลงกับอิหร่าน หลังมีรายงานว่าเตหะรานส่งข้อเสนอด้านนิวเคลียร์ไปยังวอชิงตันผ่านกาตาร์ แต่ความเสี่ยงยังไม่หายไป อิหร่านรายงานการโจมตีเรือบรรทุกน้ำมันในช่องแคบฮอร์มุซเพิ่มอีกสามครั้งเมื่อวันพฤหัสบดี และปริมาณการขนส่งผ่านช่องแคบยังต่ำกว่า 60% ของกำลังปกติ ทองคำอ่อนตัว 0.4% ในวันศุกร์หลังตัวเลขจ้างงาน แต่ทั้งสัปดาห์ยังบวกกว่า 4% จากแรงซื้อสินทรัพย์ปลอดภัย
+IMP	Cheaper oil eases Thai energy costs and freight, but a failed deal could reverse it fast.	น้ำมันที่ถูกลงช่วยลดต้นทุนพลังงานและค่าขนส่งในไทย แต่ถ้าข้อตกลงล่มราคาอาจกลับขึ้นเร็ว
+S		SET sinks to six-month low as BoT holds at 1%	SET ร่วงต่ำสุดในรอบหกเดือน ขณะที่ ธปท. คงดอกเบี้ย 1%
+EN	The SET index fell 2.2% on Friday to 1,465.70, a six-month low, as the global tech rout spread from electronics stocks to most sectors. Turnover was heavy at 79 billion baht. The baht weakened to about 33.56 per dollar as the dollar firmed. The Bank of Thailand has kept its policy rate at 1.00% for a fourth straight meeting, while October inflation jumped to 3.9% on higher energy costs. Iron ore held near $93 a tonne, so steel input costs are stable for now.
+TH	ดัชนี SET ร่วง 2.2% ในวันศุกร์ปิดที่ 1,465.70 จุด ต่ำสุดในรอบหกเดือน เพราะแรงขายหุ้นเทคทั่วโลกลามจากกลุ่มอิเล็กทรอนิกส์ไปเกือบทุกกลุ่ม มูลค่าซื้อขายสูงที่ 79,000 ล้านบาท เงินบาทอ่อนลงไปที่ราว 33.56 บาทต่อดอลลาร์ตามดอลลาร์ที่แข็งขึ้น ธนาคารแห่งประเทศไทยคงอัตราดอกเบี้ยนโยบายที่ 1.00% เป็นครั้งที่สี่ติดต่อกัน ขณะที่เงินเฟ้อเดือนตุลาคมพุ่งเป็น 3.9% จากต้นทุนพลังงาน แร่เหล็กทรงตัวใกล้ 93 ดอลลาร์ต่อตัน ต้นทุนวัตถุดิบเหล็กจึงยังนิ่งในตอนนี้
+IMP	A weak baht lifts the cost of imported steel, while a 1% policy rate keeps local credit cheap.	บาทอ่อนทำให้เหล็กนำเข้าแพงขึ้น ขณะที่ดอกเบี้ยนโยบาย 1% ยังทำให้สินเชื่อในประเทศถูก
+S		Crypto: Bitcoin hits lowest since August as ETF outflows mount	คริปโต: บิตคอยน์ต่ำสุดตั้งแต่สิงหาคม ขณะเงินไหลออกจาก ETF เพิ่มขึ้น
+EN	Bitcoin touched $74,762 on Friday, its lowest level since August 21, before steadying near $75,800 on Saturday. The selling followed the tech rout, as investors treat crypto as a high-beta version of the AI trade. US spot Bitcoin ETFs saw net outflows of about $870 million in the first four sessions of November. About $1.26 billion of positions were wiped out in liquidations, mostly leveraged longs. Ether held near $2,240 after a 7% drop on Thursday, and higher odds of a Fed hike are capping any rebound.
+TH	บิตคอยน์แตะ 74,762 ดอลลาร์ในวันศุกร์ ต่ำสุดนับตั้งแต่ 21 สิงหาคม ก่อนทรงตัวใกล้ 75,800 ดอลลาร์ในวันเสาร์ แรงขายตามมาหลังหุ้นเทคร่วง เพราะนักลงทุนมองคริปโตเป็นเวอร์ชันความผันผวนสูงของธีม AI กองทุน ETF บิตคอยน์แบบสปอตในสหรัฐฯ มีเงินไหลออกสุทธิราว 870 ล้านดอลลาร์ในสี่วันทำการแรกของเดือนพฤศจิกายน สถานะราว 1,260 ล้านดอลลาร์ถูกล้างจากการบังคับขาย ส่วนใหญ่เป็นสถานะซื้อที่ใช้เลเวอเรจ อีเธอร์ทรงตัวใกล้ 2,240 ดอลลาร์หลังร่วง 7% ในวันพฤหัสบดี และโอกาสที่เฟดจะขึ้นดอกเบี้ยที่สูงขึ้นจำกัดการฟื้นตัว
+W	correction	ภาวะปรับฐาน	A fall of 10% or more from a recent peak in an index or asset.	The Nasdaq rose 1.1% and the S&P 500 gained 0.3%, but the Nasdaq still lost about 3.4% for the week and slipped into a correction on Thursday.
+W	overreaction	การตอบสนองเกินเหตุ	A price move larger than the news justifies.	Some strategists call the sell-off an overreaction, but tech valuations now face a political risk they did not price before.
+W	nonfarm payrolls	การจ้างงานนอกภาคเกษตร	The monthly US count of jobs added outside farming, a key Fed input.	US nonfarm payrolls rose by 165,000 in October, far above the roughly 65,000 that economists expected.
+W	rate hike	การขึ้นอัตราดอกเบี้ย	A central bank decision to raise its policy interest rate.	Futures now price about a 77% chance of a Fed rate hike in December, up from 67% before the data.
+W	safe-haven demand	แรงซื้อสินทรัพย์ปลอดภัย	Buying of assets like gold that investors expect to hold value in a crisis.	Gold eased 0.4% on Friday after the jobs data but still gained more than 4% for the week on safe-haven demand.
+W	policy rate	อัตราดอกเบี้ยนโยบาย	The benchmark rate a central bank sets to steer borrowing costs.	The Bank of Thailand has kept its policy rate at 1.00% for a fourth straight meeting, while October inflation jumped to 3.9% on higher energy costs.
+W	net outflows	เงินไหลออกสุทธิ	More money leaving a fund than coming in over a period.	US spot Bitcoin ETFs saw net outflows of about $870 million in the first four sessions of November.
+W	liquidations	การบังคับปิดสถานะ	Forced closing of leveraged positions when margin runs out.	About $1.26 billion of positions were wiped out in liquidations, mostly leveraged longs.
+Q	If the Fed hikes in December while the Bank of Thailand holds at 1%, how far could the baht weaken toward 34?
+Q	Would a US and Iran deal push Brent back toward $90, and what would that mean for Thai freight and steel costs?
