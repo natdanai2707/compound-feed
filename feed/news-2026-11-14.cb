@@ -1,0 +1,41 @@
+TYPE	news
+DATE	2026-11-14
+TITLE	Hot inflation and Nvidia turmoil test markets; Bitcoin breaks $70,000	เงินเฟ้อร้อนแรงและความวุ่นวายที่ Nvidia กดดันตลาด บิทคอยน์หลุด 70,000 ดอลลาร์
+NOTE	US closes for Friday, Nov 13. SET close Nov 13. Oil and crypto are intraday Friday readings. Weekend: no trading until Monday.
+M	S&P 500	7,561.67	−0.40%	Week +2.5%
+M	Nasdaq	25,136.27	−0.91%	
+M	SET	1,504.88	+0.39%	
+M	USD/THB	33.88	−0.06%	
+M	Gold	$3,881.75	+0.14%	
+M	Brent	$95.5	−0.3%	Fri intraday
+M	US 10Y	5.15%	+5 bp	Highest since October
+M	Iron ore 62% Fe	$91.48/t	−0.13%	
+M	Bitcoin	~$69,000	−6%	Fri 07:30 UTC
+M	Ethereum	~$1,942	−5.2%	Fri 07:30 UTC
+S		Inflation keeps a December Fed hike in play	เงินเฟ้อทำให้เฟดอาจขึ้นดอกเบี้ยในเดือนธันวาคม
+EN	US wholesale prices rose 0.3% in October, a touch below forecasts. But the annual rate hit 6.5%, the highest since late 2022. That followed a hotter consumer price report earlier in the week. Markets now price roughly an 89% chance of a rate hike in December. The 10-year Treasury yield climbed to 5.15%, and the dollar sits near a 19-month high.
+TH	ราคาขายส่งของสหรัฐฯ เพิ่มขึ้น 0.3% ในเดือนตุลาคม ต่ำกว่าคาดเล็กน้อย แต่อัตรารายปีแตะ 6.5% สูงสุดตั้งแต่ปลายปี 2022 ตามหลังตัวเลขเงินเฟ้อผู้บริโภคที่ร้อนแรงเมื่อต้นสัปดาห์ ตลาดให้โอกาสราว 89% ที่เฟดจะขึ้นดอกเบี้ยในเดือนธันวาคม ผลตอบแทนพันธบัตรสหรัฐฯ อายุ 10 ปีขึ้นไปที่ 5.15% และดอลลาร์อยู่ใกล้ระดับสูงสุดในรอบ 19 เดือน
+IMP	A strong dollar and high US yields keep pressure on the baht and on Thai borrowing costs.	ดอลลาร์แข็งและผลตอบแทนสหรัฐฯ สูง ยังกดดันค่าเงินบาทและต้นทุนการกู้ยืมในไทย
+S		Nvidia leadership crisis drags chip stocks	วิกฤตผู้นำ Nvidia ฉุดหุ้นชิป
+EN	The Nasdaq fell 0.9% on Friday while the Dow edged up. Nvidia lost 2% after HSBC cut it to hold and slashed its price target to $170. The bank says the stock will struggle until a permanent CEO replaces Jensen Huang, who resigned this week. AMD dropped 8.75% and Broadcom fell almost 5%. Even so, the S&P 500 gained about 2.5% for the week. Nvidia reports earnings on November 17.
+TH	แนสแด็กลดลง 0.9% ในวันศุกร์ ขณะที่ดาวโจนส์ขยับขึ้นเล็กน้อย Nvidia ร่วง 2% หลัง HSBC ลดคำแนะนำเป็น ถือ และหั่นราคาเป้าหมายเหลือ 170 ดอลลาร์ ธนาคารมองว่าหุ้นจะซบเซาจนกว่าจะมีซีอีโอถาวรแทน Jensen Huang ที่ลาออกสัปดาห์นี้ AMD ดิ่ง 8.75% และ Broadcom ลดลงเกือบ 5% อย่างไรก็ดี S&P 500 ยังบวกราว 2.5% ทั้งสัปดาห์ Nvidia จะประกาศงบวันที่ 17 พฤศจิกายน
+S		SET holds 1,500 as BOT stays on hold	SET ยืนเหนือ 1,500 ขณะที่ ธปท. คงดอกเบี้ย
+EN	The SET rose 0.4% to 1,504.88 on turnover of 62.4 billion baht, led by banks. UBS upgraded Thailand to overweight, citing foreign direct investment and the AI investment cycle. Investors also expect a higher GDP forecast from the NESDC. Earlier this week the Bank of Thailand held its rate at 1.00%. It sees inflation turning negative in 2027 because of energy base effects, but rejects talk of structural deflation.
+TH	SET ปรับขึ้น 0.4% สู่ 1,504.88 จุด มูลค่าซื้อขาย 62.4 พันล้านบาท นำโดยหุ้นธนาคาร UBS ปรับน้ำหนักไทยเป็น มากกว่าตลาด จากการลงทุนตรงจากต่างประเทศและวัฏจักรการลงทุน AI นักลงทุนยังคาดว่าสภาพัฒน์จะปรับเพิ่มประมาณการ GDP ต้นสัปดาห์นี้ ธปท. คงดอกเบี้ยที่ 1.00% และคาดว่าเงินเฟ้อจะติดลบในปี 2027 จากผลของฐานราคาพลังงาน แต่ปฏิเสธว่าไม่ใช่ภาวะเงินฝืดเชิงโครงสร้าง
+IMP	Low Thai rates versus 5% US yields limit baht strength, near 33.9 per dollar.	ดอกเบี้ยไทยที่ต่ำเทียบกับผลตอบแทนสหรัฐฯ 5% จำกัดการแข็งค่าของบาท ซึ่งอยู่ราว 33.9 บาทต่อดอลลาร์
+S		Oil heads for second weekly drop; iron ore soft	น้ำมันมุ่งสู่การลดลงสัปดาห์ที่สอง แร่เหล็กอ่อนตัว
+EN	Brent traded near $95.5, down about 2.4% for the week after a 16% slide the week before. Washington will keep its blockade on Iranian oil but signalled no rush for a deal, which cooled fears of wider conflict. US crude inventories also rose by 4.7 million barrels against expectations of a draw. Attacks on Gulf energy sites stopped a deeper fall. Iron ore held near $91.5 a tonne, and Dalian futures slipped 0.5%.
+TH	เบรนท์ซื้อขายใกล้ 95.5 ดอลลาร์ ลดลงราว 2.4% ทั้งสัปดาห์ หลังร่วง 16% ในสัปดาห์ก่อน สหรัฐฯ จะคงการปิดล้อมน้ำมันอิหร่านแต่ส่งสัญญาณว่าไม่เร่งทำข้อตกลง ช่วยลดความกังวลเรื่องความขัดแย้งที่ขยายวง สต็อกน้ำมันดิบสหรัฐฯ ยังเพิ่มขึ้น 4.7 ล้านบาร์เรล สวนทางที่คาดว่าจะลดลง การโจมตีแหล่งพลังงานในอ่าวเปอร์เซียช่วยไม่ให้ราคาร่วงลึก แร่เหล็กทรงตัวใกล้ 91.5 ดอลลาร์ต่อตัน และสัญญาล่วงหน้าที่ต้าเหลียนลดลง 0.5%
+IMP	Softer oil and flat iron ore help input costs for steel fabrication, but energy risk is still live.	น้ำมันที่อ่อนตัวและแร่เหล็กที่ทรงตัวช่วยต้นทุนงานเหล็ก แต่ความเสี่ยงด้านพลังงานยังอยู่
+S		Crypto: Bitcoin breaks below $70,000	คริปโต: บิทคอยน์หลุด 70,000 ดอลลาร์
+EN	Bitcoin fell below $70,000 for the first time since August and touched about $67,600. Ether dropped under $2,000. The trigger was rates: hot US inflation lifted Fed hike bets and pushed the dollar higher. Traders were heavily long, so over $1.3 billion of liquidations followed in a day. Spot bitcoin ETFs lost about $1.44 billion over five sessions, and the Fear and Greed Index fell to 20.
+TH	บิทคอยน์หลุด 70,000 ดอลลาร์เป็นครั้งแรกตั้งแต่เดือนสิงหาคม และแตะราว 67,600 ดอลลาร์ อีเธอร์ร่วงต่ำกว่า 2,000 ดอลลาร์ ตัวจุดชนวนคือดอกเบี้ย เงินเฟ้อสหรัฐฯ ที่ร้อนแรงเพิ่มโอกาสเฟดขึ้นดอกเบี้ยและดันดอลลาร์ขึ้น นักเทรดถือสถานะซื้อหนาแน่น จึงเกิดการบังคับปิดสถานะกว่า 1.3 พันล้านดอลลาร์ในวันเดียว ETF บิทคอยน์แบบสปอตมีเงินไหลออกราว 1.44 พันล้านดอลลาร์ใน 5 วันทำการ และดัชนี Fear and Greed ลดลงเหลือ 20
+W	wholesale prices	ราคาขายส่ง	Prices producers charge businesses, tracked by the PPI.	US wholesale prices rose 0.3% in October, a touch below forecasts.
+W	price target	ราคาเป้าหมาย	The share price an analyst expects within a set period.	Nvidia lost 2% after HSBC cut it to hold and slashed its price target to $170.
+W	turnover	มูลค่าการซื้อขาย	The total value of shares traded in a session.	The SET rose 0.4% to 1,504.88 on turnover of 62.4 billion baht, led by banks.
+W	base effects	ผลของฐาน	Distortion in a yearly rate caused by an unusual level a year earlier.	It sees inflation turning negative in 2027 because of energy base effects, but rejects talk of structural deflation.
+W	inventories	สินค้าคงคลัง / สต็อก	Stocks of a commodity held in storage.	US crude inventories also rose by 4.7 million barrels against expectations of a draw.
+W	liquidations	การบังคับปิดสถานะ	Forced closing of leveraged positions when margin runs out.	Traders were heavily long, so over $1.3 billion of liquidations followed in a day.
+W	heavily long	ถือสถานะซื้อหนาแน่น	Most traders are positioned to profit from rising prices.	Traders were heavily long, so over $1.3 billion of liquidations followed in a day.
+Q	If the Fed hikes in December, how far could USD/THB move by year end?
+Q	Does a negative 2027 Thai inflation print change the case for a BOT rate cut?
