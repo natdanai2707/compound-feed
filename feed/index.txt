@@ -1,4 +1,5 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
+concept-2026-11-14.epub	concept	2026-11-14	How Canva took on Adobe by serving people who were not designers	2026-11-13T23:47:01.766599+00:00	dd9897db989e
 news-2026-11-14.epub	news	2026-11-14	Hot inflation and Nvidia turmoil test markets; Bitcoin breaks $70,000	2026-11-13T23:35:00Z	7c028e967d3a
 concept-2026-11-13.epub	concept	2026-11-13	How YETI sold a $300 cooler in a $30 market	2026-11-12T23:46:24+00:00	f1c142dabf7a
 news-2026-11-13.epub	news	2026-11-13	Hot inflation puts a December Fed hike on the table	2026-11-12T23:18:24+00:00	e86e16bb18af
@@ -28,4 +29,3 @@ news-2026-11-02.epub	news	2026-11-02	Tech Rout Caps October as Fed Hike Bets Gro
 concept-2026-11-01.epub	concept	2026-11-01	Why nobody sells their diamond ring	2026-11-01T06:50:00+07:00	919531bc1a11
 news-2026-11-01.epub	news	2026-11-01	AI doubts and Hormuz oil shock end October on a sour note	2026-10-31T23:14:57+00:00	72e8ac40424b
 concept-2026-10-31.epub	concept	2026-10-31	How a coffee house became the world's insurance market	2026-10-31T06:50:00+07:00	70e91213b901
-news-2026-10-31.epub	news	2026-10-31	AI spending doubts and Hormuz oil shock end October on a sour note	2026-10-30T23:15:15+00:00	8621e124fd83
