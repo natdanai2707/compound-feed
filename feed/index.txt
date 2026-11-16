@@ -1,4 +1,5 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
+concept-2026-11-16.epub	concept	2026-11-16	How Nucor beat Big Steel with scrap, a risky caster and weekly bonuses	2026-11-15T23:46:18+00:00	8bb7ca987830
 concept-2026-11-15.epub	concept	2026-11-15	How Jollibee beat McDonald's in the Philippines by owning Filipino taste	2026-11-14T23:46:42Z	a4590c709dc6
 news-2026-11-15.epub	news	2026-11-15	Hot inflation lifts yields to 5.15% as crypto slides	2026-11-14T23:16:01+00:00	1b74bcf4aeaa
 concept-2026-11-14.epub	concept	2026-11-14	How Canva took on Adobe by serving people who were not designers	2026-11-13T23:47:01.766599+00:00	dd9897db989e
@@ -28,4 +29,3 @@ concept-2026-11-03.epub	concept	2026-11-03	Why a fight over frozen chicken still
 news-2026-11-03.epub	news	2026-11-03	Oil plunges on Iran talks as AI stocks slide before the midterms	2026-11-03T06:16:18+07:00	9dc549954345
 concept-2026-11-02.epub	concept	2026-11-02	Why Silicon Valley got rich by letting its people walk out	2026-11-01T23:44:56+00:00	edaa45df4859
 news-2026-11-02.epub	news	2026-11-02	Tech Rout Caps October as Fed Hike Bets Grow	2026-11-01T23:14:30Z	bdc5e0d1c37a
-concept-2026-11-01.epub	concept	2026-11-01	Why nobody sells their diamond ring	2026-11-01T06:50:00+07:00	919531bc1a11
