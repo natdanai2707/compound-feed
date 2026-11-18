@@ -1,0 +1,45 @@
+TYPE	news
+DATE	2026-11-18
+TITLE	Wall Street slides as Fed hike bets harden; Nvidia beats after the bell	วอลล์สตรีทร่วงจากแรงคาดการณ์ว่าเฟดจะขึ้นดอกเบี้ย ขณะที่ Nvidia ทำผลงานเกินคาดหลังตลาดปิด
+NOTE	US closes Tue Nov 17; SET close Tue; USD/THB Tue morning Bangkok; crypto as of Tue evening US time.
+M	S&P 500	7,340.53	−1.03%	Lowest close since July
+M	Nasdaq	24,328.38	−0.74%	
+M	SET	1,474.68	−1.66%	
+M	USD/THB	33.84	−0.07%	Tue morning, Bangkok
+M	Gold	$3,858.80	+0.30%	Comex settle, near 1-year low
+M	Brent	$93.14	+0.76%	
+M	US 10Y	5.10%	−2 bp	
+M	Iron ore (DCE)	¥640.5/t	−2.44%	Dalian Jan contract
+M	Bitcoin	$63,990	−1.3%	24h; −13% over 7 days
+M	Ethereum	$1,797	−1.2%	24h
+S		Wall Street sinks before Nvidia, then Nvidia beats	วอลล์สตรีทดิ่งก่อนงบ Nvidia จากนั้น Nvidia ทำได้เกินคาด
+EN	US stocks had a rough Tuesday. The S&P 500 fell 1% to its lowest close since July, and the Dow lost 1.6%. Software was the weak spot, with Salesforce down more than 9%. Some traders worry that Anthropic's giant planned IPO will pull money away from stretched software names. After the close, Nvidia beat estimates with $115.8bn in revenue and gave guidance of about $130bn for next quarter, which lifted AI stocks in late trading.
+TH	หุ้นสหรัฐฯ เผชิญวันอังคารที่หนักหน่วง ดัชนี S&P 500 ลดลง 1% ปิดต่ำสุดนับตั้งแต่เดือนกรกฎาคม และดาวโจนส์ร่วง 1.6% กลุ่มซอฟต์แวร์อ่อนแอที่สุด โดย Salesforce ลดลงกว่า 9% นักลงทุนบางส่วนกังวลว่า IPO ขนาดใหญ่ของ Anthropic จะดึงเงินออกจากหุ้นซอฟต์แวร์ที่ราคาแพงอยู่แล้ว หลังตลาดปิด Nvidia รายงานรายได้ 115.8 พันล้านดอลลาร์ เกินคาด และให้ประมาณการรายได้ไตรมาสหน้าราว 130 พันล้านดอลลาร์ ช่วยหนุนหุ้น AI ในการซื้อขายนอกเวลา
+S		Markets lock in a December Fed hike	ตลาดมั่นใจเฟดขึ้นดอกเบี้ยเดือนธันวาคม
+EN	Futures now price a near 97% chance of a 25 basis point rate hike at the Fed's December 9 meeting. A St. Louis Fed official said several more increases may be needed before spring. October retail sales rose only 0.2%, a sign that consumers are slowing. The 10-year Treasury yield eased to 5.10% but stays near its highs. Fed minutes due Wednesday will show how hawkish the committee really is.
+TH	ตลาดฟิวเจอร์สให้โอกาสราว 97% ที่เฟดจะขึ้นดอกเบี้ย 0.25% ในการประชุมวันที่ 9 ธันวาคม เจ้าหน้าที่เฟดสาขาเซนต์หลุยส์ระบุว่าอาจต้องขึ้นดอกเบี้ยอีกหลายครั้งก่อนฤดูใบไม้ผลิ ยอดค้าปลีกเดือนตุลาคมเพิ่มขึ้นเพียง 0.2% สะท้อนว่าผู้บริโภคเริ่มชะลอตัว อัตราผลตอบแทนพันธบัตรอายุ 10 ปีลดลงเล็กน้อยเป็น 5.10% แต่ยังอยู่ใกล้ระดับสูงสุด บันทึกการประชุมเฟดที่จะออกวันพุธจะบอกว่าคณะกรรมการเข้มงวดแค่ไหน
+IMP	A wider US-Thai rate gap keeps the baht soft near 33.8, which raises the cost of imported steel and dollar debt.	ส่วนต่างดอกเบี้ยสหรัฐฯ-ไทยที่กว้างขึ้นกดดันเงินบาทให้อ่อนแถว 33.8 ทำให้ต้นทุนเหล็กนำเข้าและหนี้สกุลดอลลาร์สูงขึ้น
+S		US chip export curbs hit Thai stocks	มาตรการคุมส่งออกชิปของสหรัฐฯ กดดันหุ้นไทย
+EN	The SET fell 1.66% to 1,474.68 on Tuesday, with turnover of 86.6 billion baht. The trigger was a new US rule that tightens export controls on advanced AI chips shipped to Thailand and nearby countries. US companies operating in those countries are exempt. The rule threatens Thailand's push to attract data center investment. Analysts expect more selling in the near term.
+TH	ดัชนี SET ลดลง 1.66% ปิดที่ 1,474.68 จุดในวันอังคาร มูลค่าซื้อขาย 86.6 พันล้านบาท ตัวจุดชนวนคือกฎใหม่ของสหรัฐฯ ที่คุมเข้มการส่งออกชิป AI ขั้นสูงไปยังไทยและประเทศใกล้เคียง โดยบริษัทสหรัฐฯ ที่ดำเนินงานในประเทศเหล่านั้นได้รับการยกเว้น กฎนี้กระทบความพยายามของไทยในการดึงดูดการลงทุนดาต้าเซ็นเตอร์ นักวิเคราะห์คาดว่าแรงขายจะยังมีต่อในระยะสั้น
+IMP	Fewer data center projects means less demand for structural steel and fit-out work in Thailand.	โครงการดาต้าเซ็นเตอร์ที่ลดลงหมายถึงความต้องการเหล็กโครงสร้างและงานตกแต่งภายในในไทยที่น้อยลง
+S		Thai growth beats as exports surge	เศรษฐกิจไทยโตเกินคาดจากส่งออกที่พุ่งแรง
+EN	Thailand's economy grew 2.9% year on year in the third quarter, faster than the second quarter. Strong exports and steady investment did most of the work. The NESDC raised its 2026 forecast to 2.5% from 2.2% and sees 2.0% to 3.0% growth in 2027. Private investment is forecast to rise 7.9% next year. The Bank of Thailand held its policy rate at 1% in October.
+TH	เศรษฐกิจไทยไตรมาส 3 ขยายตัว 2.9% เมื่อเทียบกับปีก่อน เร่งขึ้นจากไตรมาส 2 แรงหนุนหลักมาจากการส่งออกที่แข็งแกร่งและการลงทุนที่มั่นคง สภาพัฒน์ปรับคาดการณ์ GDP ปี 2569 ขึ้นเป็น 2.5% จาก 2.2% และคาดว่าปี 2570 จะโต 2.0% ถึง 3.0% การลงทุนภาคเอกชนคาดว่าจะเพิ่มขึ้น 7.9% ในปีหน้า ธนาคารแห่งประเทศไทยคงดอกเบี้ยนโยบายที่ 1% ในเดือนตุลาคม
+IMP	A 7.9% rise in private investment points to more factory and warehouse builds, a direct tailwind for fabrication orders.	การลงทุนเอกชนที่โต 7.9% บ่งชี้ว่าจะมีการสร้างโรงงานและคลังสินค้ามากขึ้น เป็นแรงหนุนโดยตรงต่อออเดอร์งานเหล็ก
+S		Iron ore drops to a four-year low	แร่เหล็กร่วงต่ำสุดในรอบสี่ปี
+EN	Iron ore futures in Dalian fell 2.4% on Tuesday to 640.5 yuan a tonne, extending a slide to four-year lows. Port inventories at China's major ports have climbed above 152 million tonnes. Chinese pig iron output fell 4.1% in October from a year earlier, and steel mills are buying only what they need. A stronger dollar on Fed hike bets adds more pressure.
+TH	ราคาแร่เหล็กล่วงหน้าที่ต้าเหลียนลดลง 2.4% ในวันอังคารเหลือ 640.5 หยวนต่อตัน ต่อเนื่องการร่วงลงสู่ระดับต่ำสุดในรอบสี่ปี สต็อกแร่เหล็กที่ท่าเรือหลักของจีนเพิ่มขึ้นเกิน 152 ล้านตัน ผลผลิตเหล็กถลุงของจีนเดือนตุลาคมลดลง 4.1% จากปีก่อน และโรงถลุงเหล็กซื้อเฉพาะเท่าที่จำเป็น ดอลลาร์ที่แข็งค่าจากความคาดหวังว่าเฟดจะขึ้นดอกเบี้ยยิ่งเพิ่มแรงกดดัน
+IMP	Cheaper ore and weak Chinese demand point to softer regional steel prices, good for buying but a risk for stock you already hold.	แร่เหล็กที่ถูกลงและอุปสงค์จีนที่อ่อนแอบ่งชี้ว่าราคาเหล็กในภูมิภาคจะอ่อนตัว ดีสำหรับการซื้อ แต่เป็นความเสี่ยงต่อสต็อกที่ถืออยู่
+S		Crypto: Bitcoin slips under $64,000 as stablecoin money leaves	คริปโต: บิตคอยน์หลุด 64,000 ดอลลาร์ เมื่อเงินในสเตเบิลคอยน์ไหลออก
+EN	Bitcoin fell about 1.3% to near $64,000 and is down 13% in a week. Ether dropped below $1,800. The bigger signal is that money is leaving crypto through stablecoin redemptions at the fastest pace since 2022, which drains the liquidity that usually absorbs selling. US spot Bitcoin ETFs just ended a seven-day outflow streak worth about $1.9bn, but the first inflow was only $7.9m. Rising Fed hike odds and weak tech stocks keep buyers cautious.
+TH	บิตคอยน์ลดลงราว 1.3% มาอยู่ใกล้ 64,000 ดอลลาร์ และร่วงไป 13% ในหนึ่งสัปดาห์ อีเธอร์หลุดต่ำกว่า 1,800 ดอลลาร์ สัญญาณที่สำคัญกว่าคือเงินกำลังไหลออกจากคริปโตผ่านการไถ่ถอนสเตเบิลคอยน์เร็วที่สุดตั้งแต่ปี 2022 ทำให้สภาพคล่องที่ปกติใช้รองรับแรงขายลดลง ETF บิตคอยน์ในสหรัฐฯ เพิ่งจบช่วงเงินไหลออกต่อเนื่องเจ็ดวันรวมราว 1.9 พันล้านดอลลาร์ แต่เงินไหลเข้าวันแรกมีเพียง 7.9 ล้านดอลลาร์ โอกาสที่เฟดจะขึ้นดอกเบี้ยและหุ้นเทคที่อ่อนแอทำให้ผู้ซื้อยังระมัดระวัง
+W	guidance	ประมาณการผลประกอบการที่บริษัทให้ไว้	A company's own forecast of future sales or profit.	After the close, Nvidia beat estimates with $115.8bn in revenue and gave guidance of about $130bn for next quarter, which lifted AI stocks in late trading.
+W	rate hike	การขึ้นอัตราดอกเบี้ย	An increase in the central bank's policy interest rate.	Futures now price a near 97% chance of a 25 basis point rate hike at the Fed's December 9 meeting.
+W	hawkish	มีท่าทีเข้มงวดทางการเงิน	Leaning toward higher rates to fight inflation.	Fed minutes due Wednesday will show how hawkish the committee really is.
+W	export controls	มาตรการควบคุมการส่งออก	Government rules that limit which goods can be sold to which countries.	The trigger was a new US rule that tightens export controls on advanced AI chips shipped to Thailand and nearby countries.
+W	Port inventories	สต็อกสินค้าที่ท่าเรือ	Stocks of a commodity sitting at ports waiting for buyers.	Port inventories at China's major ports have climbed above 152 million tonnes.
+W	stablecoin	สเตเบิลคอยน์	A crypto token pegged to a currency such as the US dollar.	The bigger signal is that money is leaving crypto through stablecoin redemptions at the fastest pace since 2022, which drains the liquidity that usually absorbs selling.
+W	outflow streak	ช่วงที่เงินไหลออกต่อเนื่อง	Several days in a row when more money leaves a fund than enters it.	US spot Bitcoin ETFs just ended a seven-day outflow streak worth about $1.9bn, but the first inflow was only $7.9m.
+Q	If the Fed hikes in December while the Bank of Thailand holds at 1%, how far could USD/THB move by Q1 2027?
+Q	Should a steel trader cut inventory now that iron ore sits at a four-year low, or lock in cheap supply?

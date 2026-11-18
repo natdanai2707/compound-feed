@@ -1,5 +1,6 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
 concept-2026-11-18.epub	concept	2026-11-18	How Shimano beat Campagnolo and SunTour by selling the whole system	2026-11-18T06:46:37+07:00	487c643212bf
+news-2026-11-18.epub	news	2026-11-18	Wall Street slides as Fed hike bets harden; Nvidia beats after the bell	2026-11-18T06:15:32+07:00	4b1a731bf20c
 concept-2026-11-17.epub	concept	2026-11-17	How Chobani beat Yoplait and Dannon by putting Greek yogurt in the main aisle	2026-11-16T23:45:00Z	d7b7280f5c4a
 news-2026-11-17.epub	news	2026-11-17	Tech Sinks as 10-Year Yield Tops 5% Before Nvidia Test	2026-11-17T06:30:00+07:00	07667334b40d
 concept-2026-11-16.epub	concept	2026-11-16	How Nucor beat Big Steel with scrap, a risky caster and weekly bonuses	2026-11-15T23:46:18+00:00	8bb7ca987830
@@ -28,4 +29,3 @@ news-2026-11-06.epub	news	2026-11-06	AI rout gives Wall Street its worst day sin
 concept-2026-11-05.epub	concept	2026-11-05	Why a Coke cost a nickel for 70 years	2026-11-04T23:46:36+00:00	70b97c6bc9b5
 news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00	80987a25513a
 concept-2026-11-04.epub	concept	2026-11-04	Why enemy soldiers stopped shooting each other in the trenches	2026-11-04T06:47:11+07:00	b1e6dcd35b98
-news-2026-11-04.epub	news	2026-11-04	AMD Lifts Chips as the 10-Year Yield Nears 5%	2026-11-03T23:16:51Z	fba92f392646
