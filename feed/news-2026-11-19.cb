@@ -1,0 +1,45 @@
+TYPE	news
+DATE	2026-11-19
+TITLE	Fed hike talk lifts dollar, baht nears 34	สัญญาณเฟดขึ้นดอกเบี้ยดันดอลลาร์แข็ง บาทเฉียด 34
+NOTE	US closes for Wednesday, Nov 18; SET close Nov 18; crypto as of late US session Nov 18.
+M	S&P 500	7,323.63	−0.23%	Closed below its 200-day average
+M	Nasdaq	24,429.88	+0.42%	
+M	SET	1,472.01	−0.18%	
+M	USD/THB	33.97	+0.47%	Baht weaker
+M	Gold	$3,735/oz	−3.0%	14-month low
+M	Brent	$92.25	−1.0%	Late trade, not settlement
+M	US 10Y	5.10%	−2 bp	
+M	Iron ore (Dalian)	~CNY 640/t	−1.5%	Nov 17, near 4-year low
+M	Bitcoin	$62,450	−2.4%	24h
+M	Ethereum	$1,754	−2.4%	24h
+S		Fed minutes point to more rate hikes	รายงานการประชุมเฟดชี้ขึ้นดอกเบี้ยต่อ
+EN	Minutes from the Fed's October meeting showed nearly all officials see further hikes as likely to tame inflation. Governor Christopher Waller again argued for a bigger move, and futures now price a 96% chance of a quarter-point hike in December. The hawkish tone pushed the dollar to a 19-month high. The S&P 500 slipped 0.2% and closed below its 200-day moving average, while the Dow lost 1.1% on a selloff in health insurers.
+TH	รายงานการประชุมเฟดเดือนตุลาคมระบุว่าเจ้าหน้าที่เกือบทั้งหมดมองว่าต้องขึ้นดอกเบี้ยต่อเพื่อคุมเงินเฟ้อ ผู้ว่าการคริสโตเฟอร์ วอลเลอร์ยังสนับสนุนการขึ้นในขนาดที่ใหญ่ขึ้น และตลาดฟิวเจอร์สให้โอกาส 96% ที่จะขึ้น 0.25% ในเดือนธันวาคม ท่าทีแข็งกร้าวนี้ดันดอลลาร์แข็งค่าสุดในรอบ 19 เดือน ดัชนี S&P 500 ลดลง 0.2% และปิดต่ำกว่าเส้นค่าเฉลี่ย 200 วัน ขณะที่ดาวโจนส์ร่วง 1.1% จากแรงขายหุ้นประกันสุขภาพ
+IMP	Higher US rates keep pressure on the baht and on Thai borrowing costs into 2027.	ดอกเบี้ยสหรัฐที่สูงขึ้นกดดันค่าเงินบาทและต้นทุนการกู้ยืมในไทยต่อเนื่องถึงปี 2027
+S		Anthropic prices record IPO at $83	Anthropic กำหนดราคา IPO สถิติใหม่ที่ 83 ดอลลาร์
+EN	Anthropic priced its IPO at $83 a share, above its $70 to $78 target range, and the deal was upsized on strong demand. Including a private placement, total proceeds top $94 billion, beating SpaceX's June listing as the largest ever. The price values the AI company at more than $1.5 trillion. Amazon, an early investor, rose 3.8%, while Nvidia fell 2.9% after earnings despite strong revenue growth.
+TH	Anthropic กำหนดราคาหุ้น IPO ที่ 83 ดอลลาร์ สูงกว่ากรอบเป้าหมาย 70 ถึง 78 ดอลลาร์ และเพิ่มขนาดการเสนอขายเพราะความต้องการสูง รวมการเสนอขายแบบเฉพาะเจาะจงแล้วยอดระดมทุนเกิน 94,000 ล้านดอลลาร์ แซงการเข้าตลาดของ SpaceX ในเดือนมิถุนายนเป็นสถิติสูงสุด ราคานี้ทำให้มูลค่าบริษัท AI แห่งนี้เกิน 1.5 ล้านล้านดอลลาร์ หุ้น Amazon ซึ่งเป็นผู้ลงทุนรายแรก ๆ ขึ้น 3.8% ขณะที่ Nvidia ลดลง 2.9% หลังประกาศงบ แม้รายได้เติบโตแรง
+S		Baht nears 34 as SET slips	บาทเฉียด 34 ขณะที่ SET อ่อนตัว
+EN	The baht weakened to about 33.97 per dollar, close to its weakest level since July. The main driver is the widening rate gap: the Bank of Thailand holds its policy rate at 1.00% while US yields sit above 5%. K-Research sees the baht at 34.10 this week. The SET rose in the morning on Nvidia's results but closed 0.18% lower at 1,472 as investors sold banks, hospitals and tourism stocks.
+TH	ค่าเงินบาทอ่อนลงไปที่ราว 33.97 บาทต่อดอลลาร์ ใกล้ระดับอ่อนสุดนับจากเดือนกรกฎาคม ปัจจัยหลักคือส่วนต่างดอกเบี้ยที่กว้างขึ้น ธปท. คงดอกเบี้ยนโยบายที่ 1.00% ขณะที่ผลตอบแทนพันธบัตรสหรัฐอยู่เหนือ 5% ศูนย์วิจัยกสิกรไทยมองบาทที่ 34.10 ในสัปดาห์นี้ ดัชนี SET บวกช่วงเช้าจากผลประกอบการ Nvidia แต่ปิดลบ 0.18% ที่ 1,472 จุด จากแรงขายหุ้นธนาคาร โรงพยาบาล และท่องเที่ยว
+IMP	Imported steel and raw materials priced in dollars get more expensive; consider hedging near-term USD payables.	เหล็กและวัตถุดิบนำเข้าที่ตั้งราคาเป็นดอลลาร์แพงขึ้น ควรพิจารณาป้องกันความเสี่ยงค่าเงินสำหรับหนี้ดอลลาร์ระยะสั้น
+S		Iron ore sinks to four-year low	แร่เหล็กร่วงต่ำสุดในรอบสี่ปี
+EN	Dalian iron ore futures fell to around 640 yuan a ton, the lowest since October 2022. China's October steel output dropped 1.6% to its lowest since March, and mill margins are thin. Supply keeps rising, with more cargoes from Guinea's Simandou mine and growing port inventories. Chinese analysts quoted by Bloomberg see a floor near $80 a ton in Singapore.
+TH	ฟิวเจอร์สแร่เหล็กตลาดต้าเหลียนลดลงมาที่ราว 640 หยวนต่อตัน ต่ำสุดนับจากตุลาคม 2022 ผลผลิตเหล็กจีนเดือนตุลาคมลดลง 1.6% ต่ำสุดนับจากมีนาคม และกำไรของโรงถลุงยังบาง ด้านอุปทานเพิ่มขึ้นต่อเนื่อง ทั้งการส่งออกจากเหมือง Simandou ในกินีและสต็อกแร่ที่ท่าเรือที่สูงขึ้น นักวิเคราะห์จีนที่ Bloomberg อ้างถึงมองว่าราคาจะหาจุดต่ำสุดได้ราว 80 ดอลลาร์ต่อตันในตลาดสิงคโปร์
+IMP	Cheap ore and weak Chinese demand point to soft regional steel prices; avoid heavy stock building for now.	แร่เหล็กราคาถูกและความต้องการจีนที่อ่อนแอบ่งชี้ว่าราคาเหล็กในภูมิภาคจะอ่อนตัว ยังไม่ควรสต็อกสินค้ามากในช่วงนี้
+S		Gold drops 3%, oil eases	ทองคำร่วง 3% น้ำมันอ่อนตัว
+EN	Gold fell 3% to a 14-month low near $3,735 an ounce as the strong dollar and rate hike bets hit non-yielding assets. Brent lost about 1% to around $92 after industry data showed a 5.3 million barrel build in US crude stocks. The IEA also expects a supply surplus this quarter. Attacks near the Strait of Hormuz keep a risk premium in Brent and limit the downside.
+TH	ทองคำลดลง 3% แตะต่ำสุดในรอบ 14 เดือนที่ราว 3,735 ดอลลาร์ต่อออนซ์ จากดอลลาร์แข็งและการคาดการณ์ขึ้นดอกเบี้ยที่กดดันสินทรัพย์ที่ไม่มีผลตอบแทน น้ำมันเบรนท์ลดลงราว 1% มาที่ประมาณ 92 ดอลลาร์ หลังข้อมูลอุตสาหกรรมชี้สต็อกน้ำมันดิบสหรัฐเพิ่ม 5.3 ล้านบาร์เรล IEA ยังคาดว่าจะมีอุปทานส่วนเกินในไตรมาสนี้ ขณะที่การโจมตีใกล้ช่องแคบฮอร์มุซยังหนุนส่วนเพิ่มความเสี่ยงในราคาเบรนท์และจำกัดการปรับลง
+IMP	Oil near $92 keeps Thai diesel and freight costs high despite the dip.	น้ำมันที่ราว 92 ดอลลาร์ยังทำให้ต้นทุนดีเซลและค่าขนส่งในไทยสูง แม้ราคาจะย่อลง
+S		Crypto: Bitcoin breaks below $63,000	คริปโต: บิตคอยน์หลุด 63,000 ดอลลาร์
+EN	Bitcoin fell 2.4% to about $62,450 and ether lost 2.4% to near $1,754. The hawkish Fed and rising short-term yields hit risk assets, and spot bitcoin ETFs lost a net $240 million on Tuesday, led by BlackRock's IBIT. The basis trade, which once paid 20% or more a year, now yields only 3% to 5%, below Treasury yields, so institutional demand has faded. CryptoQuant says short-term holders sit about 20% below their cost basis, and it sees support between $62,000 and $65,000.
+TH	บิตคอยน์ลดลง 2.4% มาที่ราว 62,450 ดอลลาร์ และอีเธอร์ลดลง 2.4% มาใกล้ 1,754 ดอลลาร์ ท่าทีแข็งกร้าวของเฟดและผลตอบแทนระยะสั้นที่สูงขึ้นกดดันสินทรัพย์เสี่ยง กองทุน ETF บิตคอยน์แบบสปอตมีเงินไหลออกสุทธิ 240 ล้านดอลลาร์ในวันอังคาร นำโดย IBIT ของ BlackRock กลยุทธ์ basis trade ที่เคยให้ผลตอบแทนกว่า 20% ต่อปี ตอนนี้เหลือเพียง 3% ถึง 5% ต่ำกว่าผลตอบแทนพันธบัตรสหรัฐ ความต้องการจากสถาบันจึงลดลง CryptoQuant ระบุว่าผู้ถือระยะสั้นขาดทุนราว 20% จากต้นทุน และมองแนวรับที่ 62,000 ถึง 65,000 ดอลลาร์
+W	hawkish	แข็งกร้าว (เน้นคุมเงินเฟ้อ)	Favouring higher interest rates to fight inflation.	The hawkish tone pushed the dollar to a 19-month high.
+W	200-day moving average	เส้นค่าเฉลี่ยเคลื่อนที่ 200 วัน	The average closing price over 200 trading days, used to judge the long-term trend.	The S&P 500 slipped 0.2% and closed below its 200-day moving average, while the Dow lost 1.1% on a selloff in health insurers.
+W	upsized	เพิ่มขนาดการเสนอขาย	When a company sells more shares than first planned because demand is strong.	Anthropic priced its IPO at $83 a share, above its $70 to $78 target range, and the deal was upsized on strong demand.
+W	port inventories	สต็อกสินค้าที่ท่าเรือ	Stocks of a commodity waiting at ports, a key gauge of supply versus demand.	Supply keeps rising, with more cargoes from Guinea's Simandou mine and growing port inventories.
+W	risk premium	ส่วนเพิ่มความเสี่ยง	The extra price investors pay or demand because of a possible disruption.	Attacks near the Strait of Hormuz keep a risk premium in Brent and limit the downside.
+W	basis trade	การเก็งกำไรส่วนต่างราคาสปอตกับฟิวเจอร์ส	Buying an asset and shorting its futures to earn the price gap between them.	The basis trade, which once paid 20% or more a year, now yields only 3% to 5%, below Treasury yields, so institutional demand has faded.
+W	cost basis	ต้นทุนการถือครอง	The average price an investor paid for an asset.	CryptoQuant says short-term holders sit about 20% below their cost basis, and it sees support between $62,000 and $65,000.
+Q	How far could the baht weaken if the Fed hikes by 50 basis points in December?
+Q	Will Simandou supply keep iron ore below $90 through 2027?
