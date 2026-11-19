@@ -1,4 +1,5 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
+concept-2026-11-19.epub	concept	2026-11-19	How Tao Kae Noi turned seaweed into a Thai snack and sold it to China	2026-11-18T23:50:00Z	b7229b0f3aa4
 concept-2026-11-18.epub	concept	2026-11-18	How Shimano beat Campagnolo and SunTour by selling the whole system	2026-11-18T06:46:37+07:00	487c643212bf
 news-2026-11-18.epub	news	2026-11-18	Wall Street slides as Fed hike bets harden; Nvidia beats after the bell	2026-11-18T06:15:32+07:00	4b1a731bf20c
 concept-2026-11-17.epub	concept	2026-11-17	How Chobani beat Yoplait and Dannon by putting Greek yogurt in the main aisle	2026-11-16T23:45:00Z	d7b7280f5c4a
@@ -28,4 +29,3 @@ concept-2026-11-06.epub	concept	2026-11-06	Why a bank mailed credit cards to a w
 news-2026-11-06.epub	news	2026-11-06	AI rout gives Wall Street its worst day since April 2025	2026-11-06T06:40:00+07:00	2a7f70f8ccc6
 concept-2026-11-05.epub	concept	2026-11-05	Why a Coke cost a nickel for 70 years	2026-11-04T23:46:36+00:00	70b97c6bc9b5
 news-2026-11-05.epub	news	2026-11-05	Democratic sweep lifts stocks and sinks oil	2026-11-05T06:17:31+07:00	80987a25513a
-concept-2026-11-04.epub	concept	2026-11-04	Why enemy soldiers stopped shooting each other in the trenches	2026-11-04T06:47:11+07:00	b1e6dcd35b98
