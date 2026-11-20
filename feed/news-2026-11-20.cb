@@ -1,0 +1,46 @@
+TYPE	news
+DATE	2026-11-20
+TITLE	Fed hike fears hit stocks, gold and crypto	ความกังวลเฟดขึ้นดอกเบี้ย กดหุ้น ทองคำ และคริปโต
+NOTE	US, gold and oil: Thursday Nov 19 close. SET and baht: Thursday close. Crypto: Thursday evening New York.
+M	S&P 500	7,175.83	−2.02%	
+M	Nasdaq	23,879.20	−2.25%	
+M	SET	1,472.64	+0.04%	
+M	USD/THB	33.98	+0.01%	Baht near 19-month low
+M	Gold	$3,625.50	−2.65%	Spot, late NY
+M	Brent	$91.98	+$0.03	Settlement
+M	US 10Y	5.05%	−1bp	
+M	Iron ore	$90.86/t	+0.15%	62% Fe CFR China
+M	Bitcoin	$61,635	−2.15%	24h, Thu evening NY
+M	Ethereum	$1,745.57	−1.64%	24h, Thu evening NY
+S		Fed hike fears push Wall Street to a sixth straight loss	ความกังวลเฟดขึ้นดอกเบี้ย กดวอลล์สตรีทร่วงเป็นวันที่หก
+EN	US stocks sold off hard on Thursday. The S&P 500 fell 2.02% and the Dow dropped 1,101 points, while the VIX jumped above 28. The trigger was the Fed minutes, which showed nearly all officials expect more tightening, and some floated a move larger than 25 basis points. Futures now price about a 90% chance of a rate hike at the December 8 to 9 meeting. The 10-year Treasury yield held near 5.05%.
+TH	หุ้นสหรัฐถูกเทขายหนักในวันพฤหัสบดี ดัชนี S&P 500 ลดลง 2.02% และดาวโจนส์ร่วง 1,101 จุด ขณะที่ดัชนี VIX พุ่งเกิน 28 ตัวจุดชนวนคือรายงานการประชุมเฟด ซึ่งแสดงว่าเจ้าหน้าที่เกือบทั้งหมดคาดว่าจะต้องคุมเข้มนโยบายเพิ่ม และบางคนเสนอให้ขึ้นมากกว่า 25 จุดเบสิส ตลาดฟิวเจอร์สให้โอกาสราว 90% ที่จะขึ้นดอกเบี้ยในการประชุมวันที่ 8 ถึง 9 ธันวาคม อัตราผลตอบแทนพันธบัตรรัฐบาลสหรัฐอายุ 10 ปีทรงตัวใกล้ 5.05%
+IMP	A Fed hike widens the gap with Thailand's 1% policy rate and keeps pressure on the baht and on USD import costs.	การขึ้นดอกเบี้ยของเฟดทำให้ส่วนต่างกับดอกเบี้ยนโยบายไทย 1% กว้างขึ้น กดดันค่าเงินบาทและต้นทุนนำเข้าที่จ่ายเป็นดอลลาร์
+S		Anthropic soars on debut as Nvidia slips	Anthropic พุ่งในวันแรกที่เข้าตลาด ขณะที่ Nvidia อ่อนตัว
+EN	Anthropic listed on the Nasdaq at an offer price of $83 and closed at $97.17, up 17.1%. The strong debut did not lift the wider market. Nvidia reversed an early gain and fell 3.3%, as investors weighed a CEO transition despite strong quarterly results. Alphabet also fell as the IPO put a fresh value on its stake in Anthropic. Over 90% of S&P 500 stocks ended lower.
+TH	Anthropic เข้าจดทะเบียนในตลาด Nasdaq ที่ราคาเสนอขาย 83 ดอลลาร์ และปิดที่ 97.17 ดอลลาร์ เพิ่มขึ้น 17.1% แต่การเปิดตัวที่แข็งแกร่งไม่ได้ช่วยพยุงตลาดโดยรวม Nvidia กลับตัวจากที่บวกช่วงเช้าและปิดลบ 3.3% เพราะนักลงทุนกังวลเรื่องการเปลี่ยนซีอีโอ แม้ผลประกอบการรายไตรมาสจะแข็งแกร่ง Alphabet ก็ลดลงเช่นกันเมื่อ IPO ทำให้มีการประเมินมูลค่าหุ้นที่ถือใน Anthropic ใหม่ หุ้นใน S&P 500 กว่า 90% ปิดลบ
+S		Gold hits a 14-month low, oil holds near $92	ทองคำแตะจุดต่ำสุดในรอบ 14 เดือน น้ำมันทรงตัวใกล้ 92 ดอลลาร์
+EN	Spot gold fell 2.65% to about $3,625 an ounce, its lowest in 14 months. Higher rate expectations and a dollar near a 19-month high outweighed any safe haven demand. Silver dropped 4.7%. Brent settled flat at $91.98. Attacks on shipping near the Strait of Hormuz and the US blockade of Iranian ports support prices, but forecasts of a global surplus cap them.
+TH	ราคาทองคำตลาดโลกลดลง 2.65% สู่ราว 3,625 ดอลลาร์ต่อออนซ์ ต่ำสุดในรอบ 14 เดือน การคาดการณ์ดอกเบี้ยที่สูงขึ้นและดอลลาร์ที่แข็งใกล้จุดสูงสุดในรอบ 19 เดือน มีน้ำหนักมากกว่าแรงซื้อเพื่อหลบภัย เงินลดลง 4.7% น้ำมันเบรนท์ปิดทรงตัวที่ 91.98 ดอลลาร์ การโจมตีเรือขนส่งใกล้ช่องแคบฮอร์มุซและการปิดล้อมท่าเรืออิหร่านของสหรัฐช่วยหนุนราคา แต่การคาดการณ์ว่าตลาดโลกจะมีอุปทานล้นจำกัดการขึ้น
+IMP	Brent near $92 keeps diesel, freight and power costs high for fabrication and delivery.	น้ำมันเบรนท์ใกล้ 92 ดอลลาร์ทำให้ต้นทุนดีเซล ค่าขนส่ง และค่าไฟของงานผลิตและการจัดส่งยังสูง
+S		Baht stays near a 19-month low as foreigners sell	บาทยังอ่อนใกล้จุดต่ำสุดในรอบ 19 เดือน ต่างชาติเทขาย
+EN	The baht traded around 33.98 per dollar, close to its weakest level in 19 months. It has lost about 6.7% against the dollar this year. Foreign investors net sold about 2.5 billion baht of Thai stocks and bonds on Thursday. The SET still closed flat at 1,472.64, helped by power and electronics stocks. The Bank of Thailand holds its rate at 1%, even though October inflation rose to 3.9%.
+TH	เงินบาทซื้อขายราว 33.98 บาทต่อดอลลาร์ ใกล้ระดับอ่อนสุดในรอบ 19 เดือน และอ่อนค่าลงราว 6.7% เทียบดอลลาร์ในปีนี้ นักลงทุนต่างชาติขายสุทธิหุ้นและพันธบัตรไทยราว 2.5 พันล้านบาทในวันพฤหัสบดี แต่ SET ยังปิดทรงตัวที่ 1,472.64 จุด โดยได้แรงหนุนจากหุ้นโรงไฟฟ้าและชิ้นส่วนอิเล็กทรอนิกส์ ธนาคารแห่งประเทศไทยคงดอกเบี้ยที่ 1% แม้เงินเฟ้อเดือนตุลาคมจะขึ้นไปที่ 3.9%
+IMP	A weak baht raises the cost of imported steel and hardware, so lock in FX on large USD orders.	บาทอ่อนทำให้เหล็กและฮาร์ดแวร์นำเข้าแพงขึ้น ควรล็อกค่าเงินสำหรับคำสั่งซื้อดอลลาร์ก้อนใหญ่
+S		Iron ore steady near $91 as China steel demand stays weak	แร่เหล็กทรงตัวใกล้ 91 ดอลลาร์ ขณะที่ความต้องการเหล็กจีนยังอ่อน
+EN	The 62% Fe benchmark edged up 0.15% to $90.86 a tonne, about 13% lower than a year ago. Stocks at China's main ports rose 1.2% in a week to 109.3 million tonnes. Hot metal output and the blast furnace operating rate both slipped. Analysts expect prices to stay range-bound, with winter restocking giving some support.
+TH	ราคาแร่เหล็กอ้างอิง 62% Fe ขยับขึ้น 0.15% สู่ 90.86 ดอลลาร์ต่อตัน ต่ำกว่าปีก่อนราว 13% สต็อกที่ท่าเรือหลักของจีนเพิ่มขึ้น 1.2% ในหนึ่งสัปดาห์ เป็น 109.3 ล้านตัน ผลผลิตเหล็กถลุงและอัตราการใช้งานเตาหลอมก็ลดลง นักวิเคราะห์คาดว่าราคาจะเคลื่อนไหวในกรอบ โดยการสะสมสต็อกช่วงฤดูหนาวช่วยหนุนบ้าง
+IMP	Soft Chinese demand keeps export pressure on Asian steel prices, which helps your buying costs but squeezes trading margins.	ความต้องการในจีนที่อ่อนทำให้มีแรงกดดันจากการส่งออกต่อราคาเหล็กในเอเชีย ช่วยลดต้นทุนซื้อ แต่บีบมาร์จิ้นการค้าเหล็ก
+S		Crypto: Bitcoin slides toward $60,000 as ETF outflows grow	คริปโต: บิทคอยน์ไหลลงเข้าใกล้ 60,000 ดอลลาร์ ขณะที่เงินไหลออกจาก ETF เพิ่มขึ้น
+EN	Bitcoin fell 2.15% to about $61,600 and is down 13.4% in a week. Ether lost 1.64% to near $1,746. The same rate fears that hit stocks also hit crypto, since higher yields raise the opportunity cost of holding assets with no income. US spot Bitcoin ETFs saw net outflows of $306 million on Wednesday, led by BlackRock's IBIT at $149 million. Ether funds lost another $40 million.
+TH	บิทคอยน์ลดลง 2.15% สู่ราว 61,600 ดอลลาร์ และลดลง 13.4% ในหนึ่งสัปดาห์ อีเธอร์ลดลง 1.64% สู่ราว 1,746 ดอลลาร์ ความกังวลเรื่องดอกเบี้ยที่กดหุ้นก็กดคริปโตด้วย เพราะผลตอบแทนพันธบัตรที่สูงขึ้นเพิ่มต้นทุนค่าเสียโอกาสของการถือสินทรัพย์ที่ไม่ให้รายได้ ETF บิทคอยน์แบบ spot ในสหรัฐมีเงินไหลออกสุทธิ 306 ล้านดอลลาร์ในวันพุธ นำโดย IBIT ของ BlackRock ที่ 149 ล้านดอลลาร์ กองทุนอีเธอร์มีเงินไหลออกอีก 40 ล้านดอลลาร์
+W	minutes	รายงานการประชุม	The official written record of a central bank's policy meeting, released a few weeks later.	The trigger was the Fed minutes, which showed nearly all officials expect more tightening, and some floated a move larger than 25 basis points.
+W	basis points	จุดเบสิส	One basis point is 0.01 percentage point, so 25 basis points equals 0.25%.	The trigger was the Fed minutes, which showed nearly all officials expect more tightening, and some floated a move larger than 25 basis points.
+W	offer price	ราคาเสนอขาย	The price at which new shares are sold to investors in an IPO.	Anthropic listed on the Nasdaq at an offer price of $83 and closed at $97.17, up 17.1%.
+W	safe haven	สินทรัพย์ปลอดภัย	An asset investors buy to protect value when markets are stressed.	Higher rate expectations and a dollar near a 19-month high outweighed any safe haven demand.
+W	net sold	ขายสุทธิ	Sold more than they bought over a period.	Foreign investors net sold about 2.5 billion baht of Thai stocks and bonds on Thursday.
+W	range-bound	เคลื่อนไหวในกรอบ	Trading between a fairly stable high and low without a clear trend.	Analysts expect prices to stay range-bound, with winter restocking giving some support.
+W	opportunity cost	ต้นทุนค่าเสียโอกาส	The return you give up by choosing one use of money over the next best one.	The same rate fears that hit stocks also hit crypto, since higher yields raise the opportunity cost of holding assets with no income.
+W	net outflows	เงินไหลออกสุทธิ	More money redeemed from a fund than invested into it.	US spot Bitcoin ETFs saw net outflows of $306 million on Wednesday, led by BlackRock's IBIT at $149 million.
+Q	How would a December Fed hike change the USD/THB path into Q1 2027?
+Q	Should a steel importer hedge baht exposure with forwards now or wait for a rebound?
