@@ -1,0 +1,41 @@
+TYPE	news
+DATE	2026-11-21
+TITLE	AI rout sends Wall Street into correction as Fed hike looms	แรงเทขายหุ้น AI ฉุดวอลล์สตรีทเข้าสู่ภาวะปรับฐาน ขณะเฟดจ่อขึ้นดอกเบี้ย
+NOTE	Friday 20 Nov closes (US close was 04:00 Saturday Bangkok time). SET and baht as of Friday in Bangkok. Crypto as of early Saturday Bangkok time. Weekend: no new closes until Monday.
+M	S&P 500	6,910.39	−3.70%	7th straight loss, -8.6% on the week
+M	Nasdaq	22,617.73	−5.28%	Now negative for 2026
+M	SET	1,453.28	−1.31%	
+M	USD/THB	33.94	−0.09%	
+M	Gold	$3,515/oz	−4.63%	Futures, 14.5-month low
+M	Brent	$92.57	+0.64%	
+M	US 10Y	4.92%	−12 bp	
+M	Iron ore	$90.67/t	−0.21%	62% Fe, CFR China
+M	Bitcoin	$58,994	−4.72%	24h
+M	Ethereum	$1,620	−6.98%	24h
+S		AI sell-off pushes the S&P 500 into correction	แรงเทขายหุ้น AI ดัน S&P 500 เข้าสู่ภาวะปรับฐาน
+EN	Wall Street had its worst week since April 2025. The S&P 500 fell 3.7% on Friday and closed in correction territory, while the Nasdaq dropped 5.3% and is now down for the year. Chip stocks led the fall, with Nvidia down 14% after reports that SEC staff are looking at its accounting and that California issued a subpoena over chip sales to China. Anthropic, which listed this week, lost 8.5% in its first full session. The VIX, Wall Street's fear gauge, jumped to its highest close since March.
+TH	วอลล์สตรีทเผชิญสัปดาห์ที่แย่ที่สุดนับตั้งแต่เมษายน 2025 ดัชนี S&P 500 ร่วง 3.7% ในวันศุกร์และปิดในภาวะปรับฐาน ขณะที่ Nasdaq ลดลง 5.3% และติดลบนับตั้งแต่ต้นปี หุ้นชิปนำการร่วง โดย Nvidia ดิ่ง 14% หลังมีรายงานว่าเจ้าหน้าที่ SEC กำลังตรวจสอบบัญชีของบริษัท และรัฐแคลิฟอร์เนียออกหมายเรียกเรื่องการขายชิปให้จีน Anthropic ซึ่งเพิ่งเข้าตลาดสัปดาห์นี้ ร่วง 8.5% ในวันซื้อขายเต็มวันแรก ส่วนดัชนี VIX ซึ่งเป็นมาตรวัดความกลัวของตลาด พุ่งขึ้นสู่ระดับปิดสูงสุดนับตั้งแต่มีนาคม
+S		Fed hike bets crush gold	ความคาดหวังเฟดขึ้นดอกเบี้ยกดราคาทองคำร่วงหนัก
+EN	Two Fed officials sounded hawkish. Philadelphia Fed President Anna Paulson said she is open to back-to-back rate hikes, and Governor Lisa Cook warned that waiting risks falling behind. Markets now see about a 90% chance of a 25 bp hike on 9 December. Gold futures fell 4.6% to about $3,515, a 14.5-month low, because higher rates raise the opportunity cost of holding metal that pays no yield. Treasuries still rallied as a safe haven, and the 10-year yield fell 12 bp to 4.92%.
+TH	เจ้าหน้าที่เฟดสองคนส่งสัญญาณเข้มงวด แอนนา พอลสัน ประธานเฟดสาขาฟิลาเดลเฟีย ระบุว่าเปิดกว้างต่อการขึ้นดอกเบี้ยติดต่อกันสองครั้ง และผู้ว่าการลิซา คุก เตือนว่าการรอนานเกินไปเสี่ยงที่จะตามไม่ทัน ตลาดให้โอกาสราว 90% ที่จะขึ้นดอกเบี้ย 0.25% ในวันที่ 9 ธันวาคม ราคาทองคำล่วงหน้าร่วง 4.6% สู่ราว 3,515 ดอลลาร์ ต่ำสุดในรอบ 14.5 เดือน เพราะดอกเบี้ยที่สูงขึ้นเพิ่มต้นทุนค่าเสียโอกาสในการถือโลหะที่ไม่ให้ผลตอบแทน อย่างไรก็ดี พันธบัตรสหรัฐฯ ยังปรับขึ้นในฐานะสินทรัพย์ปลอดภัย โดยอัตราผลตอบแทนพันธบัตร 10 ปีลดลง 0.12% สู่ 4.92%
+IMP	A Fed hike while the BOT stays put widens the rate gap and can weaken the baht, which raises the cost of imported steel.	หากเฟดขึ้นดอกเบี้ยขณะที่ ธปท. คงดอกเบี้ย ส่วนต่างดอกเบี้ยจะกว้างขึ้นและอาจกดค่าเงินบาท ทำให้ต้นทุนเหล็กนำเข้าสูงขึ้น
+S		SET slides with Asia, baht holds near 33.9	SET ร่วงตามตลาดเอเชีย ขณะที่เงินบาททรงตัวแถว 33.9
+EN	The SET index fell 1.31% to 1,453.28 on Friday, breaking below the 1,455 support level that local brokers had flagged. Turnover was 61.66 billion baht. The move tracked a broad Asian sell-off, with Korea's Kospi down more than 5% in the morning. The baht held steady at about 33.94 per dollar as the dollar index eased from a 19-month high. Some brokers expect a short rebound next week.
+TH	ดัชนี SET ลดลง 1.31% สู่ 1,453.28 จุดในวันศุกร์ หลุดแนวรับ 1,455 จุดที่โบรกเกอร์ในประเทศระบุไว้ มูลค่าการซื้อขาย 61,660 ล้านบาท การปรับลงเป็นไปตามแรงเทขายทั่วเอเชีย โดยดัชนี Kospi ของเกาหลีใต้ร่วงกว่า 5% ช่วงเช้า เงินบาททรงตัวที่ราว 33.94 บาทต่อดอลลาร์ ขณะที่ดัชนีดอลลาร์อ่อนลงจากระดับสูงสุดในรอบ 19 เดือน บางโบรกเกอร์คาดว่าตลาดอาจฟื้นตัวระยะสั้นในสัปดาห์หน้า
+IMP	A stable baht near 34 keeps import costs predictable for now, but watch it if the Fed hikes in December.	เงินบาทที่ทรงตัวแถว 34 บาททำให้ต้นทุนนำเข้าคาดการณ์ได้ในตอนนี้ แต่ต้องจับตาหากเฟดขึ้นดอกเบี้ยในเดือนธันวาคม
+S		Oil heads for a big monthly loss; iron ore flat	น้ำมันจ่อขาดทุนหนักรายเดือน แร่เหล็กทรงตัว
+EN	Brent settled up 0.6% at $92.57 but is down close to 20% in November. Traders focus on a supply surplus: the IEA sees an excess of about 2 million barrels a day this quarter, and Hormuz flows are back near pre-war levels. Iron ore was flat at about $90.67 a tonne. Chinese port stocks rose to 109.26 million tonnes, while daily hot metal output slipped, a sign of weak mill demand. Analysts see a range-bound market until winter restocking starts.
+TH	น้ำมันเบรนท์ปิดบวก 0.6% ที่ 92.57 ดอลลาร์ แต่ลดลงเกือบ 20% ในเดือนพฤศจิกายน ตลาดให้น้ำหนักกับภาวะอุปทานล้นตลาด โดย IEA คาดว่าจะมีส่วนเกินราว 2 ล้านบาร์เรลต่อวันในไตรมาสนี้ และการขนส่งผ่านช่องแคบฮอร์มุซกลับมาใกล้ระดับก่อนสงคราม แร่เหล็กทรงตัวที่ราว 90.67 ดอลลาร์ต่อตัน สต็อกที่ท่าเรือจีนเพิ่มขึ้นเป็น 109.26 ล้านตัน ขณะที่ผลผลิตเหล็กถลุงรายวันลดลง สะท้อนความต้องการของโรงงานที่อ่อนแอ นักวิเคราะห์มองว่าตลาดจะแกว่งในกรอบจนกว่าการเติมสต็อกช่วงฤดูหนาวจะเริ่มขึ้น
+IMP	Soft iron ore and weak Chinese mill demand point to steady or lower steel prices, a chance to buy stock without rushing.	แร่เหล็กที่อ่อนตัวและความต้องการของโรงงานจีนที่ซบเซาบ่งชี้ว่าราคาเหล็กจะทรงตัวหรือลดลง เป็นโอกาสซื้อสต็อกโดยไม่ต้องเร่งรีบ
+S		Crypto: Bitcoin breaks below $60,000 as ETF outflows grow	คริปโต: บิตคอยน์หลุด 60,000 ดอลลาร์ ขณะเงินไหลออกจาก ETF เพิ่มขึ้น
+EN	Bitcoin fell about 4.7% to near $59,000, and Ether dropped about 7% to around $1,620. The main driver is the same risk-off mood hitting tech stocks, plus rising bets on a Fed hike. US spot Bitcoin ETFs saw net outflows of $582 million on Thursday, the third losing day in a row, and November outflows are close to $3.5 billion. Ether ETFs lost $131 million on the same day. Trading volumes on exchanges are also shrinking, so there are fewer buyers to absorb the selling.
+TH	บิตคอยน์ร่วงราว 4.7% สู่ใกล้ 59,000 ดอลลาร์ และอีเธอร์ลดลงราว 7% สู่ประมาณ 1,620 ดอลลาร์ ปัจจัยหลักคือบรรยากาศหลีกเลี่ยงความเสี่ยงแบบเดียวกับที่กดดันหุ้นเทคโนโลยี บวกกับความคาดหวังที่เพิ่มขึ้นว่าเฟดจะขึ้นดอกเบี้ย กองทุน ETF บิตคอยน์แบบสปอตในสหรัฐฯ มีเงินไหลออกสุทธิ 582 ล้านดอลลาร์ในวันพฤหัสบดี เป็นวันที่สามติดต่อกัน และยอดไหลออกทั้งเดือนพฤศจิกายนใกล้ 3,500 ล้านดอลลาร์ ETF อีเธอร์มีเงินไหลออก 131 ล้านดอลลาร์ในวันเดียวกัน ปริมาณการซื้อขายบนกระดานเทรดก็ลดลงด้วย ทำให้มีผู้ซื้อน้อยลงที่จะรองรับแรงขาย
+W	correction territory	ภาวะปรับฐาน (ลดลง 10% จากจุดสูงสุด)	A fall of at least 10% from a recent peak.	The S&P 500 fell 3.7% on Friday and closed in correction territory, while the Nasdaq dropped 5.3% and is now down for the year.
+W	back-to-back rate hikes	การขึ้นดอกเบี้ยติดต่อกัน	Raising interest rates at two meetings in a row.	Philadelphia Fed President Anna Paulson said she is open to back-to-back rate hikes, and Governor Lisa Cook warned that waiting risks falling behind.
+W	opportunity cost	ต้นทุนค่าเสียโอกาส	The return you give up by choosing one asset over another.	Gold futures fell 4.6% to about $3,515, a 14.5-month low, because higher rates raise the opportunity cost of holding metal that pays no yield.
+W	safe haven	สินทรัพย์ปลอดภัย	An asset investors buy to protect money when markets are stressed.	Treasuries still rallied as a safe haven, and the 10-year yield fell 12 bp to 4.92%.
+W	Turnover	มูลค่าการซื้อขาย	The total value of shares traded in a session.	Turnover was 61.66 billion baht.
+W	supply surplus	อุปทานส่วนเกิน	When producers supply more than buyers need, which pushes prices down.	Traders focus on a supply surplus: the IEA sees an excess of about 2 million barrels a day this quarter, and Hormuz flows are back near pre-war levels.
+W	net outflows	เงินไหลออกสุทธิ	More money withdrawn from a fund than put in over a period.	US spot Bitcoin ETFs saw net outflows of $582 million on Thursday, the third losing day in a row, and November outflows are close to $3.5 billion.
+Q	If the Fed hikes on 9 December and the BOT holds, how far could USD/THB move, and should I hedge steel import payments now?
+Q	Does a 20% drop in oil this month change my cost outlook for transport and steel production in Q1?

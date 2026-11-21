@@ -1,5 +1,6 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
 concept-2026-11-21.epub	concept	2026-11-21	How Haidilao won China's crowded hot pot market by selling service	2026-11-20T23:46:12+00:00	352eac41cdd9
+news-2026-11-21.epub	news	2026-11-21	AI rout sends Wall Street into correction as Fed hike looms	2026-11-20T23:30:00Z	30e67e471c9d
 concept-2026-11-20.epub	concept	2026-11-20	How Xiaomi beat Apple and Samsung in China with fans, thin margins and an ecosystem	2026-11-19T23:46:17.438525+00:00	7819f5b858f9
 news-2026-11-20.epub	news	2026-11-20	Fed hike fears hit stocks, gold and crypto	2026-11-19T23:15:19Z	f77f41d5c1cd
 concept-2026-11-19.epub	concept	2026-11-19	How Tao Kae Noi turned seaweed into a Thai snack and sold it to China	2026-11-18T23:50:00Z	b7229b0f3aa4
@@ -28,4 +29,3 @@ concept-2026-11-08.epub	concept	2026-11-08	How Warby Parker took on Luxottica wi
 news-2026-11-08.epub	news	2026-11-08	AI rout and a hot jobs report end a brutal week	2026-11-07T23:14:25+00:00	317fd9b25597
 concept-2026-11-07.epub	concept	2026-11-07	How Mixue became the world's largest food chain with US$1 drinks	2026-11-06T23:46:11.463288+00:00	41dc4c078f8a
 news-2026-11-07.epub	news	2026-11-07	AI rout and a hawkish Fed rattle markets	2026-11-06T23:15:15+00:00	5d1eeac185a1
-concept-2026-11-06-2342.epub	concept	2026-11-06	How Hilti beat cheaper tool brands by selling working tools, not drills	2026-11-06T23:42:25+07:00	f97be09f3b8f
