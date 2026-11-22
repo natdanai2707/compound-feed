@@ -1,0 +1,45 @@
+TYPE	news
+DATE	2026-11-22
+TITLE	AI selloff drags Wall Street into a correction	แรงขายหุ้น AI ฉุดวอลล์สตรีทเข้าสู่ภาวะปรับฐาน
+NOTE	Weekend edition: Friday Nov 20 closes; crypto as of Saturday Nov 21.
+M	S&P 500	6,910.39	−3.7%	
+M	Nasdaq	22,617.73	−5.3%	
+M	SET	1,453.28	−1.31%	
+M	USD/THB	33.95	−0.06%	
+M	Gold	$3,533	−4.0%	12-month low
+M	Brent	$92.57	+0.6%	3rd weekly drop
+M	US 10Y	4.94%	−10 bp	
+M	Iron ore	~CNY 650/t	−4.4%	China futures, MTD; 4-year low Nov 16
+M	Bitcoin	$60,135	−2.6%	Sat, 24h
+M	Ethereum	$1,683	−3.6%	Sat, 24h
+S		AI selloff pushes S&P 500 into a correction	แรงขายหุ้น AI ดัน S&P 500 เข้าสู่ภาวะปรับฐาน
+EN	US stocks had their worst week in more than 18 months. On Friday the S&P 500 fell 3.7% to 6,910 and the Nasdaq dropped 5.3%. The S&P 500 is now in a correction, more than 10% below its October high. Chip stocks led the fall, with Nvidia, AMD and Micron each down about 13% to 14%, as investors questioned whether huge AI spending will pay off. The VIX fear gauge jumped to about 36.
+TH	หุ้นสหรัฐฯ มีสัปดาห์ที่แย่ที่สุดในรอบกว่า 18 เดือน วันศุกร์ S&P 500 ร่วง 3.7% สู่ 6,910 จุด และ Nasdaq ลดลง 5.3% ตอนนี้ S&P 500 เข้าสู่ภาวะปรับฐาน ต่ำกว่าจุดสูงสุดเดือนตุลาคมเกิน 10% หุ้นชิปนำการร่วง โดย Nvidia, AMD และ Micron ลดลงราว 13% ถึง 14% เพราะนักลงทุนสงสัยว่าการลงทุน AI มหาศาลจะคุ้มค่าหรือไม่ ดัชนีความกลัว VIX พุ่งขึ้นไปราว 36
+IMP	Global risk-off means foreign funds keep selling Asian stocks, including the SET.	ภาวะหนีความเสี่ยงทั่วโลกทำให้กองทุนต่างชาติขายหุ้นเอเชียต่อเนื่อง รวมถึงตลาดหุ้นไทย
+S		Markets now expect a Fed rate hike in December	ตลาดคาดเฟดขึ้นดอกเบี้ยเดือนธันวาคม
+EN	Hot US inflation data earlier this month has flipped the rate debate from cuts to hikes. Fed Governor Lisa Cook warned that waiting too long to raise rates risks falling behind the curve. Prediction markets now price a strong chance of a 25 basis point hike at the December meeting. Even so, the 10-year Treasury yield fell 10 basis points to 4.94% on Friday as investors rushed into safe-haven bonds.
+TH	ข้อมูลเงินเฟ้อสหรัฐฯ ที่ร้อนแรงเมื่อต้นเดือน ทำให้การถกเถียงเรื่องดอกเบี้ยพลิกจากลดเป็นขึ้น ลิซา คุก กรรมการเฟด เตือนว่าการรอนานเกินไปก่อนขึ้นดอกเบี้ยเสี่ยงที่จะตามไม่ทันสถานการณ์ ตลาดคาดการณ์ตอนนี้ให้โอกาสสูงที่เฟดจะขึ้นดอกเบี้ย 0.25% ในการประชุมเดือนธันวาคม อย่างไรก็ตาม อัตราผลตอบแทนพันธบัตร 10 ปีลดลง 0.10% สู่ 4.94% ในวันศุกร์ เพราะนักลงทุนแห่เข้าพันธบัตรที่เป็นสินทรัพย์ปลอดภัย
+IMP	A Fed hike widens the gap with Thailand's 1.00% policy rate and can weaken the baht.	หากเฟดขึ้นดอกเบี้ย ส่วนต่างกับดอกเบี้ยนโยบายไทย 1.00% จะกว้างขึ้น และอาจทำให้เงินบาทอ่อนค่า
+S		Gold falls 4% to a 12-month low	ทองคำร่วง 4% ต่ำสุดในรอบ 12 เดือน
+EN	Gold dropped about 4% on Friday to around $3,533 an ounce, its lowest level in a year. It was the ninth losing session in a row. Silver fell about 7% to $41. The dollar barely moved and yields eased, so analysts read the drop as forced selling, with investors selling gold to cover losses elsewhere.
+TH	ทองคำร่วงราว 4% ในวันศุกร์ สู่ประมาณ 3,533 ดอลลาร์ต่อออนซ์ ต่ำสุดในรอบหนึ่งปี เป็นการลดลงวันที่เก้าติดต่อกัน ส่วนเงินลดลงราว 7% สู่ 41 ดอลลาร์ ดอลลาร์แทบไม่ขยับและอัตราผลตอบแทนลดลง นักวิเคราะห์จึงมองว่าเป็นการขายแบบถูกบังคับ คือนักลงทุนขายทองเพื่อชดเชยการขาดทุนในสินทรัพย์อื่น
+S		SET slides as foreign funds pull out	SET ร่วงจากกระแสเงินทุนต่างชาติไหลออก
+EN	The SET index fell 1.31% on Friday to 1,453.28, on turnover of about 61.7 billion baht. Local brokers blamed global tech volatility and heavy fund outflows from the region. The baht held steady near 33.95 per dollar. The Bank of Thailand kept its policy rate at 1.00% in October and raised its 2026 growth forecast to 2.4%, but October inflation jumped to 3.9%.
+TH	ดัชนี SET ลดลง 1.31% ในวันศุกร์ สู่ 1,453.28 จุด มูลค่าซื้อขายราว 61,700 ล้านบาท โบรกเกอร์ไทยชี้ว่ามาจากความผันผวนของหุ้นเทคโนโลยีโลกและเงินทุนไหลออกจากภูมิภาคจำนวนมาก เงินบาททรงตัวใกล้ 33.95 บาทต่อดอลลาร์ ธนาคารแห่งประเทศไทยคงดอกเบี้ยนโยบายที่ 1.00% ในเดือนตุลาคม และปรับประมาณการเศรษฐกิจปี 2026 ขึ้นเป็น 2.4% แต่เงินเฟ้อเดือนตุลาคมพุ่งขึ้นเป็น 3.9%
+IMP	Higher Thai inflation limits room for BoT cuts, so borrowing costs for your businesses are unlikely to fall soon.	เงินเฟ้อไทยที่สูงขึ้นจำกัดโอกาสที่ ธปท. จะลดดอกเบี้ย ต้นทุนการกู้ยืมของธุรกิจจึงไม่น่าจะลดลงเร็ว ๆ นี้
+S		Oil and iron ore stay weak on ample supply	น้ำมันและสินแร่เหล็กยังอ่อนตัวจากอุปทานล้น
+EN	Brent crude settled near $92.6 a barrel on Friday, a small gain on the day but a third weekly decline. Ample supply is offsetting Middle East risks, and OPEC+ meets on November 29 to set 2027 quotas. Iron ore futures in China hit their lowest level since October 2022 last week, near 650 yuan a tonne. Weak steel demand, lower Chinese steel output and new supply from the Simandou mine are weighing on prices.
+TH	น้ำมันดิบเบรนท์ปิดใกล้ 92.6 ดอลลาร์ต่อบาร์เรลในวันศุกร์ เพิ่มขึ้นเล็กน้อยในวันนั้น แต่ลดลงเป็นสัปดาห์ที่สามติดต่อกัน อุปทานที่มีเหลือเฟือช่วยหักล้างความเสี่ยงในตะวันออกกลาง และกลุ่มโอเปกพลัสจะประชุมวันที่ 29 พฤศจิกายนเพื่อกำหนดโควตาปี 2027 ราคาสัญญาล่วงหน้าสินแร่เหล็กในจีนแตะระดับต่ำสุดนับจากเดือนตุลาคม 2022 เมื่อสัปดาห์ก่อน ใกล้ 650 หยวนต่อตัน ความต้องการเหล็กที่อ่อนแอ การผลิตเหล็กของจีนที่ลดลง และอุปทานใหม่จากเหมือง Simandou กดดันราคา
+IMP	Cheap iron ore keeps Chinese steel export prices low, which helps your input costs but squeezes trading margins.	สินแร่เหล็กราคาถูกทำให้ราคาเหล็กส่งออกจากจีนต่ำ ช่วยลดต้นทุนวัตถุดิบ แต่กดดันกำไรธุรกิจค้าเหล็ก
+S		Crypto: Bitcoin dips below $56,000 before a rebound	คริปโต: บิตคอยน์หลุด 56,000 ดอลลาร์ก่อนดีดกลับ
+EN	Bitcoin briefly fell to about $55,100 early Saturday, its lowest since September 2024, before bouncing back above $60,000. More than $2 billion of leveraged positions were wiped out in liquidations over 24 hours. US spot Bitcoin ETFs have seen about $3.5 billion of outflows in November, so a key buyer has turned seller. The same AI fears and rate hike bets that hit stocks also drove the drop.
+TH	บิตคอยน์ร่วงลงไปราว 55,100 ดอลลาร์ช่วงเช้าวันเสาร์ ต่ำสุดนับจากกันยายน 2024 ก่อนดีดกลับเหนือ 60,000 ดอลลาร์ สถานะที่ใช้เลเวอเรจกว่า 2,000 ล้านดอลลาร์ถูกบังคับปิดภายใน 24 ชั่วโมง กองทุน ETF บิตคอยน์ในสหรัฐฯ มีเงินไหลออกราว 3,500 ล้านดอลลาร์ในเดือนพฤศจิกายน ผู้ซื้อหลักจึงกลายเป็นผู้ขาย ความกังวลเรื่อง AI และการคาดการณ์ขึ้นดอกเบี้ยแบบเดียวกับที่กดดันหุ้นก็เป็นแรงขับการร่วงครั้งนี้
+W	correction	ภาวะปรับฐาน	A fall of 10% or more from a recent peak.	The S&P 500 is now in a correction, more than 10% below its October high.
+W	safe-haven	สินทรัพย์ปลอดภัย	An asset investors buy to protect money when markets are stressed.	Even so, the 10-year Treasury yield fell 10 basis points to 4.94% on Friday as investors rushed into safe-haven bonds.
+W	behind the curve	ตามไม่ทันสถานการณ์	Acting too late compared with what conditions require.	Fed Governor Lisa Cook warned that waiting too long to raise rates risks falling behind the curve.
+W	forced selling	การขายแบบถูกบังคับ	Selling because of margin calls or losses, not because of a view on the asset.	The dollar barely moved and yields eased, so analysts read the drop as forced selling, with investors selling gold to cover losses elsewhere.
+W	fund outflows	เงินทุนไหลออก	Money that investors withdraw from a market or fund.	Local brokers blamed global tech volatility and heavy fund outflows from the region.
+W	policy rate	อัตราดอกเบี้ยนโยบาย	The benchmark interest rate a central bank sets.	The Bank of Thailand kept its policy rate at 1.00% in October and raised its 2026 growth forecast to 2.4%, but October inflation jumped to 3.9%.
+W	liquidations	การบังคับปิดสถานะ	Automatic closing of leveraged positions when collateral runs short.	More than $2 billion of leveraged positions were wiped out in liquidations over 24 hours.
+Q	If the Fed hikes in December, how far could USD/THB move by Q1 2027?
+Q	Should I lock in more steel inventory while iron ore sits at a four-year low?
