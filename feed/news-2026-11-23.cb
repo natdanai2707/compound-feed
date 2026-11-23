@@ -1,0 +1,43 @@
+TYPE	news
+DATE	2026-11-23
+TITLE	AI chip rout drags Wall Street into correction	หุ้นชิป AI ร่วงหนัก ฉุดวอลล์สตรีทเข้าสู่ภาวะปรับฐาน
+NOTE	Monday morning in Bangkok. Stocks, bonds and commodities are Friday Nov 20 closes; crypto is Sunday evening US time.
+M	S&P 500	6,910.39	−3.7%	Fri close; −8.6% on week
+M	Nasdaq	22,617.73	−5.3%	Fri close; −10% on week
+M	SET	1,453.28	−1.31%	Fri close
+M	USD/THB	33.94	−0.08%	Near 19-month baht low
+M	Gold	$3,537.90	−2.38%	Spot, Fri 5 p.m. ET
+M	Brent	$92.57	+0.6%	Third weekly loss
+M	US 10Y	4.93%	−11 bp	
+M	Iron ore	$90.67/t	−0.21%	62% Fe, Fri
+M	Bitcoin	$60,785	+1.2%	24h; hit ~$55,000 Sat
+M	Ethereum	$1,720	+2.2%	24h
+S		AI chip rout pushes S&P 500 into correction	หุ้นชิป AI ถล่ม ดัน S&P 500 เข้าสู่ภาวะปรับฐาน
+EN	US stocks had their worst week in a long time. On Friday the S&P 500 fell 3.7% and the Nasdaq lost 5.3%, after chip stocks collapsed. Nvidia, AMD and Micron each dropped more than 13%. The S&P 500 is now in a correction, more than 10% below its October 6 record, and the Nasdaq is negative for the year. Investors are questioning whether AI spending and valuations still make sense after the midterm results favoured politicians who want slower data center growth.
+TH	ตลาดหุ้นสหรัฐฯ เจอสัปดาห์ที่แย่ที่สุดในรอบนาน วันศุกร์ S&P 500 ร่วง 3.7% และ Nasdaq ลดลง 5.3% หลังหุ้นชิปดิ่งหนัก Nvidia, AMD และ Micron ลดลงตัวละกว่า 13% ตอนนี้ S&P 500 เข้าสู่ภาวะปรับฐาน ต่ำกว่าจุดสูงสุดเมื่อ 6 ตุลาคมเกิน 10% และ Nasdaq ติดลบตั้งแต่ต้นปี นักลงทุนเริ่มตั้งคำถามว่าการลงทุนและมูลค่าหุ้น AI ยังสมเหตุสมผลหรือไม่ หลังผลเลือกตั้งกลางเทอมเอื้อนักการเมืองที่ต้องการชะลอการสร้างดาต้าเซ็นเตอร์
+IMP	Global risk-off hits Thai equities and Asian exporters through fund outflows.	ภาวะหนีความเสี่ยงทั่วโลกกระทบหุ้นไทยและผู้ส่งออกเอเชียผ่านเงินทุนไหลออก
+S		Hot inflation keeps a December Fed hike in play	เงินเฟ้อร้อนแรง ทำให้เฟดอาจขึ้นดอกเบี้ยในเดือนธันวาคม
+EN	October CPI rose 0.4% on the month and core prices rose 0.3% for a third straight month. Traders now price a high chance of a quarter point rate hike at the Fed meeting on December 8 and 9. Yet the 10-year Treasury yield fell to 4.93% from 5.04% on Friday as money ran into bonds for safety. That mix of tighter policy and falling growth hopes is a tough backdrop for risk assets.
+TH	ดัชนี CPI เดือนตุลาคมเพิ่มขึ้น 0.4% จากเดือนก่อน และเงินเฟ้อพื้นฐานเพิ่ม 0.3% ติดต่อกันเป็นเดือนที่สาม นักลงทุนตอนนี้ให้โอกาสสูงที่เฟดจะขึ้นดอกเบี้ย 0.25% ในการประชุมวันที่ 8 ถึง 9 ธันวาคม แต่ผลตอบแทนพันธบัตรรัฐบาลสหรัฐฯ อายุ 10 ปีกลับลดลงเหลือ 4.93% จาก 5.04% ในวันศุกร์ เพราะเงินไหลเข้าพันธบัตรเพื่อความปลอดภัย ส่วนผสมของนโยบายตึงตัวและความหวังการเติบโตที่ลดลงเป็นสภาพแวดล้อมที่ยากสำหรับสินทรัพย์เสี่ยง
+IMP	A wider US-Thai rate gap keeps pressure on the baht and on THB borrowing costs.	ส่วนต่างดอกเบี้ยสหรัฐฯ กับไทยที่กว้างขึ้นยังกดดันค่าเงินบาทและต้นทุนการกู้เงิน
+S		SET slides as baht sits near a 19-month low	SET ร่วง ขณะที่เงินบาทอยู่ใกล้จุดอ่อนสุดในรอบ 19 เดือน
+EN	The SET index fell 1.31% to 1,453.28 on Friday as foreign funds sold across Asia. Korea's Kospi dropped more than 5% in the morning. The baht ended near 33.94 per dollar after touching 33.93, its weakest level in 19 months, and Kasikorn Research sees it moving toward 34.10. The Bank of Thailand holds its policy rate at 1% and says a weaker baht helps exporters. Tourist arrivals are down 4.59% so far this year, which limits support for the currency.
+TH	ดัชนี SET ลดลง 1.31% ปิดที่ 1,453.28 จุดในวันศุกร์ จากแรงขายของกองทุนต่างชาติทั่วเอเชีย ดัชนี Kospi ของเกาหลีร่วงกว่า 5% ในช่วงเช้า เงินบาทปิดราว 33.94 บาทต่อดอลลาร์ หลังแตะ 33.93 ซึ่งอ่อนสุดในรอบ 19 เดือน และศูนย์วิจัยกสิกรไทยมองว่าอาจอ่อนไปถึง 34.10 ธนาคารแห่งประเทศไทยคงดอกเบี้ยนโยบายที่ 1% และระบุว่าบาทอ่อนช่วยผู้ส่งออก ขณะที่นักท่องเที่ยวต่างชาติลดลง 4.59% ตั้งแต่ต้นปี ทำให้ค่าเงินมีแรงหนุนน้อยลง
+IMP	A weaker baht raises the cost of imported steel and materials; hedge USD payables.	บาทอ่อนทำให้ต้นทุนเหล็กและวัตถุดิบนำเข้าสูงขึ้น ควรป้องกันความเสี่ยงหนี้สินดอลลาร์
+S		Gold drops, oil falls for a third week, iron ore stays weak	ทองคำร่วง น้ำมันลงสัปดาห์ที่สาม แร่เหล็กยังอ่อนตัว
+EN	Spot gold fell 2.4% to about $3,538 an ounce, its lowest since September 2025, as funds sold commodities to raise cash. Brent rose 0.6% on Friday to $92.57 on Strait of Hormuz tensions but still lost 3.4% on the week on surplus worries. Iron ore is trading near four-year lows around $90 a ton. China's October steel output fell 1.6% to its lowest since March, and mill margins keep shrinking.
+TH	ราคาทองคำตลาดโลกลดลง 2.4% เหลือราว 3,538 ดอลลาร์ต่อออนซ์ ต่ำสุดตั้งแต่กันยายน 2025 เพราะกองทุนขายสินค้าโภคภัณฑ์เพื่อถือเงินสด น้ำมันเบรนท์เพิ่มขึ้น 0.6% ในวันศุกร์เป็น 92.57 ดอลลาร์ จากความตึงเครียดในช่องแคบฮอร์มุซ แต่ทั้งสัปดาห์ยังลดลง 3.4% จากความกังวลเรื่องอุปทานล้นตลาด แร่เหล็กซื้อขายใกล้จุดต่ำสุดในรอบสี่ปีที่ราว 90 ดอลลาร์ต่อตัน ผลผลิตเหล็กของจีนเดือนตุลาคมลดลง 1.6% ต่ำสุดตั้งแต่มีนาคม และมาร์จิ้นของโรงเหล็กยังหดตัวต่อเนื่อง
+IMP	Soft iron ore and weak Chinese demand point to cheaper steel offers; good time to negotiate.	แร่เหล็กอ่อนและดีมานด์จีนซบเซา ชี้ว่าราคาเหล็กเสนอขายมีแนวโน้มถูกลง เป็นจังหวะดีในการต่อรอง
+S		Crypto: Bitcoin hits two-year low, then reclaims $60,000	คริปโต: บิตคอยน์แตะจุดต่ำสุดในรอบสองปี ก่อนกลับขึ้นเหนือ 60,000 ดอลลาร์
+EN	Bitcoin plunged to about $55,000 early Saturday, its lowest since September 2024, before recovering above $60,000 on Sunday. The AI stock rout spilled into crypto and triggered about $1.8 billion of forced liquidations of leveraged positions. US spot bitcoin ETFs lost about $1.25 billion last week, including a record $541 million daily outflow from BlackRock's IBIT. Strategy shares fell 30% on the week, and bitcoin now trades about 20% below the company's average purchase price.
+TH	บิตคอยน์ดิ่งลงไปราว 55,000 ดอลลาร์ช่วงเช้าวันเสาร์ ต่ำสุดตั้งแต่กันยายน 2024 ก่อนฟื้นกลับเหนือ 60,000 ดอลลาร์ในวันอาทิตย์ แรงเทขายหุ้น AI ลามมาถึงคริปโต และทำให้เกิดการบังคับปิดสถานะที่ใช้เลเวอเรจราว 1.8 พันล้านดอลลาร์ กองทุน ETF บิตคอยน์ในสหรัฐฯ มีเงินไหลออกราว 1.25 พันล้านดอลลาร์ในสัปดาห์ที่แล้ว รวมถึงเงินไหลออกรายวันสูงเป็นประวัติการณ์ 541 ล้านดอลลาร์จาก IBIT ของ BlackRock หุ้น Strategy ร่วง 30% ในสัปดาห์ และบิตคอยน์ตอนนี้ต่ำกว่าต้นทุนเฉลี่ยของบริษัทราว 20%
+W	correction	ภาวะปรับฐาน	A fall of 10% or more from a recent high.	The S&P 500 is now in a correction, more than 10% below its October 6 record, and the Nasdaq is negative for the year.
+W	valuations	มูลค่าหุ้น / การประเมินมูลค่า	How expensive an asset is compared with its earnings or fundamentals.	Investors are questioning whether AI spending and valuations still make sense after the midterm results favoured politicians who want slower data center growth.
+W	rate hike	การขึ้นอัตราดอกเบี้ย	An increase in the central bank's policy interest rate.	Traders now price a high chance of a quarter point rate hike at the Fed meeting on December 8 and 9.
+W	risk assets	สินทรัพย์เสี่ยง	Investments like stocks and crypto whose prices swing with market sentiment.	That mix of tighter policy and falling growth hopes is a tough backdrop for risk assets.
+W	policy rate	อัตราดอกเบี้ยนโยบาย	The key interest rate set by a central bank to steer the economy.	The Bank of Thailand holds its policy rate at 1% and says a weaker baht helps exporters.
+W	mill margins	มาร์จิ้นของโรงเหล็ก	The profit a steel mill makes between raw material costs and steel prices.	China's October steel output fell 1.6% to its lowest since March, and mill margins keep shrinking.
+W	forced liquidations	การบังคับปิดสถานะ	When an exchange closes a leveraged trade because the trader's collateral is too low.	The AI stock rout spilled into crypto and triggered about $1.8 billion of forced liquidations of leveraged positions.
+W	outflow	เงินไหลออก	Money that investors pull out of a fund or market.	US spot bitcoin ETFs lost about $1.25 billion last week, including a record $541 million daily outflow from BlackRock's IBIT.
+Q	How would a December Fed hike change the outlook for USD/THB and Thai lending rates?
+Q	Is falling iron ore a signal to build steel inventory now or wait for lower prices?

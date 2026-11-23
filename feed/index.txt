@@ -1,5 +1,6 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
 concept-2026-11-23.epub	concept	2026-11-23	How Hermès built a 41% margin luxury house by selling less than it could	2026-11-23T06:50:00+07:00	bf0e0c47a63e
+news-2026-11-23.epub	news	2026-11-23	AI chip rout drags Wall Street into correction	2026-11-23T06:40:00+07:00	fcffac22524e
 concept-2026-11-22.epub	concept	2026-11-22	How Dyson beat Hoover by killing the vacuum bag	2026-11-21T23:45:12+00:00	5ffd5c09c68a
 news-2026-11-22.epub	news	2026-11-22	AI selloff drags Wall Street into a correction	2026-11-21T23:15:33+00:00	f79577677a51
 concept-2026-11-21.epub	concept	2026-11-21	How Haidilao won China's crowded hot pot market by selling service	2026-11-20T23:46:12+00:00	352eac41cdd9
@@ -28,4 +29,3 @@ concept-2026-11-10.epub	concept	2026-11-10	How Red Bull turned a Thai truckers' 
 news-2026-11-10.epub	news	2026-11-10	Oil slide fuels stock rebound ahead of US inflation test	2026-11-09T23:30:00Z	6ad84e90a9e6
 concept-2026-11-09.epub	concept	2026-11-09	How Grab beat Uber in Southeast Asia by building for local streets	2026-11-09T06:55:00+07:00	1ea24f907976
 news-2026-11-09.epub	news	2026-11-09	AI rout, oil slump and a hawkish Fed set a nervous tone	2026-11-08T23:14:40+00:00	9dd9d00039a6
-concept-2026-11-08.epub	concept	2026-11-08	How Warby Parker took on Luxottica with $95 glasses	2026-11-07T23:45:59.636104+00:00	8e5e085f8629
