@@ -1,0 +1,46 @@
+TYPE	news
+DATE	2026-11-24
+TITLE	Huang returns, Wall Street roars, but the dollar and Fed hike bets stay firm	ฮวงกลับมา วอลล์สตรีททะยาน แต่ดอลลาร์และการคาดการณ์ว่าเฟดจะขึ้นดอกเบี้ยยังแข็งแกร่ง
+NOTE	US, oil and bond figures are Monday Nov 23 closes. SET is the Bangkok close on Nov 23. Crypto is as of the US close.
+M	S&P 500	7,237.17	+4.7%	
+M	Nasdaq	24,089.56	+6.5%	
+M	SET	1,454.49	+0.08%	
+M	USD/THB	33.96	+0.1%	Quote time not stated
+M	Gold	$3,640/oz	+3.0%	Late New York, approx.
+M	Brent	$89.37	−3.5%	January contract settle
+M	US 10Y	4.928%	−2.2 bp	
+M	Iron ore	$88.25/t	−0.25%	SGX Dec, Asia session
+M	Bitcoin	$61,213	+0.1%	
+M	Ethereum	$1,719	−0.1%	
+S		Nvidia brings back Huang, stocks post best day in 19 months	Nvidia ดึงฮวงกลับมา หุ้นสหรัฐฯ ปิดบวกแรงสุดในรอบ 19 เดือน
+EN	Nvidia's board reinstated Jensen Huang as CEO with immediate effect, and the stock jumped 31% to $165. The S&P 500 rose 4.7% and the Nasdaq gained 6.5%, their best day since April 2025. The move pulled the S&P 500 out of correction territory after seven straight losing sessions. Micron added 19% and Dell rose 20% as fears about AI spending eased. Some strategists called it a mechanical bounce driven by short covering and options hedging, not a change in fundamentals.
+TH	คณะกรรมการ Nvidia แต่งตั้งเจนเซน ฮวง กลับเป็นซีอีโอโดยมีผลทันที หุ้นพุ่ง 31% ไปที่ 165 ดอลลาร์ ดัชนี S&P 500 บวก 4.7% และ Nasdaq บวก 6.5% ดีที่สุดนับตั้งแต่เมษายน 2025 การปรับขึ้นครั้งนี้ทำให้ S&P 500 หลุดออกจากภาวะปรับฐาน หลังร่วงติดต่อกันเจ็ดวัน Micron บวก 19% และ Dell บวก 20% เพราะความกังวลเรื่องการลงทุน AI ลดลง นักกลยุทธ์บางรายมองว่าเป็นการเด้งตามกลไก จากการซื้อคืนหุ้นที่ขายชอร์ตและการป้องกันความเสี่ยงของออปชัน ไม่ใช่พื้นฐานที่เปลี่ยนไป
+S		Fed hike bets hold, dollar hits 19-month high	ตลาดยังคาดเฟดขึ้นดอกเบี้ย ดอลลาร์แตะสูงสุดในรอบ 19 เดือน
+EN	The rally did not soften the Fed outlook. Futures show a 25 bp hike at the December 9 meeting as fully priced, and bets on more tightening by March grew. The 2-year yield rose to 4.67%, while the 10-year slipped to 4.93%, so the curve flattened. The dollar index touched 104.33, its highest since March 2025, as the euro and yen fell. Wednesday's PCE inflation data is the next big test before the Fed's quiet period.
+TH	การพุ่งขึ้นของหุ้นไม่ได้ทำให้มุมมองต่อเฟดผ่อนคลายลง ฟิวเจอร์สสะท้อนว่าตลาดรับรู้การขึ้นดอกเบี้ย 25 bp ในการประชุม 9 ธันวาคมไปเต็มที่แล้ว และการคาดการณ์ว่าจะคุมเข้มเพิ่มภายในมีนาคมก็สูงขึ้น ผลตอบแทนพันธบัตร 2 ปีขึ้นไปที่ 4.67% ขณะที่ 10 ปีลดลงเป็น 4.93% เส้นอัตราผลตอบแทนจึงแบนลง ดัชนีดอลลาร์แตะ 104.33 สูงสุดนับตั้งแต่มีนาคม 2025 ขณะที่ยูโรและเยนอ่อนค่า ข้อมูลเงินเฟ้อ PCE วันพุธคือบททดสอบสำคัญถัดไปก่อนช่วงงดให้ความเห็นของเฟด
+IMP	A strong dollar keeps the baht near 34 and makes imported steel and equipment costlier in baht terms.	ดอลลาร์ที่แข็งค่าทำให้เงินบาทอยู่แถว 34 และทำให้เหล็กกับเครื่องจักรนำเข้าแพงขึ้นเมื่อคิดเป็นเงินบาท
+S		Oil falls to a three-month low as supply returns	น้ำมันร่วงสู่ระดับต่ำสุดในรอบสามเดือน เมื่ออุปทานกลับมา
+EN	Brent settled $3.20 lower at $89.37 a barrel, and WTI ended at $80.17. Libya restarted its Sharara pipeline and Middle East exports picked up. The IEA has flagged a supply surplus building this quarter, and US stockpiles are rising. Attacks on Gulf shipping and a Saudi refinery limited the drop. JPMorgan sees oil in the high $70s in the first half of 2027.
+TH	เบรนท์ปิดลดลง 3.20 ดอลลาร์ ที่ 89.37 ดอลลาร์ต่อบาร์เรล และ WTI ปิดที่ 80.17 ดอลลาร์ ลิเบียกลับมาเปิดท่อส่ง Sharara และการส่งออกจากตะวันออกกลางเพิ่มขึ้น IEA เตือนว่าอุปทานส่วนเกินกำลังก่อตัวในไตรมาสนี้ และสต็อกน้ำมันสหรัฐฯ เพิ่มขึ้น การโจมตีเรือในอ่าวเปอร์เซียและโรงกลั่นซาอุฯ ช่วยจำกัดการร่วง JPMorgan มองราคาน้ำมันแถวปลาย 70 ดอลลาร์ในครึ่งแรกปี 2027
+IMP	Cheaper crude eases diesel and freight costs for fabrication and delivery in southern Thailand.	น้ำมันดิบที่ถูกลงช่วยลดต้นทุนดีเซลและค่าขนส่งสำหรับงานผลิตและจัดส่งในภาคใต้
+S		Iron ore stuck near four-year low as Chinese mills bleed	แร่เหล็กติดอยู่ใกล้จุดต่ำสุดในรอบสี่ปี โรงเหล็กจีนขาดทุนหนัก
+EN	Dalian iron ore fell 0.7% to about 651 yuan a tonne, close to its lowest level since October 2022. Singapore futures stayed below $90 for a fifth session. Only about 10% of Chinese steelmakers are profitable, down from 38% a year ago, as steel margins shrink. Hot metal output has dropped for six weeks in a row. Rebar and hot-rolled coil futures in Shanghai also fell.
+TH	แร่เหล็กที่ต้าเหลียนลดลง 0.7% ไปที่ราว 651 หยวนต่อตัน ใกล้ระดับต่ำสุดนับตั้งแต่ตุลาคม 2022 ฟิวเจอร์สสิงคโปร์อยู่ต่ำกว่า 90 ดอลลาร์เป็นวันที่ห้า โรงเหล็กจีนที่มีกำไรเหลือเพียงราว 10% จาก 38% เมื่อปีก่อน เพราะส่วนต่างกำไรเหล็กหดตัว ผลผลิตเหล็กถลุงลดลงหกสัปดาห์ติดต่อกัน ฟิวเจอร์สเหล็กเส้นและเหล็กแผ่นรีดร้อนที่เซี่ยงไฮ้ก็ลดลงเช่นกัน
+IMP	Weak Chinese demand means cheap steel exports keep pressing ASEAN prices, so keep stock lean and buy on dips.	ความต้องการในจีนที่อ่อนแอทำให้เหล็กส่งออกราคาถูกกดดันราคาในอาเซียนต่อไป ควรถือสต็อกให้น้อยและทยอยซื้อตอนราคาย่อ
+S		SET flat as exchange weighs tougher short-selling curbs	SET ทรงตัว ตลาดหลักทรัพย์ฯ พิจารณาคุมการขายชอร์ตเข้มขึ้น
+EN	The SET index closed at 1,454.49, up just 0.08%, on turnover of 56.4 billion baht. Japan fell 5% and South Korea 3% on Monday, so Bangkok did well to hold. Short selling has jumped to about 11% of turnover since new rules started on November 16. The exchange may bring back a wider uptick rule if volatility continues. Analysts expect sideways trade today, with Asia set to rebound after Wall Street's rally.
+TH	ดัชนี SET ปิดที่ 1,454.49 จุด บวกเพียง 0.08% มูลค่าซื้อขาย 56,400 ล้านบาท วันจันทร์ญี่ปุ่นร่วง 5% และเกาหลีใต้ร่วง 3% ตลาดไทยจึงถือว่ายืนได้ดี การขายชอร์ตพุ่งขึ้นเป็นราว 11% ของมูลค่าซื้อขาย ตั้งแต่กฎใหม่เริ่มใช้ 16 พฤศจิกายน ตลาดหลักทรัพย์ฯ อาจนำกฎ uptick กลับมาใช้ในวงกว้างหากความผันผวนยังสูง นักวิเคราะห์คาดว่าวันนี้ตลาดจะแกว่งออกข้าง โดยเอเชียน่าจะฟื้นตามวอลล์สตรีท
+IMP	A calmer SET and steady 1% policy rate keep Thai borrowing costs low even as the Fed tightens.	SET ที่นิ่งขึ้นและดอกเบี้ยนโยบาย 1% ที่คงที่ ช่วยให้ต้นทุนกู้ยืมในไทยยังต่ำ แม้เฟดจะคุมเข้ม
+S		Crypto: Bitcoin sits out the rally as ETF outflows bite	คริปโต: บิตคอยน์ไม่ขยับตามหุ้น เมื่อเงินไหลออกจาก ETF กดดัน
+EN	Bitcoin ended the US session near $61,200, almost flat, while stocks surged. It hit about $55,100 over the weekend, its lowest since September 2024, then bounced in a short squeeze that wiped out leveraged bets against it. US spot Bitcoin ETFs saw about $1.8 billion of outflows last week, including $669 million on Friday alone. Ether funds lost $314 million and Ether traded near $1,720. With a Fed hike priced in and sentiment at extreme fear, buyers have not come back.
+TH	บิตคอยน์ปิดช่วงตลาดสหรัฐฯ แถว 61,200 ดอลลาร์ แทบไม่เปลี่ยนแปลง ขณะที่หุ้นพุ่งแรง สุดสัปดาห์ราคาลงไปแตะราว 55,100 ดอลลาร์ ต่ำสุดตั้งแต่กันยายน 2024 ก่อนเด้งจากการบีบชอร์ตที่ล้างสถานะกู้ยืมที่เดิมพันขาลง ETF บิตคอยน์สปอตในสหรัฐฯ มีเงินไหลออกราว 1,800 ล้านดอลลาร์เมื่อสัปดาห์ก่อน รวม 669 ล้านดอลลาร์ในวันศุกร์วันเดียว กองทุนอีเธอร์มีเงินออก 314 ล้านดอลลาร์ และอีเธอร์ซื้อขายแถว 1,720 ดอลลาร์ เมื่อตลาดรับรู้การขึ้นดอกเบี้ยของเฟดแล้วและความเชื่อมั่นอยู่ในโซนกลัวสุดขีด ผู้ซื้อจึงยังไม่กลับมา
+W	correction territory	ภาวะปรับฐาน	A fall of 10% or more from a recent peak.	The move pulled the S&P 500 out of correction territory after seven straight losing sessions.
+W	short covering	การซื้อคืนหุ้นที่ขายชอร์ต	Buying back shares that were sold short, which can push prices up fast.	Some strategists called it a mechanical bounce driven by short covering and options hedging, not a change in fundamentals.
+W	fully priced	ตลาดรับรู้ไปเต็มที่แล้ว	Markets already expect the event with near certainty, so it is reflected in prices.	Futures show a 25 bp hike at the December 9 meeting as fully priced, and bets on more tightening by March grew.
+W	the curve flattened	เส้นอัตราผลตอบแทนแบนลง	The gap between short and long bond yields narrowed.	The 2-year yield rose to 4.67%, while the 10-year slipped to 4.93%, so the curve flattened.
+W	supply surplus	อุปทานส่วนเกิน	More of a product is being produced than buyers need.	The IEA has flagged a supply surplus building this quarter, and US stockpiles are rising.
+W	steel margins	ส่วนต่างกำไรเหล็ก	The gap between steel prices and the cost of raw materials like iron ore and coke.	Only about 10% of Chinese steelmakers are profitable, down from 38% a year ago, as steel margins shrink.
+W	uptick rule	กฎ uptick (ห้ามขายชอร์ตต่ำกว่าราคาล่าสุด)	A rule that lets short sales happen only at or above the last traded price.	The exchange may bring back a wider uptick rule if volatility continues.
+W	short squeeze	การบีบชอร์ต	A sharp rise that forces short sellers to buy back, which pushes the price higher still.	It hit about $55,100 over the weekend, its lowest since September 2024, then bounced in a short squeeze that wiped out leveraged bets against it.
+Q	If Wednesday's PCE data comes in hot, how far could the dollar and USD/THB run before the December Fed meeting?
+Q	With only 10% of Chinese mills profitable, when could output cuts finally lift steel prices in ASEAN?
