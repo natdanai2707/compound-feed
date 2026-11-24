@@ -1,4 +1,5 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
+concept-2026-11-24.epub	concept	2026-11-24	The nuclear bet that forced Toshiba to sell its best business	2026-11-23T23:46:40+00:00	19f7d5ab1521
 concept-2026-11-23.epub	concept	2026-11-23	How Hermès built a 41% margin luxury house by selling less than it could	2026-11-23T06:50:00+07:00	bf0e0c47a63e
 news-2026-11-23.epub	news	2026-11-23	AI chip rout drags Wall Street into correction	2026-11-23T06:40:00+07:00	fcffac22524e
 concept-2026-11-22.epub	concept	2026-11-22	How Dyson beat Hoover by killing the vacuum bag	2026-11-21T23:45:12+00:00	5ffd5c09c68a
@@ -28,4 +29,3 @@ news-2026-11-11.epub	news	2026-11-11	Hot US inflation lifts yields to 5%, oil sl
 concept-2026-11-10.epub	concept	2026-11-10	How Red Bull turned a Thai truckers' tonic into a global category	2026-11-09T23:46:49Z	af541bb1a951
 news-2026-11-10.epub	news	2026-11-10	Oil slide fuels stock rebound ahead of US inflation test	2026-11-09T23:30:00Z	6ad84e90a9e6
 concept-2026-11-09.epub	concept	2026-11-09	How Grab beat Uber in Southeast Asia by building for local streets	2026-11-09T06:55:00+07:00	1ea24f907976
-news-2026-11-09.epub	news	2026-11-09	AI rout, oil slump and a hawkish Fed set a nervous tone	2026-11-08T23:14:40+00:00	9dd9d00039a6
