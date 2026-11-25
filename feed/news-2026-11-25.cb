@@ -1,0 +1,46 @@
+TYPE	news
+DATE	2026-11-25
+TITLE	Chip rout hits Nasdaq as Dow reclaims 50,000	หุ้นชิปร่วงหนักฉุด Nasdaq ขณะที่ Dow กลับขึ้นเหนือ 50,000
+NOTE	US closes for Tuesday, Nov 24. SET close Nov 24. Crypto as of US evening Nov 24.
+M	S&P 500	7,201.09	−0.50%	
+M	Nasdaq	23,733.54	−1.48%	
+M	SET	1,451.65	−0.20%	
+M	USD/THB	33.93	−0.03%	Intraday quote, no verified close
+M	Gold	$3,552	−2.7%	US futures
+M	Brent	$91.40	+2.3%	
+M	US 10Y	4.90%	−1.4 bp	
+M	Iron ore	$89.30/t	+0.2%	MMi 61% Fe seaborne index
+M	Bitcoin	$59,719	−2.4%	
+M	Ethereum	$1,674	−2.1%	
+S		Chip stocks crash, money rotates to defensives	หุ้นชิปร่วงหนัก เงินไหลเข้าหุ้นกลุ่มปลอดภัย
+EN	Semiconductors gave back Monday's gains in one session. The Philadelphia Semiconductor Index fell nearly 8%, with Nvidia down about 6% and Micron down about 11%. Traders questioned how AI spending will be financed and when it will pay off. Money moved into health care, staples and retailers, a classic rotation that lifted the Dow 0.85% to 50,018. Anthropic shares closed below their $83 IPO price.
+TH	หุ้นเซมิคอนดักเตอร์คืนกำไรของวันจันทร์หมดภายในวันเดียว ดัชนี Philadelphia Semiconductor ร่วงเกือบ 8% โดย Nvidia ลดลงราว 6% และ Micron ลดลงราว 11% นักลงทุนตั้งคำถามว่าการลงทุนด้าน AI จะหาเงินทุนจากไหนและจะคุ้มทุนเมื่อใด เงินจึงย้ายไปหุ้นกลุ่มสุขภาพ สินค้าจำเป็น และค้าปลีก ซึ่งเป็นการหมุนเวียนกลุ่มแบบคลาสสิกที่ดัน Dow ขึ้น 0.85% สู่ 50,018 ส่วนหุ้น Anthropic ปิดต่ำกว่าราคา IPO ที่ 83 ดอลลาร์
+IMP	Thailand is a major AI hardware exporter, so a chip slump can hit electronics exports and SET tech names.	ไทยเป็นผู้ส่งออกฮาร์ดแวร์ AI รายใหญ่ หุ้นชิปที่ทรุดตัวอาจกระทบการส่งออกอิเล็กทรอนิกส์และหุ้นเทคใน SET
+S		Oil jumps 2% on Hormuz tanker attacks	น้ำมันพุ่ง 2% จากเหตุโจมตีเรือบรรทุกน้ำมันในช่องแคบฮอร์มุซ
+EN	Brent settled up 2.3% at $91.40 and WTI rose 2.4% to $82.05. New tanker attacks in the Strait of Hormuz revived supply fears, and US-Iran talks remain stalled. The rebound came despite clear signs of oversupply. The IEA expects a surplus this quarter as Gulf exports recover, and WTI is still down more than a fifth this month.
+TH	Brent ปิดตลาดเพิ่มขึ้น 2.3% ที่ 91.40 ดอลลาร์ และ WTI เพิ่มขึ้น 2.4% สู่ 82.05 ดอลลาร์ เหตุโจมตีเรือบรรทุกน้ำมันครั้งใหม่ในช่องแคบฮอร์มุซปลุกความกังวลด้านอุปทาน ขณะที่การเจรจาสหรัฐฯ กับอิหร่านยังติดขัด การฟื้นตัวครั้งนี้เกิดขึ้นทั้งที่มีสัญญาณอุปทานล้นตลาดชัดเจน IEA คาดว่าจะเกิดอุปทานส่วนเกินในไตรมาสนี้เมื่อการส่งออกจากอ่าวเปอร์เซียฟื้นตัว และ WTI ยังลดลงมากกว่าหนึ่งในห้าในเดือนนี้
+IMP	Diesel and freight costs for steel deliveries stay volatile, so keep transport surcharges flexible.	ต้นทุนดีเซลและค่าขนส่งเหล็กยังผันผวน ควรกำหนดค่าขนส่งให้ปรับได้
+S		Confidence surges ahead of key PCE data	ความเชื่อมั่นผู้บริโภคพุ่ง ก่อนตัวเลข PCE สำคัญ
+EN	The Conference Board's consumer confidence index jumped to 103.3 from 91.9, far above forecasts. One-year inflation expectations stand at 5.7%. That keeps pressure on a hawkish Fed under Kevin Warsh before the October PCE report on Wednesday. The 10-year Treasury yield held near 4.90%. Gold futures fell about 2.7% to $3,552 as risk appetite shifted.
+TH	ดัชนีความเชื่อมั่นผู้บริโภคของ Conference Board พุ่งขึ้นสู่ 103.3 จาก 91.9 สูงกว่าที่คาดมาก ขณะที่การคาดการณ์เงินเฟ้อ 1 ปีข้างหน้าอยู่ที่ 5.7% ทำให้ Fed ภายใต้ Kevin Warsh ซึ่งมีท่าทีเข้มงวดยังถูกกดดันก่อนรายงาน PCE เดือนตุลาคมในวันพุธ อัตราผลตอบแทนพันธบัตรสหรัฐฯ 10 ปีทรงตัวใกล้ 4.90% ส่วนทองคำล่วงหน้าร่วงราว 2.7% สู่ 3,552 ดอลลาร์ เมื่อความต้องการรับความเสี่ยงเปลี่ยนไป
+IMP	A hawkish Fed keeps the dollar firm, so the baht stays near 34 and Thai rate relief is limited.	Fed ที่เข้มงวดทำให้ดอลลาร์แข็ง เงินบาทจึงอยู่แถว 34 และโอกาสลดดอกเบี้ยของไทยมีจำกัด
+S		SET slips as Nvidia bounce fades	SET ย่อตัวเมื่อแรงหนุนจาก Nvidia จางลง
+EN	The SET closed at 1,451.65, down 0.20%, on turnover of 71 billion baht. Electronics stocks jumped early on the Nvidia news, then sold off on concerns about US AI regulation. Lower oil prices during Asian hours weighed on PTTEP. Kiatnakin Phatra expects Thai GDP growth of 2.6% in 2027. It notes that much of Thailand's AI export value comes from imported components, which limits local gains.
+TH	SET ปิดที่ 1,451.65 จุด ลดลง 0.20% มูลค่าซื้อขาย 71,000 ล้านบาท หุ้นอิเล็กทรอนิกส์พุ่งช่วงเช้าจากข่าว Nvidia ก่อนถูกขายออกเพราะความกังวลเรื่องการกำกับดูแล AI ของสหรัฐฯ ราคาน้ำมันที่ต่ำลงช่วงตลาดเอเชียกดดัน PTTEP ด้านเกียรตินาคินภัทรคาด GDP ไทยปี 2027 โต 2.6% และชี้ว่ามูลค่าส่งออก AI ของไทยจำนวนมากมาจากชิ้นส่วนนำเข้า ทำให้ประโยชน์ต่อในประเทศมีจำกัด
+IMP	Growth near 2.6% means domestic construction demand for steel is unlikely to pick up fast.	การเติบโตราว 2.6% หมายความว่าความต้องการเหล็กจากงานก่อสร้างในประเทศคงไม่ฟื้นเร็ว
+S		Iron ore stuck near four-year lows	แร่เหล็กยังวนใกล้จุดต่ำสุดในรอบ 4 ปี
+EN	Iron ore edged higher but stayed close to the four-year low hit last week. Dalian's most-traded contract rose 0.69% to 658.5 yuan a tonne, and the seaborne 61% Fe index was $89.30. Global shipments jumped nearly 11% week on week, and port stocks remain high. Weak Chinese steel demand keeps a lid on prices.
+TH	แร่เหล็กขยับขึ้นเล็กน้อยแต่ยังใกล้จุดต่ำสุดในรอบ 4 ปีที่ทำไว้เมื่อสัปดาห์ก่อน สัญญาที่ซื้อขายมากที่สุดในต้าเหลียนเพิ่มขึ้น 0.69% สู่ 658.5 หยวนต่อตัน และดัชนีแร่ทางทะเล 61% Fe อยู่ที่ 89.30 ดอลลาร์ การขนส่งทั่วโลกเพิ่มขึ้นเกือบ 11% เมื่อเทียบสัปดาห์ก่อน และสต็อกที่ท่าเรือยังสูง ความต้องการเหล็กในจีนที่อ่อนแอกดราคาไว้
+IMP	Cheap ore keeps Chinese steel offers low, which pressures Thai trading margins but cuts input costs.	แร่ราคาถูกทำให้เหล็กจีนเสนอขายราคาต่ำ กดดันมาร์จิ้นการค้าเหล็กในไทย แต่ลดต้นทุนวัตถุดิบ
+S		Crypto: Bitcoin breaks below $60,000 as ETF exits hit record	คริปโต: Bitcoin หลุด 60,000 ดอลลาร์ ขณะเงินไหลออกจาก ETF ทำสถิติ
+EN	Bitcoin fell about 2.4% to near $59,700, and Ether lost about 2% to $1,674. US spot Bitcoin ETFs have seen about $4.7 billion of net outflows so far in November, the largest monthly total on record. The tech selloff and a firmer dollar added pressure. Liquidations topped $800 million in 24 hours, and sentiment gauges sit at extreme fear.
+TH	Bitcoin ลดลงราว 2.4% สู่ระดับใกล้ 59,700 ดอลลาร์ และ Ether ลดลงราว 2% สู่ 1,674 ดอลลาร์ Bitcoin ETF แบบ spot ในสหรัฐฯ มีเงินไหลออกสุทธิราว 4,700 ล้านดอลลาร์ในเดือนพฤศจิกายน สูงสุดเป็นประวัติการณ์ในรอบเดือน แรงขายหุ้นเทคและดอลลาร์ที่แข็งขึ้นซ้ำเติม การล้างสถานะเกิน 800 ล้านดอลลาร์ใน 24 ชั่วโมง และดัชนีวัดอารมณ์ตลาดอยู่ในโซนกลัวสุดขีด
+W	rotation	การหมุนเวียนกลุ่มอุตสาหกรรม	Investors move money from one sector to another instead of leaving the market.	Money moved into health care, staples and retailers, a classic rotation that lifted the Dow 0.85% to 50,018.
+W	settled	ปิดตลาด (ราคาชำระ)	The official closing price of a futures contract for the day.	Brent settled up 2.3% at $91.40 and WTI rose 2.4% to $82.05.
+W	oversupply	อุปทานล้นตลาด	More of a product is available than buyers want, which pushes prices down.	The rebound came despite clear signs of oversupply.
+W	inflation expectations	การคาดการณ์เงินเฟ้อ	What people think prices will rise by in the future; central banks watch it closely.	One-year inflation expectations stand at 5.7%.
+W	turnover	มูลค่าการซื้อขาย	The total value of shares traded in a session.	The SET closed at 1,451.65, down 0.20%, on turnover of 71 billion baht.
+W	week on week	เมื่อเทียบกับสัปดาห์ก่อน	A change measured against the same figure one week earlier.	Global shipments jumped nearly 11% week on week, and port stocks remain high.
+W	net outflows	เงินไหลออกสุทธิ	More money is withdrawn from a fund than is invested in it.	US spot Bitcoin ETFs have seen about $4.7 billion of net outflows so far in November, the largest monthly total on record.
+Q	If October PCE comes in hot, how far could a Warsh-led Fed push the dollar and the baht?
+Q	Does the oil rebound change the case for locking in diesel or freight costs for Q1?

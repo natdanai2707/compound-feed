@@ -1,5 +1,6 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
 concept-2026-11-25.epub	concept	2026-11-25	How cinemas really make money: tickets, popcorn and rent	2026-11-24T23:55:00Z	4380cdae30bd
+news-2026-11-25.epub	news	2026-11-25	Chip rout hits Nasdaq as Dow reclaims 50,000	2026-11-25T06:15:33+07:00	cda781921cdc
 concept-2026-11-24.epub	concept	2026-11-24	The nuclear bet that forced Toshiba to sell its best business	2026-11-23T23:46:40+00:00	19f7d5ab1521
 news-2026-11-24.epub	news	2026-11-24	Huang returns, Wall Street roars, but the dollar and Fed hike bets stay firm	2026-11-24T06:30:00+07:00	f0da4998e21a
 concept-2026-11-23.epub	concept	2026-11-23	How Hermès built a 41% margin luxury house by selling less than it could	2026-11-23T06:50:00+07:00	bf0e0c47a63e
@@ -28,4 +29,3 @@ concept-2026-11-12.epub	concept	2026-11-12	How Pop Mart turned blind boxes into 
 news-2026-11-12.epub	news	2026-11-12	Rate hike fears meet an AI rebound	2026-11-11T23:15:23+00:00	4980228b562c
 concept-2026-11-11.epub	concept	2026-11-11	How Fastenal turned a small-town bolt shop into an US$8bn supplier by moving inside its customers' factories	2026-11-10T23:58:00Z	ec289fe7e6c5
 news-2026-11-11.epub	news	2026-11-11	Hot US inflation lifts yields to 5%, oil slides	2026-11-10T23:14:37+00:00	b0956a485f08
-concept-2026-11-10.epub	concept	2026-11-10	How Red Bull turned a Thai truckers' tonic into a global category	2026-11-09T23:46:49Z	af541bb1a951
