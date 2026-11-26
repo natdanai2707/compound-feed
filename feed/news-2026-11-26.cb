@@ -1,0 +1,46 @@
+TYPE	news
+DATE	2026-11-26
+TITLE	Hot inflation seals a Fed hike as US tariff plan hits Thailand	เงินเฟ้อร้อนแรงตอกย้ำเฟดขึ้นดอกเบี้ย ขณะแผนภาษีสหรัฐฯ พุ่งเป้าไทย
+NOTE	US figures are Wednesday Nov 25 closes; US markets are shut Thursday for Thanksgiving. SET and baht are Nov 25. Gold, Brent, iron ore and crypto are latest available quotes.
+M	S&P 500	7,182.78	−0.25%	
+M	Nasdaq	23,585.80	−0.62%	
+M	SET	1,428.50	−1.59%	
+M	USD/THB	34.07	+0.34%	Baht weaker, past 34
+M	Gold	$3,577	+0.6%	Spot, 4:35pm ET; near 15-month low
+M	Brent	$92.4	+1.1%	Quotes vary by source
+M	US 10Y	4.85%	−6 bp	
+M	Iron ore	$89.20	−0.1%	MMi seaborne 61% Fe, $/dmt
+M	Bitcoin	$60,139	+0.7%	
+M	Ethereum	$1,685	+0.5%	
+S		Hot PCE data locks in a December Fed hike	ข้อมูล PCE ร้อนแรง ตอกย้ำเฟดขึ้นดอกเบี้ยเดือนธันวาคม
+EN	US inflation stayed sticky in October. The PCE price index rose 3.8% from a year earlier, and core PCE climbed 0.3% for a third straight month, to 3.3% annually. Third-quarter GDP was also revised up to 4.3% from 3.4%. Futures now price roughly a 98% chance of a quarter-point rate hike on December 9. The 10-year yield eased to about 4.85% as investors bought bonds during the equity sell-off.
+TH	เงินเฟ้อสหรัฐฯ ยังเหนียวแน่นในเดือนตุลาคม ดัชนีราคา PCE เพิ่มขึ้น 3.8% เมื่อเทียบกับปีก่อน และ core PCE เพิ่มขึ้น 0.3% เป็นเดือนที่สามติดต่อกัน คิดเป็น 3.3% ต่อปี GDP ไตรมาสสามยังถูกปรับขึ้นเป็น 4.3% จาก 3.4% ตลาดฟิวเจอร์สให้โอกาสราว 98% ที่เฟดจะขึ้นดอกเบี้ย 0.25% ในวันที่ 9 ธันวาคม ส่วนผลตอบแทนพันธบัตร 10 ปีลดลงมาราว 4.85% เพราะนักลงทุนหันมาซื้อพันธบัตรระหว่างที่หุ้นถูกเทขาย
+IMP	A wider US rate gap keeps pressure on the baht and on dollar funding costs.	ส่วนต่างดอกเบี้ยกับสหรัฐฯ ที่กว้างขึ้นจะกดดันค่าเงินบาทและต้นทุนเงินกู้สกุลดอลลาร์ต่อไป
+S		US proposes excess capacity tariffs on 14 economies, Thailand included	สหรัฐฯ เสนอภาษีกำลังการผลิตส่วนเกินกับ 14 เศรษฐกิจ รวมถึงไทย
+EN	The USTR proposed new Section 301 tariffs on 14 economies it accuses of structural excess capacity in manufacturing. Thailand faces up to 18%, rising to 25% if Washington judges its commitments unsatisfactory. China faces up to 20%, the EU 15% and Vietnam up to 35%. Steel, aluminium and copper articles are exempt for everyone except China, since they already carry Section 232 duties. Nothing is final before hearings in January 2027, and Thai officials hope the reciprocal trade talks will soften the outcome.
+TH	สำนักงานผู้แทนการค้าสหรัฐฯ (USTR) เสนอภาษีตามมาตรา 301 ใหม่กับ 14 เศรษฐกิจที่ถูกกล่าวหาว่ามีกำลังการผลิตส่วนเกินเชิงโครงสร้างในภาคการผลิต ไทยเจอสูงสุด 18% และอาจขึ้นเป็น 25% หากสหรัฐฯ เห็นว่าข้อผูกพันของไทยไม่น่าพอใจ จีนเจอสูงสุด 20% สหภาพยุโรป 15% และเวียดนามสูงสุด 35% สินค้าเหล็ก อะลูมิเนียม และทองแดงได้รับยกเว้นสำหรับทุกประเทศยกเว้นจีน เพราะมีภาษีตามมาตรา 232 อยู่แล้ว ยังไม่มีอะไรเป็นที่สิ้นสุดจนกว่าจะมีการไต่สวนในเดือนมกราคม 2027 และเจ้าหน้าที่ไทยหวังว่าการเจรจาการค้าต่างตอบแทนจะช่วยลดผลกระทบ
+IMP	Thai exporters of manufactured goods face a new cost risk, but steel is carved out for Thailand.	ผู้ส่งออกสินค้าอุตสาหกรรมไทยเจอความเสี่ยงต้นทุนใหม่ แต่สินค้าเหล็กของไทยได้รับการยกเว้น
+S		Wall Street claws back a deep loss as Nvidia slides	วอลล์สตรีทฟื้นจากการร่วงหนัก ขณะที่ Nvidia ดิ่ง
+EN	The Dow erased an intraday drop of more than 1,100 points and closed up 0.33%. Tech did not recover as well. The Nasdaq lost 0.62% and the S&P 500 slipped 0.25%. Nvidia fell 3.9% on renewed doubts about AI spending, higher rates and leadership questions. The VIX rose above 28, a sign that investors still expect big swings into the holiday.
+TH	ดัชนีดาวโจนส์ลบการร่วงระหว่างวันกว่า 1,100 จุดได้ทั้งหมด และปิดบวก 0.33% แต่หุ้นเทคฟื้นไม่เท่า แนสแด็กลดลง 0.62% และ S&P 500 ลดลง 0.25% Nvidia ร่วง 3.9% จากความกังวลเรื่องการลงทุนด้าน AI ดอกเบี้ยที่สูงขึ้น และคำถามเรื่องผู้บริหาร ดัชนี VIX ขึ้นเหนือ 28 สะท้อนว่านักลงทุนยังคาดว่าตลาดจะผันผวนแรงช่วงวันหยุด
+S		SET drops 1.6% and the baht weakens past 34	SET ร่วง 1.6% และเงินบาทอ่อนเกิน 34
+EN	Thai stocks fell 23.15 points to 1,428.50 as investors moved to a risk-off stance before the US tariff decision. Industrial estate, electronics and power stocks took the biggest hits. Turnover was 66.9 billion baht, and analysts point to continuous fund outflows. The baht slipped to about 34.07 per dollar, near a 19-month low, hurt by falling gold, a weak Q3 GDP print and Fed hike bets.
+TH	หุ้นไทยลดลง 23.15 จุด ปิดที่ 1,428.50 เพราะนักลงทุนลดความเสี่ยงก่อนผลการตัดสินภาษีของสหรัฐฯ หุ้นนิคมอุตสาหกรรม อิเล็กทรอนิกส์ และโรงไฟฟ้าถูกกดดันมากที่สุด มูลค่าซื้อขาย 66.9 พันล้านบาท และนักวิเคราะห์ชี้ว่ามีเงินทุนไหลออกต่อเนื่อง เงินบาทอ่อนค่าไปที่ราว 34.07 บาทต่อดอลลาร์ ใกล้ระดับอ่อนสุดในรอบ 19 เดือน จากราคาทองที่ลดลง GDP ไตรมาสสามที่อ่อนแอ และการคาดการณ์ว่าเฟดจะขึ้นดอกเบี้ย
+IMP	A weaker baht raises the cost of imported steel and materials priced in dollars.	เงินบาทที่อ่อนลงทำให้ต้นทุนเหล็กและวัตถุดิบนำเข้าที่ตั้งราคาเป็นดอลลาร์สูงขึ้น
+S		China's steel output sinks as mills lose money	การผลิตเหล็กจีนลดลง ขณะที่โรงงานขาดทุน
+EN	China produced 70.83 million tonnes of crude steel in October, down 6.9% from September. Weak construction demand and thin margins are the main causes, and only about one in ten mills is profitable. Hot metal output keeps falling as northern mills start winter maintenance. Seaborne iron ore held near $89 a tonne, while Dalian futures edged down 0.23%.
+TH	จีนผลิตเหล็กดิบ 70.83 ล้านตันในเดือนตุลาคม ลดลง 6.9% จากเดือนกันยายน สาเหตุหลักคืออุปสงค์ก่อสร้างที่อ่อนแอและกำไรที่บาง มีโรงงานเพียงราวหนึ่งในสิบที่มีกำไร ปริมาณน้ำเหล็กยังลดลงต่อเนื่องเพราะโรงงานทางเหนือเริ่มซ่อมบำรุงช่วงฤดูหนาว ราคาแร่เหล็กทางทะเลทรงตัวราว 89 ดอลลาร์ต่อตัน ส่วนฟิวเจอร์สต้าเหลียนลดลง 0.23%
+IMP	Soft Chinese demand keeps regional steel prices low, which helps buyers but squeezes traders' margins.	อุปสงค์จีนที่อ่อนตัวทำให้ราคาเหล็กในภูมิภาคต่ำต่อไป เป็นผลดีต่อผู้ซื้อ แต่บีบมาร์จิ้นของผู้ค้า
+S		Crypto: Bitcoin regains $60,000 as short liquidations meet record ETF outflows	คริปโต: บิตคอยน์กลับมาเหนือ 60,000 ดอลลาร์จากการล้างสถานะชอร์ต ท่ามกลางเงินไหลออกจาก ETF เป็นสถิติ
+EN	Bitcoin dropped to about $57,200 during the stock sell-off, then bounced back above $60,000. The late rebound came from short liquidations, as bearish traders were forced to buy back. Demand underneath is weak. US spot Bitcoin ETFs have lost a record $4.94 billion in November, with six straight days of net outflow. Ether ETFs have bled for eight sessions, and analysts call the bounce fragile while a Fed hike looms.
+TH	บิตคอยน์ร่วงไปราว 57,200 ดอลลาร์ระหว่างที่หุ้นถูกเทขาย แล้วดีดกลับขึ้นเหนือ 60,000 ดอลลาร์ การฟื้นช่วงท้ายมาจากการล้างสถานะชอร์ต เมื่อนักเทรดฝั่งขาลงถูกบังคับให้ซื้อคืน แต่แรงซื้อจริงยังอ่อน ETF บิตคอยน์แบบสปอตในสหรัฐฯ มีเงินไหลออกเป็นสถิติ 4.94 พันล้านดอลลาร์ในเดือนพฤศจิกายน และไหลออกสุทธิหกวันติดต่อกัน ETF อีเธอร์ไหลออกแปดวันทำการ นักวิเคราะห์มองว่าการฟื้นตัวนี้ยังเปราะบางขณะที่เฟดใกล้ขึ้นดอกเบี้ย
+W	core PCE	ดัชนีราคา PCE พื้นฐาน	The Fed's preferred inflation gauge, excluding food and energy.	The PCE price index rose 3.8% from a year earlier, and core PCE climbed 0.3% for a third straight month, to 3.3% annually.
+W	rate hike	การขึ้นอัตราดอกเบี้ย	A central bank decision to raise its policy interest rate.	Futures now price roughly a 98% chance of a quarter-point rate hike on December 9.
+W	excess capacity	กำลังการผลิตส่วนเกิน	Production capacity well above what the market can absorb, which pushes down prices.	The USTR proposed new Section 301 tariffs on 14 economies it accuses of structural excess capacity in manufacturing.
+W	risk-off	ภาวะหลีกเลี่ยงความเสี่ยง	A market mood where investors sell risky assets and seek safety.	Thai stocks fell 23.15 points to 1,428.50 as investors moved to a risk-off stance before the US tariff decision.
+W	fund outflows	เงินทุนไหลออก	Money leaving a market or fund as investors withdraw.	Turnover was 66.9 billion baht, and analysts point to continuous fund outflows.
+W	thin margins	กำไรบาง	Profits that are very small relative to sales.	Weak construction demand and thin margins are the main causes, and only about one in ten mills is profitable.
+W	short liquidations	การล้างสถานะชอร์ต	Forced buybacks of bearish leveraged bets when prices rise against them.	The late rebound came from short liquidations, as bearish traders were forced to buy back.
+W	net outflow	เงินไหลออกสุทธิ	When more money leaves a fund than comes in over a period.	US spot Bitcoin ETFs have lost a record $4.94 billion in November, with six straight days of net outflow.
+Q	How would an 18% US tariff change the cost competitiveness of Thai manufactured exports versus Vietnam?
+Q	If the Fed hikes in December, how far could USD/THB move in early 2027?

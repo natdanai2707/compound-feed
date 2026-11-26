@@ -1,5 +1,6 @@
 # Compound feed: file, type, date, title, created_at, hash (newest first)
 concept-2026-11-26.epub	concept	2026-11-26	Family governance: the oyster sauce family that wrote its own rules	2026-11-25T23:45:59+00:00	de2d8067d5e5
+news-2026-11-26.epub	news	2026-11-26	Hot inflation seals a Fed hike as US tariff plan hits Thailand	2026-11-25T23:15:55Z	ddebfc772904
 concept-2026-11-25.epub	concept	2026-11-25	How cinemas really make money: tickets, popcorn and rent	2026-11-24T23:55:00Z	4380cdae30bd
 news-2026-11-25.epub	news	2026-11-25	Chip rout hits Nasdaq as Dow reclaims 50,000	2026-11-25T06:15:33+07:00	cda781921cdc
 concept-2026-11-24.epub	concept	2026-11-24	The nuclear bet that forced Toshiba to sell its best business	2026-11-23T23:46:40+00:00	19f7d5ab1521
@@ -28,4 +29,3 @@ concept-2026-11-13.epub	concept	2026-11-13	How YETI sold a $300 cooler in a $30 
 news-2026-11-13.epub	news	2026-11-13	Hot inflation puts a December Fed hike on the table	2026-11-12T23:18:24+00:00	e86e16bb18af
 concept-2026-11-12.epub	concept	2026-11-12	How Pop Mart turned blind boxes into a US$5bn toy brand	2026-11-11T23:46:12+00:00	168be53f2c96
 news-2026-11-12.epub	news	2026-11-12	Rate hike fears meet an AI rebound	2026-11-11T23:15:23+00:00	4980228b562c
-concept-2026-11-11.epub	concept	2026-11-11	How Fastenal turned a small-town bolt shop into an US$8bn supplier by moving inside its customers' factories	2026-11-10T23:58:00Z	ec289fe7e6c5
