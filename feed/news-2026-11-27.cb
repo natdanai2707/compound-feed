@@ -1,0 +1,47 @@
+TYPE	news
+DATE	2026-11-27
+TITLE	Rate hikes everywhere, baht passes 34	ดอกเบี้ยขาขึ้นทั่วโลก บาทอ่อนทะลุ 34
+NOTE	US stocks: Wednesday Nov 25 close (US closed Thursday for Thanksgiving). SET: Thursday Nov 26 close. Others: latest Thursday quotes.
+M	S&P 500	7,182.78	−0.25%	
+M	Nasdaq	23,585.80	−0.62%	
+M	SET	1,414.44	−0.98%	
+M	USD/THB	34.04	−0.02%	Near 19-month baht low
+M	Gold	$3,565	−0.6%	Spot, Thu
+M	Brent	$95.58	+1.03%	Jan contract, Thu intraday
+M	US 10Y	4.85%	−6 bp	Thu, thin holiday trade
+M	Iron ore	$90.64/t	−0.03%	Nov 25
+M	Bitcoin	$60,734	+4.7%	
+M	Ethereum	$1,704	+4.5%	
+S		Hot US data locks in a December Fed hike	ข้อมูลสหรัฐฯ ร้อนแรง ตลาดมั่นใจเฟดขึ้นดอกเบี้ยเดือนธันวาคม
+EN	Wall Street ended a volatile session lower on Wednesday before the Thanksgiving break. The S&P 500 fell as much as 3.2% intraday but closed down only 0.25%. October core PCE inflation came in at 3.3%, the highest since 2023, and Q3 GDP was revised up to 4.3%. Futures now price a rate hike on December 9 as almost certain. New tariff proposals on 14 trading partners, with the highest rates on China, added to the pressure.
+TH	วอลล์สตรีทปิดลบในวันพุธหลังการซื้อขายผันผวนก่อนวันหยุดขอบคุณพระเจ้า ดัชนี S&P 500 ร่วงลงถึง 3.2% ระหว่างวัน แต่ปิดลดลงเพียง 0.25% เงินเฟ้อ PCE พื้นฐานเดือนตุลาคมอยู่ที่ 3.3% สูงสุดตั้งแต่ปี 2023 และ GDP ไตรมาส 3 ถูกปรับขึ้นเป็น 4.3% ตลาดฟิวเจอร์สให้น้ำหนักเกือบแน่นอนว่าเฟดจะขึ้นดอกเบี้ยในวันที่ 9 ธันวาคม ข้อเสนอภาษีนำเข้าใหม่ต่อคู่ค้า 14 ประเทศ โดยจีนโดนอัตราสูงสุด ยิ่งเพิ่มแรงกดดัน
+IMP	A higher Fed rate keeps the dollar strong and pushes up USD borrowing costs for importers.	ดอกเบี้ยเฟดที่สูงขึ้นทำให้ดอลลาร์แข็งค่าและต้นทุนกู้ยืมสกุลดอลลาร์ของผู้นำเข้าสูงขึ้น
+S		ECB, BOJ and Bank of Korea all lean hawkish	ECB, BOJ และธนาคารกลางเกาหลี ต่างส่งสัญญาณเข้มงวด
+EN	Tightening is spreading beyond the Fed. The Bank of Korea raised its base rate by 25 basis points to 3.25% in a 5 to 2 vote. ECB meeting accounts showed many members could have backed a hike in October, and markets now see a December move as likely. BOJ board member Naoki Tamura said the 1.25% policy rate should move toward a neutral level as quickly as possible. Global stocks still rebounded on Thursday, led by Asian tech and a near 2% jump in the DAX.
+TH	การคุมเข้มนโยบายการเงินกำลังขยายวงออกไปนอกเหนือจากเฟด ธนาคารกลางเกาหลีขึ้นดอกเบี้ยนโยบาย 25 จุดเป็น 3.25% ด้วยมติ 5 ต่อ 2 บันทึกการประชุม ECB ระบุว่าสมาชิกจำนวนมากพร้อมสนับสนุนการขึ้นดอกเบี้ยตั้งแต่เดือนตุลาคม และตลาดมองว่ามีโอกาสสูงที่จะขึ้นในเดือนธันวาคม นาโอกิ ทามูระ กรรมการ BOJ กล่าวว่าดอกเบี้ยนโยบาย 1.25% ควรขยับเข้าใกล้ระดับเป็นกลางให้เร็วที่สุด อย่างไรก็ตาม หุ้นทั่วโลกยังฟื้นตัวในวันพฤหัสบดี นำโดยหุ้นเทคโนโลยีเอเชีย และดัชนี DAX ที่พุ่งเกือบ 2%
+IMP	With every major central bank tightening, pressure grows on the BOT's 1.00% rate.	เมื่อธนาคารกลางหลักทั่วโลกต่างคุมเข้ม แรงกดดันต่อดอกเบี้ยนโยบาย 1.00% ของ ธปท. ก็เพิ่มขึ้น
+S		SET slides as Nvidia halts Southeast Asia server deliveries	SET ร่วง หลัง Nvidia ระงับส่งเซิร์ฟเวอร์ไปอาเซียน
+EN	The SET closed at 1,414.44, down 0.98%, after fading from an intraday high of 1,442. Reports that Nvidia told partners to pause server deliveries to Thailand, Malaysia, Singapore and Indonesia hit power, construction and industrial estate stocks. Foreign selling continued. The return of normal short selling rules on November 16 also weighed, with short sales reaching nearly 15% of turnover on Wednesday. On trade, a preliminary US Section 301 ruling proposed tariffs of no more than 18% on Thai goods, below Vietnam's 35%.
+TH	SET ปิดที่ 1,414.44 จุด ลดลง 0.98% หลังย่อตัวจากจุดสูงสุดระหว่างวันที่ 1,442 จุด รายงานว่า Nvidia สั่งพันธมิตรให้ระงับการส่งเซิร์ฟเวอร์ไปยังไทย มาเลเซีย สิงคโปร์ และอินโดนีเซีย กดดันหุ้นโรงไฟฟ้า รับเหมาก่อสร้าง และนิคมอุตสาหกรรม ต่างชาติยังขายต่อเนื่อง การกลับมาใช้กฎ short selling ตามปกติตั้งแต่ 16 พฤศจิกายนก็เป็นแรงกดดัน โดยสัดส่วนการขายชอร์ตแตะเกือบ 15% ของมูลค่าซื้อขายในวันพุธ ด้านการค้า ผลเบื้องต้นของการไต่สวนมาตรา 301 ของสหรัฐฯ เสนอภาษีสินค้าไทยไม่เกิน 18% ต่ำกว่าเวียดนามที่ 35%
+IMP	Data center and industrial estate demand is a key driver for steel; delays there hit structural orders.	ความต้องการดาต้าเซ็นเตอร์และนิคมอุตสาหกรรมเป็นตัวขับเคลื่อนสำคัญของเหล็ก ความล่าช้าจะกระทบงานโครงสร้างเหล็ก
+S		Baht crosses 34 per dollar, BOT stays calm	บาทอ่อนทะลุ 34 ต่อดอลลาร์ ธปท. ยังไม่กังวล
+EN	The baht weakened past 34 per dollar, its softest level in over 19 months, before steadying at about 34.04. It has lost roughly 7.8% this year. BOT Governor Vitai Ratanakorn said the move reflects the strong dollar, gold prices and growth gaps, not the rate differential. He said the bank will act only if volatility becomes excessive. The policy rate is 1.00%, while October inflation hit 3.9%, above target.
+TH	ค่าเงินบาทอ่อนค่าทะลุ 34 บาทต่อดอลลาร์ ระดับอ่อนสุดในรอบกว่า 19 เดือน ก่อนทรงตัวราว 34.04 บาท ปีนี้บาทอ่อนลงราว 7.8% ผู้ว่าการ ธปท. วิทัย รัตนากร กล่าวว่าการเคลื่อนไหวนี้สะท้อนดอลลาร์ที่แข็งค่า ราคาทองคำ และความต่างของการเติบโต ไม่ใช่ส่วนต่างดอกเบี้ย และ ธปท. จะเข้าดูแลเฉพาะเมื่อความผันผวนสูงเกินไป ดอกเบี้ยนโยบายอยู่ที่ 1.00% ขณะที่เงินเฟ้อเดือนตุลาคมแตะ 3.9% สูงกว่ากรอบเป้าหมาย
+IMP	A weaker baht raises the cost of imported steel and oil; consider hedging USD payables.	บาทอ่อนทำให้ต้นทุนเหล็กและน้ำมันนำเข้าสูงขึ้น ควรพิจารณาป้องกันความเสี่ยงหนี้สกุลดอลลาร์
+S		Oil rallies before OPEC+, gold and iron ore stay weak	น้ำมันพุ่งก่อนประชุม OPEC+ ทองคำและแร่เหล็กยังอ่อนแอ
+EN	Brent rose for a third session to about $95.58 after the Houthis claimed an attack on Saudi Arabia's Ras Tanura refinery. OPEC+ meets on Sunday to set 2027 output policy. Gold fell about 0.6% to near $3,565, down more than 12% this month, as rate hike bets lift real yields. Iron ore holds near $90 a tonne. Chinese mills face thin margins, high port stocks and winter output curbs, so analysts see a floor but no strong rebound.
+TH	ราคาน้ำมันเบรนท์ปรับขึ้นเป็นวันที่สามสู่ราว 95.58 ดอลลาร์ หลังกลุ่มฮูตีอ้างว่าโจมตีโรงกลั่นราสทานูราของซาอุดีอาระเบีย OPEC+ จะประชุมวันอาทิตย์เพื่อกำหนดนโยบายการผลิตปี 2027 ทองคำลดลงราว 0.6% ใกล้ 3,565 ดอลลาร์ ร่วงกว่า 12% ในเดือนนี้ เพราะคาดการณ์การขึ้นดอกเบี้ยดันผลตอบแทนที่แท้จริงสูงขึ้น แร่เหล็กทรงตัวใกล้ 90 ดอลลาร์ต่อตัน โรงเหล็กจีนเผชิญกำไรบาง สต็อกที่ท่าเรือสูง และการลดกำลังผลิตช่วงฤดูหนาว นักวิเคราะห์มองว่าราคามีจุดต่ำสุดแล้วแต่ยังไม่ฟื้นแรง
+IMP	Soft iron ore keeps regional steel prices low, but a weak baht and higher oil push landed costs up.	แร่เหล็กที่อ่อนตัวกดราคาเหล็กในภูมิภาค แต่บาทอ่อนและน้ำมันแพงทำให้ต้นทุนนำเข้าถึงมือสูงขึ้น
+S		Crypto: Bitcoin bounces to $60K despite record ETF outflows	คริปโต: บิตคอยน์ดีดกลับสู่ 60,000 ดอลลาร์ แม้เงินไหลออกจาก ETF ทำสถิติ
+EN	Bitcoin rose about 4.7% in 24 hours to near $60,700, and Ether gained 4.5% to about $1,700. Traders called it a relief bounce in thin holiday trading, helped by lower Treasury yields. The flows tell a weaker story. Spot bitcoin ETFs posted a net outflow of $453 million on Wednesday, the seventh straight day, led by BlackRock's IBIT. November outflows have reached a record $5.39 billion.
+TH	บิตคอยน์ขึ้นราว 4.7% ใน 24 ชั่วโมงสู่ระดับใกล้ 60,700 ดอลลาร์ และอีเธอร์บวก 4.5% สู่ราว 1,700 ดอลลาร์ นักเทรดมองว่าเป็นการดีดกลับทางเทคนิคในช่วงวันหยุดที่สภาพคล่องเบาบาง โดยได้แรงหนุนจากอัตราผลตอบแทนพันธบัตรสหรัฐฯ ที่ลดลง แต่ตัวเลขเงินทุนบอกอีกเรื่อง ETF บิตคอยน์แบบสปอตมีเงินไหลออกสุทธิ 453 ล้านดอลลาร์ในวันพุธ เป็นวันที่เจ็ดติดต่อกัน นำโดย IBIT ของ BlackRock เงินไหลออกทั้งเดือนพฤศจิกายนทำสถิติที่ 5,390 ล้านดอลลาร์
+W	rate hike	การขึ้นอัตราดอกเบี้ย	An increase in a central bank's policy interest rate.	Futures now price a rate hike on December 9 as almost certain.
+W	intraday	ระหว่างวัน	During a single trading session, before the close.	The S&P 500 fell as much as 3.2% intraday but closed down only 0.25%.
+W	neutral level	ระดับเป็นกลาง	The interest rate that neither speeds up nor slows down the economy.	BOJ board member Naoki Tamura said the 1.25% policy rate should move toward a neutral level as quickly as possible.
+W	short selling	การขายชอร์ต	Selling borrowed shares in the hope of buying them back cheaper later.	The return of normal short selling rules on November 16 also weighed, with short sales reaching nearly 15% of turnover on Wednesday.
+W	rate differential	ส่วนต่างอัตราดอกเบี้ย	The gap between interest rates in two countries, which can move currencies.	BOT Governor Vitai Ratanakorn said the move reflects the strong dollar, gold prices and growth gaps, not the rate differential.
+W	output curbs	การจำกัดกำลังการผลิต	Limits on how much a factory or industry is allowed to produce.	Chinese mills face thin margins, high port stocks and winter output curbs, so analysts see a floor but no strong rebound.
+W	relief bounce	การดีดกลับทางเทคนิค	A short price recovery after heavy selling, often without a new driver.	Traders called it a relief bounce in thin holiday trading, helped by lower Treasury yields.
+W	net outflow	เงินไหลออกสุทธิ	When more money leaves a fund than comes in over a period.	Spot bitcoin ETFs posted a net outflow of $453 million on Wednesday, the seventh straight day, led by BlackRock's IBIT.
+Q	If the Fed hikes on December 9, how far could the baht weaken before the BOT steps in?
+Q	How would an 18% US tariff on Thai goods change demand for local steel fabrication?
