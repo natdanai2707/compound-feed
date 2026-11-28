@@ -1,0 +1,46 @@
+TYPE	news
+DATE	2026-11-28
+TITLE	AI rebound lifts Wall Street as rate hikes return	หุ้น AI ฟื้นดันวอลล์สตรีท ขณะที่การขึ้นดอกเบี้ยกลับมา
+NOTE	Saturday edition: Friday Nov 27 closes (US half-day session); crypto as of Friday evening US time.
+M	S&P 500	7,297.49	+1.60%	
+M	Nasdaq	24,129.50	+2.31%	
+M	SET	1,440.29	+1.83%	
+M	USD/THB	34.05	+0.05%	
+M	Gold	$3,668.50	+2.91%	Futures
+M	Brent	$94.00	−2.48%	Late Friday
+M	US 10Y	4.94%	+9 bp	
+M	Iron ore	¥668/t	+0%	Dalian weekly high; sideways week
+M	Bitcoin	$59,781	−1.2%	
+M	Ethereum	$1,666	−1.3%	
+S		Wall Street ends best week in 19 months	วอลล์สตรีทปิดสัปดาห์ดีที่สุดในรอบ 19 เดือน
+EN	US stocks rallied in Friday's half-day session after Thanksgiving. The S&P 500 rose 1.6% and the Nasdaq jumped 2.3% as AI and chip stocks bounced back. Investors worried less about AI profitability, and Micron gained more than 7%. Amazon rose almost 4% on strong early Black Friday data. The chip index still ended the week lower, so the rebound is not complete.
+TH	หุ้นสหรัฐฯ พุ่งขึ้นในการซื้อขายครึ่งวันหลังวันขอบคุณพระเจ้า S&P 500 เพิ่มขึ้น 1.6% และ Nasdaq พุ่ง 2.3% จากการฟื้นตัวของหุ้น AI และชิป นักลงทุนกังวลเรื่องกำไรจาก AI น้อยลง Micron ขึ้นกว่า 7% Amazon ขึ้นเกือบ 4% จากข้อมูลยอดขาย Black Friday ช่วงแรกที่แข็งแกร่ง อย่างไรก็ดี ดัชนีชิปยังปิดสัปดาห์ติดลบ การฟื้นตัวจึงยังไม่สมบูรณ์
+S		Markets price a Fed rate hike in December	ตลาดคาด Fed ขึ้นดอกเบี้ยในเดือนธันวาคม
+EN	The global rate cycle has turned back toward tightening. Minutes from the Fed's October meeting showed broad support for a rate hike, and markets now see a December move as almost certain. The ECB and the BOJ are also expected to raise rates as the Middle East energy shock lifts inflation. The US 10-year yield climbed to about 4.94% after Q3 GDP was revised up to 4.3%.
+TH	วัฏจักรดอกเบี้ยโลกกลับสู่ทิศทางเข้มงวดอีกครั้ง บันทึกการประชุม Fed เดือนตุลาคมแสดงว่ากรรมการส่วนใหญ่สนับสนุนการขึ้นดอกเบี้ย และตลาดมองว่าการขึ้นดอกเบี้ยในเดือนธันวาคมแทบแน่นอน ECB และ BOJ ก็คาดว่าจะขึ้นดอกเบี้ยเช่นกัน เพราะวิกฤตพลังงานตะวันออกกลางดันเงินเฟ้อสูงขึ้น อัตราผลตอบแทนพันธบัตรสหรัฐฯ 10 ปีขึ้นไปราว 4.94% หลัง GDP ไตรมาส 3 ถูกปรับขึ้นเป็น 4.3%
+IMP	Higher US rates keep pressure on the baht and on Thai borrowing costs for working capital.	ดอกเบี้ยสหรัฐฯ ที่สูงขึ้นกดดันค่าเงินบาทและต้นทุนเงินกู้หมุนเวียนของธุรกิจไทย
+S		Oil swings ahead of Sunday's OPEC+ meeting	น้ำมันผันผวนก่อนการประชุม OPEC+ วันอาทิตย์
+EN	Brent touched about $96.6 early Friday after Houthi attacks on Saudi energy sites and new incidents near the Strait of Hormuz. Prices then fell back to around $94 as tanker traffic stayed steady. OPEC+ meets on Sunday to set 2027 output policy, and members may keep current quotas through January. The IEA still expects a supply surplus this quarter.
+TH	ราคาน้ำมันเบรนท์แตะราว 96.6 ดอลลาร์ช่วงเช้าวันศุกร์ หลังกลุ่มฮูตีโจมตีสถานที่ด้านพลังงานของซาอุดีอาระเบีย และมีเหตุการณ์ใหม่ใกล้ช่องแคบฮอร์มุซ จากนั้นราคาลดลงมาที่ราว 94 ดอลลาร์ เพราะการเดินเรือบรรทุกน้ำมันยังเป็นปกติ OPEC+ จะประชุมวันอาทิตย์เพื่อกำหนดนโยบายการผลิตปี 2027 และอาจคงโควตาปัจจุบันไว้ถึงเดือนมกราคม ขณะที่ IEA ยังคาดว่าอุปทานจะล้นตลาดในไตรมาสนี้
+IMP	Fuel and freight costs for steel delivery stay high while Brent sits above $90.	ต้นทุนเชื้อเพลิงและค่าขนส่งเหล็กยังสูง ตราบใดที่เบรนท์อยู่เหนือ 90 ดอลลาร์
+S		SET jumps 1.8% as exports surge	SET พุ่ง 1.8% รับการส่งออกที่แข็งแกร่ง
+EN	The SET index rose 1.83% to 1,440.29 on Friday, following the global tech rally. Analysts had called the market oversold after weeks of foreign selling. Foreign investors were roughly flat on the day but remain net sellers of about 14.5 billion baht this month. October exports grew 27.5% year on year, the 28th straight month of growth. Inflation at 3.9% in October makes the Bank of Thailand's 1% policy rate harder to defend.
+TH	ดัชนี SET เพิ่มขึ้น 1.83% ปิดที่ 1,440.29 จุดในวันศุกร์ ตามการฟื้นตัวของหุ้นเทคโนโลยีทั่วโลก นักวิเคราะห์มองว่าตลาดอยู่ในภาวะขายมากเกินไปหลังต่างชาติขายต่อเนื่องหลายสัปดาห์ วันนี้ต่างชาติซื้อขายเกือบสมดุล แต่ยังขายสุทธิราว 14,500 ล้านบาทในเดือนนี้ การส่งออกเดือนตุลาคมเติบโต 27.5% เมื่อเทียบปีก่อน เป็นการเติบโตต่อเนื่องเดือนที่ 28 เงินเฟ้อเดือนตุลาคมที่ 3.9% ทำให้ธนาคารแห่งประเทศไทยคงดอกเบี้ยนโยบาย 1% ได้ยากขึ้น
+IMP	Rising Thai inflation raises the odds of a BOT hike, which would lift your loan costs in 2027.	เงินเฟ้อไทยที่สูงขึ้นเพิ่มโอกาสที่ ธปท. จะขึ้นดอกเบี้ย ซึ่งจะทำให้ต้นทุนเงินกู้ของคุณสูงขึ้นในปี 2027
+S		China steel output slips, iron ore holds	การผลิตเหล็กจีนลดลง แร่เหล็กทรงตัว
+EN	China's daily hot metal output fell by 12,000 tonnes this week to about 2.34 million tonnes. Environmental curbs in northern China and mill maintenance cut production. Dalian iron ore futures touched 668 yuan a tonne before easing, so prices moved sideways. More cargoes from the new Simandou mine should reach China in December and could cap prices.
+TH	ผลผลิตเหล็กถลุงรายวันของจีนลดลง 12,000 ตันในสัปดาห์นี้ เหลือราว 2.34 ล้านตัน จากมาตรการด้านสิ่งแวดล้อมในภาคเหนือของจีนและการซ่อมบำรุงโรงงาน สัญญาซื้อขายล่วงหน้าแร่เหล็กที่ต้าเหลียนแตะ 668 หยวนต่อตันก่อนอ่อนตัวลง ราคาจึงเคลื่อนไหวในกรอบ คาดว่าการขนส่งจากเหมือง Simandou แห่งใหม่จะถึงจีนมากขึ้นในเดือนธันวาคม และอาจจำกัดการขึ้นของราคา
+IMP	Flat ore and weaker Chinese output point to stable regional steel prices into December, a good window to lock in stock.	ราคาแร่ที่ทรงตัวและการผลิตของจีนที่ลดลงบ่งชี้ว่าราคาเหล็กในภูมิภาคจะทรงตัวถึงเดือนธันวาคม เป็นจังหวะดีในการสต็อกสินค้า
+S		Crypto: Bitcoin slips below $60,000 on record ETF outflows	คริปโต: บิตคอยน์หลุด 60,000 ดอลลาร์ จากเงินไหลออกจาก ETF เป็นสถิติ
+EN	Bitcoin briefly rose above $61,000 on Friday but fell back below $60,000 and ended the day down about 1%. Crypto missed the equity rally completely. US spot bitcoin ETFs have seen record net outflows of $5.39 billion in November, and ether funds lost $1.3 billion. Borrowers are selling coins to repay loans, which adds to liquidations. About $7 billion of bitcoin options expired in thin holiday trading, which made the swings bigger.
+TH	บิตคอยน์ขึ้นไปเหนือ 61,000 ดอลลาร์ชั่วครู่ในวันศุกร์ แต่ร่วงกลับต่ำกว่า 60,000 ดอลลาร์ และปิดวันลดลงราว 1% คริปโตไม่ได้ขึ้นตามตลาดหุ้นเลย ETF บิตคอยน์แบบสปอตในสหรัฐฯ มีเงินไหลออกสุทธิเป็นสถิติ 5,390 ล้านดอลลาร์ในเดือนพฤศจิกายน และกองทุนอีเธอร์สูญเงิน 1,300 ล้านดอลลาร์ ผู้กู้ขายเหรียญเพื่อชำระหนี้ ซึ่งเพิ่มแรงบังคับขาย ออปชันบิตคอยน์มูลค่าราว 7,000 ล้านดอลลาร์หมดอายุในช่วงวันหยุดที่สภาพคล่องต่ำ ทำให้ราคาเหวี่ยงแรงขึ้น
+W	half-day session	การซื้อขายครึ่งวัน	A shortened trading day, usually around a holiday.	US stocks rallied in Friday's half-day session after Thanksgiving.
+W	rate hike	การขึ้นอัตราดอกเบี้ย	A central bank decision to raise its policy interest rate.	Minutes from the Fed's October meeting showed broad support for a rate hike, and markets now see a December move as almost certain.
+W	supply surplus	อุปทานส่วนเกิน	A market condition where production is greater than demand.	The IEA still expects a supply surplus this quarter.
+W	oversold	ภาวะขายมากเกินไป	A price that has fallen so far, so fast, that a bounce is likely.	Analysts had called the market oversold after weeks of foreign selling.
+W	net sellers	ผู้ขายสุทธิ	Investors who sold more than they bought over a period.	Foreign investors were roughly flat on the day but remain net sellers of about 14.5 billion baht this month.
+W	hot metal output	ผลผลิตเหล็กถลุง	The amount of molten iron blast furnaces produce, a key gauge of steel demand for ore.	China's daily hot metal output fell by 12,000 tonnes this week to about 2.34 million tonnes.
+W	net outflows	เงินไหลออกสุทธิ	More money leaving a fund than coming in.	US spot bitcoin ETFs have seen record net outflows of $5.39 billion in November, and ether funds lost $1.3 billion.
+W	liquidations	การบังคับขาย	Forced selling of positions when borrowers can no longer cover their loans.	Borrowers are selling coins to repay loans, which adds to liquidations.
+Q	If the BOT hikes in early 2027, how much would that add to your annual interest cost on current loans?
+Q	Does flat iron ore plus higher freight make December a good time to build steel inventory?
